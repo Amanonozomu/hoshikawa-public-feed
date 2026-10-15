@@ -1,0 +1,121 @@
+{
+    "schema_version":  1,
+    "collected_at_jst":  "2026-10-15T19:49:18.0331292+09:00",
+    "first_successful_run_baseline":  true,
+    "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
+    "accounts":  [
+                     {
+                         "profile":  "https://x.com/Sara_Hoshikawa",
+                         "checked_at_jst":  "2026-10-15T19:49:18.2246875+09:00",
+                         "http_status":  200,
+                         "state":  "posts_with_text",
+                         "posts_with_text":  5
+                     },
+                     {
+                         "profile":  "https://x.com/Hoshikawa_sub",
+                         "checked_at_jst":  "2026-10-15T19:49:19.5245736+09:00",
+                         "http_status":  200,
+                         "state":  "posts_with_text",
+                         "posts_with_text":  5
+                     },
+                     {
+                         "profile":  "https://x.com/nijisanji_app",
+                         "checked_at_jst":  "2026-10-15T19:49:20.5337955+09:00",
+                         "http_status":  200,
+                         "state":  "posts_with_text",
+                         "posts_with_text":  5
+                     }
+                 ],
+    "recently_discovered_ids":  [
+
+                                ],
+    "recent_posts_48h":  [
+                             {
+                                 "id":  "2110683359248830479",
+                                 "url":  "https://x.com/nijisanji_app/status/2110683359248830479",
+                                 "text":  "【 #ぷちさんじ 】最新話を公開📺 お返しに愛嬌を求められるローレン・イロアスとイブラヒム【漫画】 @ Lauren_iroas @ honmono_ibrahim @ Seffyna2434 @ RohaLee2434 ▼YouTubeはコチラ youtube.com/shorts/ySXEspq…",
+                                 "published_at_jst":  "2026-10-15T19:45:02.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-15T19:49:18.0331292+09:00"
+                             },
+                             {
+                                 "id":  "2110672179570647508",
+                                 "url":  "https://x.com/nijisanji_app/status/2110672179570647508",
+                                 "text":  "【 #にじたうん 9ちょうめ 販売決定！】 10/16(金)19:00より #にじストア にて『にじたうん 9ちょうめ』の販売が決定しました！ 詳細はツリーをチェック！",
+                                 "published_at_jst":  "2026-10-15T19:00:36.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-15T19:49:18.0331292+09:00"
+                             },
+                             {
+                                 "id":  "2110668296072855633",
+                                 "url":  "https://x.com/nijisanji_app/status/2110668296072855633",
+                                 "text":  "─ ꘜ ─ ─────────── #虚空狂宴 このあと同時視聴配信 ─────────── ─ ꘜ ─ 剣持刀也リアルソロライブ【虚空狂宴】 にじさんじ公式YouTubeチャンネルにて、この後19:00より同時視聴配信を開始いたします。 ▼ 日時 10月15日(木)19:00〜 ▼ 出演者 #える #北見遊征 Show more",
+                                 "published_at_jst":  "2026-10-15T18:45:10.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-15T19:49:18.0331292+09:00"
+                             },
+                             {
+                                 "id":  "2110664588765385056",
+                                 "url":  "https://x.com/nijisanji_app/status/2110664588765385056",
+                                 "text":  "／ #MECHATUA_1stLIVE Overseas Streaming Ticket Information🎫 ＼ Archived streams are now available!✨ 🔽Archived Stream ～2026.10.28(Wed) 23:59 (JST) 🔽Tickets On Sale intl.stagecrowd.live/mechatu-a_1stl… 🔽Inquiry intl.stagecrowd.live/inquiry_mechat… 🔽Special Website nijisanji.jp/events/mechatu…",
+                                 "published_at_jst":  "2026-10-15T18:30:26.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-15T19:49:18.0331292+09:00"
+                             },
+                             {
+                                 "id":  "2110659509056422090",
+                                 "url":  "https://x.com/nijisanji_app/status/2110659509056422090",
+                                 "text":  "ご好評につき一部完売しておりました『劇場版 七次元生徒会！ 〜ずっと一緒大作戦！〜』グッズにつきまして、 【10/16(金)18:00】より在庫追加を行います。 商品ページ▼ shop.nijisanji.jp/TAG_1022 #七次元生徒会_ミュージカル #にじストア",
+                                 "published_at_jst":  "2026-10-15T18:10:15.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-15T19:49:18.0331292+09:00"
+                             },
+                             {
+                                 "id":  "2110656935083057624",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2110656935083057624",
+                                 "text":  "🌟今日20:00 ⸝⸝ ⭑ こんちゃ～～～～！！！🎀 完全初見✨BLEACH Rebirth of Souls！ 激アツ展開になりました。4章クリアまでいくぞ！！ youtube.com/live/14F4pGKu_…",
+                                 "published_at_jst":  "2026-10-15T18:00:02.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-15T19:49:18.0331292+09:00"
+                             },
+                             {
+                                 "id":  "2110655990974792059",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2110655990974792059",
+                                 "text":  "🎀short投稿したよ🎀 福岡女子組でおつかれSUMMER🎶 衣装チェンジ楽しい꒰⁔՞•⤙•՞⁔꒱ youtube.com/shorts/QUUg4LN…",
+                                 "published_at_jst":  "2026-10-15T17:56:16.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-15T19:49:18.0331292+09:00"
+                             },
+                             {
+                                 "id":  "2110641720505647122",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2110641720505647122",
+                                 "text":  "100万回再生てんきゅう꒰⁔՞•⤙•՞⁔꒱⚡️ Overdose／星川サラ (cover) youtu.be/zHIhSbi8s70?si…",
+                                 "published_at_jst":  "2026-10-15T16:59:34.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-15T19:49:18.0331292+09:00"
+                             },
+                             {
+                                 "id":  "2110633820651462901",
+                                 "url":  "https://x.com/Hoshikawa_sub/status/2110633820651462901",
+                                 "text":  "最近予定詰め込みすぎてたからリフレッシュで4キロお散歩した！！🐾",
+                                 "published_at_jst":  "2026-10-15T16:28:11.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-15T19:49:18.0331292+09:00"
+                             },
+                             {
+                                 "id":  "2110317194215354631",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2110317194215354631",
+                                 "text":  "🌟今日21:00 ⸝⸝ ⭑ １から始める特訓スト６🔰 今日は立川に新しいこと教えてもらう日！！ youtube.com/live/Femruk-52…",
+                                 "published_at_jst":  "2026-10-14T19:30:01.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-15T19:49:18.0331292+09:00"
+                             },
+                             {
+                                 "id":  "2110297825166901721",
+                                 "url":  "https://x.com/Hoshikawa_sub/status/2110297825166901721",
+                                 "text":  "꒰⁔՞•⤙•՞⁔꒱ youtube.com/post/Ugkx7eJU_…",
+                                 "published_at_jst":  "2026-10-14T18:13:03.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-15T19:49:18.0331292+09:00"
+                             },
+                             {
+                                 "id":  "2110011086653260010",
+                                 "url":  "https://x.com/Hoshikawa_sub/status/2110011086653260010",
+                                 "text":  "今週の予定表遅れてるんだけど予定定まってないからまだ出せないかもごめん！期待せずでタノム",
+                                 "published_at_jst":  "2026-10-13T23:13:39.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-15T19:49:18.0331292+09:00"
+                             }
+                         ],
+    "undated_posts_unverified":  [
+
+                                 ]
+}
