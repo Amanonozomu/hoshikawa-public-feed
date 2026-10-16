@@ -1,39 +1,50 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-10-16T19:50:02.5313602+09:00",
+    "collected_at_jst":  "2026-10-16T20:50:02.5149796+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-10-16T19:50:02.8122349+09:00",
+                         "checked_at_jst":  "2026-10-16T20:50:03.4524401+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-10-16T19:50:04.1228794+09:00",
+                         "checked_at_jst":  "2026-10-16T20:50:04.7871522+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-10-16T19:50:05.0001286+09:00",
+                         "checked_at_jst":  "2026-10-16T20:50:05.8015589+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      }
                  ],
     "recently_discovered_ids":  [
-                                    "2111035730151854304",
-                                    "2111035980912460104",
-                                    "2111036198974378126",
-                                    "2111036440343871706",
-                                    "2111043256125669645"
+                                    "2111051680435548565",
+                                    "2111057136134521129"
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2111057136134521129",
+                                 "url":  "https://x.com/nijisanji_app/status/2111057136134521129",
+                                 "text":  "✦ ── ˖ ࣪ ⊹ ˚ ✧₊ 🌟 ₊✧ ˚ ⊹ ࣪ ˖ ── ✦ #星川サラ_ステラノート パッケージ写真を公開📸！ ──── ˖ ⋆⊹ ˖✧ ᧔᧓ ✧˖ ⊹⋆ ˖ ──── 星川サラ 2ndミニアルバム『Stella Note』 全形態のパッケージ写真を公開✨ 💐初回生産限定盤 CD(6曲収録) Show more",
+                                 "published_at_jst":  "2026-10-16T20:30:17.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-16T20:50:02.5149796+09:00"
+                             },
+                             {
+                                 "id":  "2111051680435548565",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2111051680435548565",
+                                 "text":  "こんちゃ〜〜꒰⁔՞•⤙•՞⁔꒱ 今おしごと終わって帰宅中🚗 ³₃ そしてなんと！CDリリースイベントのオンライントーク会もうすぐ締切のお知らせ！！！ 10/25(日)23:59までだよ〜！注意⚠️ 星川とお喋りしよ〜🧸🤍",
+                                 "published_at_jst":  "2026-10-16T20:08:36.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-16T20:50:02.5149796+09:00"
+                             },
                              {
                                  "id":  "2111043256125669645",
                                  "url":  "https://x.com/nijisanji_app/status/2111043256125669645",
