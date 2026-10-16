@@ -1,39 +1,74 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-10-16T18:50:02.4352051+09:00",
+    "collected_at_jst":  "2026-10-16T19:50:02.5313602+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-10-16T18:50:02.6887143+09:00",
+                         "checked_at_jst":  "2026-10-16T19:50:02.8122349+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-10-16T18:50:03.7141596+09:00",
+                         "checked_at_jst":  "2026-10-16T19:50:04.1228794+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-10-16T18:50:04.6136205+09:00",
+                         "checked_at_jst":  "2026-10-16T19:50:05.0001286+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      }
                  ],
     "recently_discovered_ids":  [
-                                    "2111020652539117752",
-                                    "2111021916417126561",
-                                    "2111024401915560154",
-                                    "2111026939519787160",
-                                    "2111030796501037281"
+                                    "2111035730151854304",
+                                    "2111035980912460104",
+                                    "2111036198974378126",
+                                    "2111036440343871706",
+                                    "2111043256125669645"
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2111043256125669645",
+                                 "url":  "https://x.com/nijisanji_app/status/2111043256125669645",
+                                 "text":  "初出勤のローレンはノルマ達成できたのか？ 気になる人は動画をチェック！ #ロクフリにじさんじ youtu.be/KQ5HppIsZ9w",
+                                 "published_at_jst":  "2026-10-16T19:35:08.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-16T19:50:02.5313602+09:00"
+                             },
+                             {
+                                 "id":  "2111036440343871706",
+                                 "url":  "https://x.com/nijisanji_app/status/2111036440343871706",
+                                 "text":  "「 #不破湊_2ndLIVE “VORTEX”」ライブグッズの事前販売は今週末10月18日(日)23:59まで。 詳細は引用元をチェック✨",
+                                 "published_at_jst":  "2026-10-16T19:08:03.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-16T19:50:02.5313602+09:00"
+                             },
+                             {
+                                 "id":  "2111036198974378126",
+                                 "url":  "https://x.com/nijisanji_app/status/2111036198974378126",
+                                 "text":  "༻࿐ ✦ ✧ ✦ ࿐༺ #不破湊_2ndLIVE ライブグッズ紹介⑤ ༻࿐ ✦ ✧ ✦ ࿐༺ サイズ違いのポーチ3個がセットになったマトリョシカポーチセットはとっても便利🎶 Show more",
+                                 "published_at_jst":  "2026-10-16T19:07:05.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-16T19:50:02.5313602+09:00"
+                             },
+                             {
+                                 "id":  "2111035980912460104",
+                                 "url":  "https://x.com/nijisanji_app/status/2111035980912460104",
+                                 "text":  "༻࿐ ✦ ✧ ✦ ࿐༺ #不破湊_2ndLIVE ライブグッズ紹介④ ༻࿐ ✦ ✧ ✦ ࿐༺ Show more",
+                                 "published_at_jst":  "2026-10-16T19:06:13.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-16T19:50:02.5313602+09:00"
+                             },
+                             {
+                                 "id":  "2111035730151854304",
+                                 "url":  "https://x.com/nijisanji_app/status/2111035730151854304",
+                                 "text":  "༻࿐ ✦ ✧ ✦ ࿐༺ #不破湊_2ndLIVE ライブグッズ紹介③ ༻࿐ ✦ ✧ ✦ ࿐༺ キルティングトートは縦型サイズのフワッチクルーラー柄で使いやすい！ どうやら一部の形にだけこっそりと顔が…？👀 Show more",
+                                 "published_at_jst":  "2026-10-16T19:05:13.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-16T19:50:02.5313602+09:00"
+                             },
                              {
                                  "id":  "2111030796501037281",
                                  "url":  "https://x.com/nijisanji_app/status/2111030796501037281",
@@ -200,13 +235,6 @@
                                  "url":  "https://x.com/Hoshikawa_sub/status/2110633820651462901",
                                  "text":  "最近予定詰め込みすぎてたからリフレッシュで4キロお散歩した！！🐾",
                                  "published_at_jst":  "2026-10-15T16:28:11.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-15T19:49:18.0331292+09:00"
-                             },
-                             {
-                                 "id":  "2110317194215354631",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2110317194215354631",
-                                 "text":  "🌟今日21:00 ⸝⸝ ⭑ １から始める特訓スト６🔰 今日は立川に新しいこと教えてもらう日！！ youtube.com/live/Femruk-52…",
-                                 "published_at_jst":  "2026-10-14T19:30:01.0000000+09:00",
                                  "first_seen_at_jst":  "2026-10-15T19:49:18.0331292+09:00"
                              }
                          ],
