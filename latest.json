@@ -1,35 +1,66 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-10-16T15:50:02.5374588+09:00",
+    "collected_at_jst":  "2026-10-16T16:50:02.4964498+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-10-16T15:50:03.4352648+09:00",
+                         "checked_at_jst":  "2026-10-16T16:50:02.7424702+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-10-16T15:50:04.3666469+09:00",
+                         "checked_at_jst":  "2026-10-16T16:50:03.9878458+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-10-16T15:50:05.5003004+09:00",
+                         "checked_at_jst":  "2026-10-16T16:50:04.8650604+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      }
                  ],
     "recently_discovered_ids":  [
-
+                                    "2110989298292179451",
+                                    "2110989428013592936",
+                                    "2110989653084156087",
+                                    "2110989896181826030"
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2110989896181826030",
+                                 "url":  "https://x.com/nijisanji_app/status/2110989896181826030",
+                                 "text":  "【常設】VTAオーディション募集開始！ 詳細はプレスリリース、応募フォームをご覧ください。 ■プレスリリース prtimes.jp/main/html/rd/p… ■応募フォーム forms.gle/Gq5iq4VNKvUdY7… ご応募お待ちしております！",
+                                 "published_at_jst":  "2026-10-16T16:03:06.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-16T16:50:02.4964498+09:00"
+                             },
+                             {
+                                 "id":  "2110989653084156087",
+                                 "url":  "https://x.com/nijisanji_app/status/2110989653084156087",
+                                 "text":  "【その歌声で、震わせろ】 実力派ボーカルオーディション募集開始！ 詳細はプレスリリース、応募フォームをご覧ください。 ■期間 ～11/9(月)12:00まで ■プレスリリース prtimes.jp/main/html/rd/p… ■応募フォーム forms.gle/U29wTmH9LkESFD… ご応募お待ちしております！",
+                                 "published_at_jst":  "2026-10-16T16:02:08.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-16T16:50:02.4964498+09:00"
+                             },
+                             {
+                                 "id":  "2110989428013592936",
+                                 "url":  "https://x.com/nijisanji_app/status/2110989428013592936",
+                                 "text":  "【アツいヤツら、出番だぜ】 その生き様、見せてやれ！にじさんじ VTAオーディション募集開始！ 詳細はプレスリリース、応募フォームをご覧ください。 ■期間 ～11/9(月)12:00まで ■プレスリリース prtimes.jp/main/html/rd/p… ■応募フォーム forms.gle/jL1JukG1J7sh1H… ご応募お待ちしております！",
+                                 "published_at_jst":  "2026-10-16T16:01:14.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-16T16:50:02.4964498+09:00"
+                             },
+                             {
+                                 "id":  "2110989298292179451",
+                                 "url":  "https://x.com/nijisanji_app/status/2110989298292179451",
+                                 "text":  "【キミたちで時代を創れ！】 新星、集結！にじさんじ VTA男性グループオーディション募集開始！ 詳細はプレスリリース、応募フォームをご覧ください。 ■期間 ～11/9(月)12:00まで ■プレスリリース prtimes.jp/main/html/rd/p… ■応募フォーム forms.gle/rgwXerxb4w9822… ご応募お待ちしております！",
+                                 "published_at_jst":  "2026-10-16T16:00:43.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-16T16:50:02.4964498+09:00"
+                             },
                              {
                                  "id":  "2110943927641706638",
                                  "url":  "https://x.com/nijisanji_app/status/2110943927641706638",
