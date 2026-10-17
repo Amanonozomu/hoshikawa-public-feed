@@ -1,35 +1,82 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-10-17T21:50:02.0693744+09:00",
+    "collected_at_jst":  "2026-10-18T00:50:02.6361285+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-10-17T21:50:03.4596288+09:00",
+                         "checked_at_jst":  "2026-10-18T00:50:04.0030639+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-10-17T21:50:04.8538098+09:00",
+                         "checked_at_jst":  "2026-10-18T00:50:05.6007264+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-10-17T21:50:05.6414326+09:00",
+                         "checked_at_jst":  "2026-10-18T00:50:06.2238399+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      }
                  ],
     "recently_discovered_ids":  [
-
+                                    "2111453666003824725",
+                                    "2111455685796114486",
+                                    "2111456957798494359",
+                                    "2111475495745528229",
+                                    "2111442212919890356",
+                                    "2111472332674125830"
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2111475495745528229",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2111475495745528229",
+                                 "text":  "うおおおおおおおおおおおお出たあああああああああああああああああああああああああああああああああああああああ！！！！！！！*⌒(n\u0027ワ\u0027n)⌒🪄",
+                                 "published_at_jst":  "2026-10-18T00:12:42.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-18T00:50:02.6361285+09:00"
+                             },
+                             {
+                                 "id":  "2111472332674125830",
+                                 "url":  "https://x.com/nijisanji_app/status/2111472332674125830",
+                                 "text":  "✦ ── ˖ ࣪ ⊹ ˚ ✧₊ 🌟 ₊✧ ˚ ⊹ ࣪ ˖ ── ✦ #星川サラ_ステラノート 情報 「圧倒的☆スター星」 先行配信開始💐！ ──── ˖ ⋆⊹ ˖✧ ᧔᧓ ✧˖ ⊹⋆ ˖ ──── 「君のこと夢中にさせちゃうっ！」 圧倒的な可愛さを誇るガーリーポップ🎀 🎧各音楽配信サイトはこちら Show more",
+                                 "published_at_jst":  "2026-10-18T00:00:08.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-18T00:50:02.6361285+09:00"
+                             },
+                             {
+                                 "id":  "2111456957798494359",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2111456957798494359",
+                                 "text":  "大事なお知らせ！！！🌟 ミニアルバム『Stella Note』初回生産限定エムカードのボーナストラック収録内容が公開されたよ！👀 iLifeさんの初恋リバイバル (cover) ペルソナ5のLife Will Change (cover) などなど！ 他にも沢山収録されています！🎀 ご予約お忘れなく！ჱ̒՞ ̳ᴗ ̫ ᴗ ̳՞꒱",
+                                 "published_at_jst":  "2026-10-17T22:59:02.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-18T00:50:02.6361285+09:00"
+                             },
+                             {
+                                 "id":  "2111455685796114486",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2111455685796114486",
+                                 "text":  "星くず❗️❗️集合❗️❗️ 星川の2ndミニアルバム『Stella Note』 収録楽曲詳細が公開されたぞ❗️❗️ 試聴動画(XFD)もある❗️最高❗️みんなコメントにお気に入りポイント書いてくれたっていいんだよ❗️❗️ はい解散❗️❗️❗️",
+                                 "published_at_jst":  "2026-10-17T22:53:59.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-18T00:50:02.6361285+09:00"
+                             },
+                             {
+                                 "id":  "2111453666003824725",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2111453666003824725",
+                                 "text":  "新衣装お披露目ありがとー！🎀 今回はチャイナ衣装でした𐔌ᐡᴗ͈ ̫ ᴗ͈ᐡ𐦯 いっぱい自撮りしてみたよ！！！ デビュー7周年ありがとう🧸🤍 #星川サラ新衣装",
+                                 "published_at_jst":  "2026-10-17T22:45:57.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-18T00:50:02.6361285+09:00"
+                             },
+                             {
+                                 "id":  "2111442212919890356",
+                                 "url":  "https://x.com/nijisanji_app/status/2111442212919890356",
+                                 "text":  "◥◣ #加賀美ハヤト_1stライブBD ◢◤ 1st One Man Live \"ALPHA ONE\" ━┄\u003e\u003eショート動画試聴公開！\u003c\u003c┄━ 加賀美ハヤト、渡会雲雀、渚トラウトによるオーディオコメンタリーを一足先にちょい聞かせ👂 開幕から観客の熱にあてられる3人の様子をお届け！ ▼映像はこちら youtube.com/shorts/2VnrKth… Show more",
+                                 "published_at_jst":  "2026-10-17T22:00:26.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-18T00:50:02.6361285+09:00"
+                             },
                              {
                                  "id":  "2111421007135416506",
                                  "url":  "https://x.com/nijisanji_app/status/2111421007135416506",
