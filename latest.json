@@ -1,39 +1,42 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-10-18T21:50:02.1893683+09:00",
+    "collected_at_jst":  "2026-10-19T00:50:03.4325959+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-10-18T21:50:02.5230974+09:00",
+                         "checked_at_jst":  "2026-10-19T00:50:04.0459421+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-10-18T21:50:04.1664945+09:00",
+                         "checked_at_jst":  "2026-10-19T00:50:05.6697854+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-10-18T21:50:05.4142315+09:00",
+                         "checked_at_jst":  "2026-10-19T00:50:06.7001718+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      }
                  ],
     "recently_discovered_ids":  [
-                                    "2111796598552596862",
-                                    "2111759310829326438",
-                                    "2111759467440378021",
-                                    "2111774539520803127",
-                                    "2111793178835857497"
+                                    "2111834729985232970"
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2111834729985232970",
+                                 "url":  "https://x.com/nijisanji_app/status/2111834729985232970",
+                                 "text":  "✦・┈┈┈┈┈┈┈┈ ・✦ 2026.10.19 18:00- Goods info coming soon… ✦・┈┈┈┈┈┈┈┈ ・✦",
+                                 "published_at_jst":  "2026-10-19T00:00:10.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-19T00:50:03.4325959+09:00"
+                             },
                              {
                                  "id":  "2111796598552596862",
                                  "url":  "https://x.com/Sara_Hoshikawa/status/2111796598552596862",
@@ -250,13 +253,6 @@
                                  "text":  "🌟今日12:00 ⸝⸝ ⭑ おはよぉ～～～～！！！🐻 完全初見✨BLEACH Rebirth of Souls！ 今日から5章！！決着つけるぞ！！！！！！ youtube.com/live/F9HnHHlFN…",
                                  "published_at_jst":  "2026-10-17T11:12:06.0000000+09:00",
                                  "first_seen_at_jst":  "2026-10-17T11:50:02.6478256+09:00"
-                             },
-                             {
-                                 "id":  "2111113494456390081",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2111113494456390081",
-                                 "text":  "デビュー7周年記念！！！！！！！！！！！！！！！！！！！！！！！！！！！！🌟 みんなのおかげで人生めーっちゃ楽しい！！！🎀 2nd ソロライブも超楽しみ🎤🤍 これからも推して後悔させないよっ❣️ #星川サラ7周年",
-                                 "published_at_jst":  "2026-10-17T00:14:14.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-17T00:50:03.0990455+09:00"
                              }
                          ],
     "undated_posts_unverified":  [
