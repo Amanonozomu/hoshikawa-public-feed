@@ -1,37 +1,74 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-10-18T18:50:02.1269991+09:00",
+    "collected_at_jst":  "2026-10-18T21:50:02.1893683+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-10-18T18:50:02.4582555+09:00",
+                         "checked_at_jst":  "2026-10-18T21:50:02.5230974+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-10-18T18:50:03.7373145+09:00",
+                         "checked_at_jst":  "2026-10-18T21:50:04.1664945+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-10-18T18:50:04.6595133+09:00",
+                         "checked_at_jst":  "2026-10-18T21:50:05.4142315+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      }
                  ],
     "recently_discovered_ids":  [
-                                    "2111752782906843361",
-                                    "2111713957379776773",
-                                    "2111729228962279802"
+                                    "2111796598552596862",
+                                    "2111759310829326438",
+                                    "2111759467440378021",
+                                    "2111774539520803127",
+                                    "2111793178835857497"
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2111796598552596862",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2111796598552596862",
+                                 "text":  "織姫星7周年ありがとー！！🌠 記念で三原色を歌ってみたよჱ̒՞ ̳ᴗ ̫ ᴗ ̳՞꒱ コラボも笑いっぱなしでめっちゃ楽しかったー！！！ このまま5億年一緒にいるか╮(´･ᴗ･` )╭",
+                                 "published_at_jst":  "2026-10-18T21:28:39.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-18T21:50:02.1893683+09:00"
+                             },
+                             {
+                                 "id":  "2111793178835857497",
+                                 "url":  "https://x.com/nijisanji_app/status/2111793178835857497",
+                                 "text":  "／ #MECHATUA_1stライブ 追加情報！ ＼ 10月10日(土)に実施した MECHATU-A 1st LIVE “Over Drive!” 公演内で使用したビジュアルを公開！ 詳しくは特設サイトをご覧ください！ 🔽特設サイト nijisanji.jp/events/mechatu… ※本編視聴後の閲覧を推奨いたします 🔽配信視聴チケット dwango-ticket.jp/project/ACcuN2… Show more",
+                                 "published_at_jst":  "2026-10-18T21:15:03.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-18T21:50:02.1893683+09:00"
+                             },
+                             {
+                                 "id":  "2111774539520803127",
+                                 "url":  "https://x.com/nijisanji_app/status/2111774539520803127",
+                                 "text":  "◥◣ #加賀美ハヤト_1stライブBD ◢◤ 1st One Man Live \"ALPHA ONE\" ━┄\u003e\u003eショート動画試聴公開！\u003c\u003c┄━ 加賀美ハヤト、渡会雲雀、渚トラウトによるオーディオコメンタリーを一足先にちょい聞かせ👂 「ずうっといっしょ！」の披露に沸く会場と後輩たちに…？ ▼映像はこちら Show more",
+                                 "published_at_jst":  "2026-10-18T20:00:59.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-18T21:50:02.1893683+09:00"
+                             },
+                             {
+                                 "id":  "2111759467440378021",
+                                 "url":  "https://x.com/nijisanji_app/status/2111759467440378021",
+                                 "text":  "༻࿐ ✦ ✧ ✦ ࿐༺ #不破湊_2ndLIVE 本日事前販売〆切 ༻࿐ ✦ ✧ ✦ ࿐༺ 「不破湊 2nd LIVE “VORTEX”」グッズの事前販売は 本日10/18(日)23:59までとなっております。 ご注文をお忘れなく！ ✧詳細はこちら shop.nijisanji.jp/TAG_1027 ✧イベント特設サイト nijisanji.jp/events/fuwa_VO…",
+                                 "published_at_jst":  "2026-10-18T19:01:06.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-18T21:50:02.1893683+09:00"
+                             },
+                             {
+                                 "id":  "2111759310829326438",
+                                 "url":  "https://x.com/nijisanji_app/status/2111759310829326438",
+                                 "text":  "「不破湊 1st LIVE “Cheers with you”」の「シャンパングラスライト」再販も本日まで！ 詳細は引用元をチェック✨",
+                                 "published_at_jst":  "2026-10-18T19:00:28.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-18T21:50:02.1893683+09:00"
+                             },
                              {
                                  "id":  "2111752782906843361",
                                  "url":  "https://x.com/Sara_Hoshikawa/status/2111752782906843361",
@@ -220,55 +257,6 @@
                                  "text":  "デビュー7周年記念！！！！！！！！！！！！！！！！！！！！！！！！！！！！🌟 みんなのおかげで人生めーっちゃ楽しい！！！🎀 2nd ソロライブも超楽しみ🎤🤍 これからも推して後悔させないよっ❣️ #星川サラ7周年",
                                  "published_at_jst":  "2026-10-17T00:14:14.0000000+09:00",
                                  "first_seen_at_jst":  "2026-10-17T00:50:03.0990455+09:00"
-                             },
-                             {
-                                 "id":  "2111057136134521129",
-                                 "url":  "https://x.com/nijisanji_app/status/2111057136134521129",
-                                 "text":  "✦ ── ˖ ࣪ ⊹ ˚ ✧₊ 🌟 ₊✧ ˚ ⊹ ࣪ ˖ ── ✦ #星川サラ_ステラノート パッケージ写真を公開📸！ ──── ˖ ⋆⊹ ˖✧ ᧔᧓ ✧˖ ⊹⋆ ˖ ──── 星川サラ 2ndミニアルバム『Stella Note』 全形態のパッケージ写真を公開✨ 💐初回生産限定盤 CD(6曲収録) Show more",
-                                 "published_at_jst":  "2026-10-16T20:30:17.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-16T20:50:02.5149796+09:00"
-                             },
-                             {
-                                 "id":  "2111051680435548565",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2111051680435548565",
-                                 "text":  "こんちゃ〜〜꒰⁔՞•⤙•՞⁔꒱ 今おしごと終わって帰宅中🚗 ³₃ そしてなんと！CDリリースイベントのオンライントーク会もうすぐ締切のお知らせ！！！ 10/25(日)23:59までだよ〜！注意⚠️ 星川とお喋りしよ〜🧸🤍",
-                                 "published_at_jst":  "2026-10-16T20:08:36.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-16T20:50:02.5149796+09:00"
-                             },
-                             {
-                                 "id":  "2111043256125669645",
-                                 "url":  "https://x.com/nijisanji_app/status/2111043256125669645",
-                                 "text":  "初出勤のローレンはノルマ達成できたのか？ 気になる人は動画をチェック！ #ロクフリにじさんじ youtu.be/KQ5HppIsZ9w",
-                                 "published_at_jst":  "2026-10-16T19:35:08.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-16T19:50:02.5313602+09:00"
-                             },
-                             {
-                                 "id":  "2111036440343871706",
-                                 "url":  "https://x.com/nijisanji_app/status/2111036440343871706",
-                                 "text":  "「 #不破湊_2ndLIVE “VORTEX”」ライブグッズの事前販売は今週末10月18日(日)23:59まで。 詳細は引用元をチェック✨",
-                                 "published_at_jst":  "2026-10-16T19:08:03.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-16T19:50:02.5313602+09:00"
-                             },
-                             {
-                                 "id":  "2111036198974378126",
-                                 "url":  "https://x.com/nijisanji_app/status/2111036198974378126",
-                                 "text":  "༻࿐ ✦ ✧ ✦ ࿐༺ #不破湊_2ndLIVE ライブグッズ紹介⑤ ༻࿐ ✦ ✧ ✦ ࿐༺ サイズ違いのポーチ3個がセットになったマトリョシカポーチセットはとっても便利🎶 Show more",
-                                 "published_at_jst":  "2026-10-16T19:07:05.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-16T19:50:02.5313602+09:00"
-                             },
-                             {
-                                 "id":  "2111035980912460104",
-                                 "url":  "https://x.com/nijisanji_app/status/2111035980912460104",
-                                 "text":  "༻࿐ ✦ ✧ ✦ ࿐༺ #不破湊_2ndLIVE ライブグッズ紹介④ ༻࿐ ✦ ✧ ✦ ࿐༺ Show more",
-                                 "published_at_jst":  "2026-10-16T19:06:13.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-16T19:50:02.5313602+09:00"
-                             },
-                             {
-                                 "id":  "2111035730151854304",
-                                 "url":  "https://x.com/nijisanji_app/status/2111035730151854304",
-                                 "text":  "༻࿐ ✦ ✧ ✦ ࿐༺ #不破湊_2ndLIVE ライブグッズ紹介③ ༻࿐ ✦ ✧ ✦ ࿐༺ キルティングトートは縦型サイズのフワッチクルーラー柄で使いやすい！ どうやら一部の形にだけこっそりと顔が…？👀 Show more",
-                                 "published_at_jst":  "2026-10-16T19:05:13.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-16T19:50:02.5313602+09:00"
                              }
                          ],
     "undated_posts_unverified":  [
