@@ -1,35 +1,58 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-10-18T09:50:02.4307671+09:00",
+    "collected_at_jst":  "2026-10-18T12:50:02.4726094+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-10-18T09:50:02.8504793+09:00",
+                         "checked_at_jst":  "2026-10-18T12:50:03.0021550+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-10-18T09:50:03.9964928+09:00",
+                         "checked_at_jst":  "2026-10-18T12:50:04.3545679+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-10-18T09:50:04.8119105+09:00",
+                         "checked_at_jst":  "2026-10-18T12:50:05.3283567+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      }
                  ],
     "recently_discovered_ids":  [
-
+                                    "2111643806571663723",
+                                    "2111654245648957548",
+                                    "2111653544613036404"
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2111654245648957548",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2111654245648957548",
+                                 "text":  "配信開始！✨️",
+                                 "published_at_jst":  "2026-10-18T12:02:59.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-18T12:50:02.4726094+09:00"
+                             },
+                             {
+                                 "id":  "2111653544613036404",
+                                 "url":  "https://x.com/nijisanji_app/status/2111653544613036404",
+                                 "text":  "【🎂誕生日グッズ＆ボイス販売決定！】 甲斐田晴( @ Kaida_Haru )の誕生日を記念した『誕生日グッズ＆ボイス2026』 ＜ 10/25(日)18:00 ＞から、にじさんじオフィシャルストア にて販売決定！ shop.nijisanji.jp #にじストア",
+                                 "published_at_jst":  "2026-10-18T12:00:12.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-18T12:50:02.4726094+09:00"
+                             },
+                             {
+                                 "id":  "2111643806571663723",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2111643806571663723",
+                                 "text":  "🌟今日12:00 ⸝⸝ ⭑ おはよぉ～～～～！！！⚡ 完全初見✨BLEACH Rebirth of Souls！ アイゼンユルセン！決着をつけるぞ！！！！！ youtube.com/live/dw3WXaNkU…",
+                                 "published_at_jst":  "2026-10-18T11:21:30.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-18T12:50:02.4726094+09:00"
+                             },
                              {
                                  "id":  "2111475495745528229",
                                  "url":  "https://x.com/Sara_Hoshikawa/status/2111475495745528229",
@@ -302,27 +325,6 @@
                                  "text":  "サーモンランでノルマ達成を目指せ！ 戌亥とこ\u0026先斗寧と共に狙え！一攫千金！！ 4名で力を合わせることはできるのか！？ #ロクフリにじさんじ \u003c\u003c 本日10/16(金)19時 \u003e\u003eプレミア公開！ youtu.be/KQ5HppIsZ9w",
                                  "published_at_jst":  "2026-10-16T13:00:26.0000000+09:00",
                                  "first_seen_at_jst":  "2026-10-16T13:50:02.4774684+09:00"
-                             },
-                             {
-                                 "id":  "2110930019619045427",
-                                 "url":  "https://x.com/nijisanji_app/status/2110930019619045427",
-                                 "text":  "【🎂誕生日グッズ＆ボイス販売開始！】 本日より エリーラ ペンドラ( @ EliraPendora )の誕生日を記念した『誕生日グッズ＆ボイス2026』を販売開始いたしました！ 販売ページ▽ shop.nijisanji.jp/SSZS-80262.html ■販売期間 10/22(木)23:59まで #にじストア #NIJISANJI_EN",
-                                 "published_at_jst":  "2026-10-16T12:05:10.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-16T12:50:02.4508983+09:00"
-                             },
-                             {
-                                 "id":  "2110928869553484221",
-                                 "url":  "https://x.com/nijisanji_app/status/2110928869553484221",
-                                 "text":  "【🎂誕生日グッズ＆ボイス販売決定！】 伊波ライ( @ rai_173 )の誕生日を記念した『誕生日グッズ＆ボイス2026』 ＜ 10/23(金)18:00 ＞から、にじさんじオフィシャルストア にて販売決定！ shop.nijisanji.jp #にじストア",
-                                 "published_at_jst":  "2026-10-16T12:00:36.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-16T12:50:02.4508983+09:00"
-                             },
-                             {
-                                 "id":  "2110913707727609941",
-                                 "url":  "https://x.com/nijisanji_app/status/2110913707727609941",
-                                 "text":  "【 #にじさんじお泊りボイス 再販開始！】 にじさんじオフィシャルストアにて 「にじさんじ お泊りボイス」の再販売を開始いたしました！ ■販売期間 ～10/23(金)23:59まで 再販売ページはこちら！▼ shop.nijisanji.jp/DIG_TAG_163 再販売されるボイスは「にじストアボイスアプリ」でも再生できます。 Show more",
-                                 "published_at_jst":  "2026-10-16T11:00:21.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-16T11:50:02.4845180+09:00"
                              }
                          ],
     "undated_posts_unverified":  [
