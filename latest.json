@@ -1,35 +1,74 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-10-19T15:50:02.9937268+09:00",
+    "collected_at_jst":  "2026-10-19T18:50:02.2933300+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-10-19T15:50:03.3533729+09:00",
+                         "checked_at_jst":  "2026-10-19T18:50:02.6954764+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-10-19T15:50:04.5436744+09:00",
+                         "checked_at_jst":  "2026-10-19T18:50:03.9849665+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-10-19T15:50:05.3366004+09:00",
+                         "checked_at_jst":  "2026-10-19T18:50:05.1020019+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      }
                  ],
     "recently_discovered_ids":  [
-                                    "2112046173787967690"
+                                    "2112088260235416027",
+                                    "2112107279126507559",
+                                    "2112109039148748818",
+                                    "2112109288097558713",
+                                    "2112114615186550944"
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2112114615186550944",
+                                 "url":  "https://x.com/nijisanji_app/status/2112114615186550944",
+                                 "text":  "次回の「超!VOLTACTION」情報！ 詳細は引用元をチェック！👀 #超ヴォルタ",
+                                 "published_at_jst":  "2026-10-19T18:32:20.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-19T18:50:02.2933300+09:00"
+                             },
+                             {
+                                 "id":  "2112109288097558713",
+                                 "url":  "https://x.com/nijisanji_app/status/2112109288097558713",
+                                 "text":  "【 #にじさんじ妖怪パロディボイス 販売中！】 #にじストア にて販売中の「妖怪パロディボイス」 販売期間は＜ 10/31(土)23:59 ＞まで！ 販売ページはこちら▼ shop.nijisanji.jp/DIG_TAG_195 キービジュアルライバーのあらすじをご紹介！",
+                                 "published_at_jst":  "2026-10-19T18:11:10.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-19T18:50:02.2933300+09:00"
+                             },
+                             {
+                                 "id":  "2112109039148748818",
+                                 "url":  "https://x.com/nijisanji_app/status/2112109039148748818",
+                                 "text":  "【 #にじさんじナイショのお願いボイス 販売中！】 #にじストア にて販売中の「ナイショのお願いボイス」 販売期間は＜ 10/31(土)23:59 ＞まで！ 販売ページはこちら▼ shop.nijisanji.jp/DIG_TAG_194 キービジュアルライバーのあらすじをご紹介！",
+                                 "published_at_jst":  "2026-10-19T18:10:10.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-19T18:50:02.2933300+09:00"
+                             },
+                             {
+                                 "id":  "2112107279126507559",
+                                 "url":  "https://x.com/nijisanji_app/status/2112107279126507559",
+                                 "text":  "【 #Haunted_School コンセプト紹介②】 フリオドール、渚トラウト、榊ネス、一橋綾人のグッズビジュアル、コンセプトを公開。 グッズと合わせてお楽しみください… ▼10/20(火)18:00より販売開始。 shop.nijisanji.jp/TAG_1023 #にじさんじハロウィン2026",
+                                 "published_at_jst":  "2026-10-19T18:03:11.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-19T18:50:02.2933300+09:00"
+                             },
+                             {
+                                 "id":  "2112088260235416027",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2112088260235416027",
+                                 "text":  "🌟今日19:00 ⸝⸝ ⭑ 完全初見のFate/Grand Order！ 第2部1章！永久凍土帝国アナスタシア⛄ 激寒なとこに来てしましました。 モフモフパツシィくんを救いたいです。 youtube.com/live/9rWuSxeew…",
+                                 "published_at_jst":  "2026-10-19T16:47:36.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-19T18:50:02.2933300+09:00"
+                             },
                              {
                                  "id":  "2112046173787967690",
                                  "url":  "https://x.com/nijisanji_app/status/2112046173787967690",
@@ -204,41 +243,6 @@
                                  "text":  "≪≪≪≪≪≪≪≪≪≪ NIJISANJI COUNTDOWN LIVE \"CROSSING TONES\" から 「裸の勇者」の映像を公開🎉 ≫≫≫≫≫≫≫≫≫≫ \"CROSSING TONES\" で披露された「裸の勇者」を、 渡会雲雀( @ watarai_hibari )のYouTubeチャンネルにて公開！ 🔹渡会雲雀YouTubeチャンネルはこちら youtube.com/@WataraiHibari Show more",
                                  "published_at_jst":  "2026-10-17T20:00:48.0000000+09:00",
                                  "first_seen_at_jst":  "2026-10-17T20:50:01.9548856+09:00"
-                             },
-                             {
-                                 "id":  "2111378840631280055",
-                                 "url":  "https://x.com/nijisanji_app/status/2111378840631280055",
-                                 "text":  "≫≫⚔️NIJISANJI Extreme Match / Overwatch 開幕🛡️≪≪ 『NIJISANJI Extreme Match』第2回の舞台は『オーバーウォッチ』👑 ここから始まる練習期間を経て、見事栄光を掴み取るのはどのチームか…！？ スクリム▷10月23日(金)、24日(土) 本 戦▶︎10月25日(日) Show more",
-                                 "published_at_jst":  "2026-10-17T17:48:37.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-17T17:50:01.8054039+09:00"
-                             },
-                             {
-                                 "id":  "2111366891881295905",
-                                 "url":  "https://x.com/nijisanji_app/status/2111366891881295905",
-                                 "text":  "🎷 - - - - - - - - - - - - - - - - - - ✦⁡⁡.⁺ #戌亥とこ_Oneday ドラマOP主題歌 タイアップ決定🎉 ⁺.✦⁡⁡ - - - - - - - - - - - - - - - - - -🎙 #戌亥とこ 2nd Mini Album『One day』収録楽曲 Show more",
-                                 "published_at_jst":  "2026-10-17T17:01:08.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-17T17:50:01.8054039+09:00"
-                             },
-                             {
-                                 "id":  "2111366652092928045",
-                                 "url":  "https://x.com/nijisanji_app/status/2111366652092928045",
-                                 "text":  "✥♦️━━━━━━━━━━♦️✥ #葛葉ワンマンライブ 同時視聴は本日18時から ✥♦️━━━━━━━━━━♦️✥ Kuzuha One-Man Live \"Bloody Alexandrite\" にじさんじ公式YouTubeチャンネルでの同時視聴を本日18時から生配信いたします🍷 -✦-日時 10月17日(土)18:00〜 -✦-出演者 Show more",
-                                 "published_at_jst":  "2026-10-17T17:00:11.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-17T17:50:01.8054039+09:00"
-                             },
-                             {
-                                 "id":  "2111356752440782962",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2111356752440782962",
-                                 "text":  "可愛すぎると思いませんか？ 私は思います",
-                                 "published_at_jst":  "2026-10-17T16:20:51.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-17T16:50:01.7791836+09:00"
-                             },
-                             {
-                                 "id":  "2111351553449955826",
-                                 "url":  "https://x.com/nijisanji_app/status/2111351553449955826",
-                                 "text":  "≫≫⚔️NIJISANJI Extreme Match / Overwatch 告知配信🛡️≪≪ #にじEX_OW の告知配信は《 この後 10/17(土)17:00 》からスタート！ 今大会のルールやチーム発表をお見逃しなく📣 ▼待機所はこちら youtube.com/live/KupChdfEq…",
-                                 "published_at_jst":  "2026-10-17T16:00:12.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-17T16:50:01.7791836+09:00"
                              }
                          ],
     "undated_posts_unverified":  [
