@@ -1,39 +1,50 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-10-20T12:50:01.6841666+09:00",
+    "collected_at_jst":  "2026-10-20T15:50:01.7084488+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-10-20T12:50:01.9165216+09:00",
+                         "checked_at_jst":  "2026-10-20T15:50:01.9310558+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-10-20T12:50:02.8734627+09:00",
+                         "checked_at_jst":  "2026-10-20T15:50:02.7335046+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-10-20T12:50:04.2881695+09:00",
+                         "checked_at_jst":  "2026-10-20T15:50:03.4556232+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      }
                  ],
     "recently_discovered_ids":  [
-                                    "2112382096123818355",
-                                    "2112385895139885548",
-                                    "2112386343892656165",
-                                    "2112386627972784217",
-                                    "2112386881757605922"
+                                    "2112408508599763406",
+                                    "2112423747043168522"
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2112423747043168522",
+                                 "url":  "https://x.com/nijisanji_app/status/2112423747043168522",
+                                 "text":  "【 #にじトイ 生放送は20時から！】 本日20:00からは、にじさんじオフィシャル ニコニコチャンネルにて 「にじさんじのTOYBOX！」生放送！▼ live.nicovideo.jp/watch/lv351545… ■出演者 文野環/笹木咲/宇佐美リト",
+                                 "published_at_jst":  "2026-10-20T15:00:42.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-20T15:50:01.7084488+09:00"
+                             },
+                             {
+                                 "id":  "2112408508599763406",
+                                 "url":  "https://x.com/nijisanji_app/status/2112408508599763406",
+                                 "text":  "【amazonにてマスコットグッズ、カードサプライ商品 販売開始！】 #amazonにじストア にて、 過去に #にじストア で販売した一部マスコットグッズやカードサプライ商品を追加いたしました！ カードスリーブ、プレイマット、デッキケースなどライバービジュアルのグッズをぜひお迎えください！ Show more",
+                                 "published_at_jst":  "2026-10-20T14:00:09.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-20T15:50:01.7084488+09:00"
+                             },
                              {
                                  "id":  "2112386881757605922",
                                  "url":  "https://x.com/nijisanji_app/status/2112386881757605922",
