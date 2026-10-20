@@ -1,39 +1,82 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-10-20T18:50:02.0255674+09:00",
+    "collected_at_jst":  "2026-10-20T21:50:01.7949032+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-10-20T18:50:02.3629835+09:00",
+                         "checked_at_jst":  "2026-10-20T21:50:02.0378104+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-10-20T18:50:03.5296277+09:00",
+                         "checked_at_jst":  "2026-10-20T21:50:03.4213401+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-10-20T18:50:04.4117829+09:00",
+                         "checked_at_jst":  "2026-10-20T21:50:04.3175885+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      }
                  ],
     "recently_discovered_ids":  [
-                                    "2112442442121421101",
-                                    "2112461417169465408",
-                                    "2112469038278537622",
-                                    "2112470180018479507",
-                                    "2112471441602179259"
+                                    "2112483970558341626",
+                                    "2112514609655714207",
+                                    "2112497901910016280",
+                                    "2112502875020808486",
+                                    "2112519225818615947",
+                                    "2112520528208785785"
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2112520528208785785",
+                                 "url":  "https://x.com/nijisanji_app/status/2112520528208785785",
+                                 "text":  "【にじさんじの「おかしなじかん」放送決定🍬】 新番組の舞台は、バーチャル世界にいきなり現れた、謎の駄菓子屋「七色堂」 エターナル放課後バラエティ、にじさんじの「おかしなじかん」放送開始！ ✨新番組：にじさんじの「おかしなじかん」 📅初回放送：11/10(火) 20:00〜 Show more",
+                                 "published_at_jst":  "2026-10-20T21:25:17.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-20T21:50:01.7949032+09:00"
+                             },
+                             {
+                                 "id":  "2112519225818615947",
+                                 "url":  "https://x.com/nijisanji_app/status/2112519225818615947",
+                                 "text":  "「にじさんじのTOYBOX！」をご覧いただき、ありがとうございました！ 本日の放送にて、「にじさんじのTOYBOX！」最終回となります。 今まで番組を温かく見守っていただき、ありがとうございました！ 来月からは、番組コンセプトをリニューアルし新番組がスタートします。 Show more",
+                                 "published_at_jst":  "2026-10-20T21:20:06.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-20T21:50:01.7949032+09:00"
+                             },
+                             {
+                                 "id":  "2112514609655714207",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2112514609655714207",
+                                 "text":  "配信開始！",
+                                 "published_at_jst":  "2026-10-20T21:01:46.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-20T21:50:01.7949032+09:00"
+                             },
+                             {
+                                 "id":  "2112502875020808486",
+                                 "url":  "https://x.com/nijisanji_app/status/2112502875020808486",
+                                 "text":  "【Anime x Game Festival 2026 참가 확정!】 12월 4일(금) ~ 12월 6일(일) 한국에서 개최되는 \"Anime x Game Festival 2026\"에 \"NIJISANJI\"가 참가합니다! 📺스테이지 출연 확정! RED STAGE에서는 3SKM(키타미 유우세이, 카이세이, 사카키 네스)의 가창을 포함한 토크 스테이지(2D)가 진행됩니다. Show more",
+                                 "published_at_jst":  "2026-10-20T20:15:08.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-20T21:50:01.7949032+09:00"
+                             },
+                             {
+                                 "id":  "2112497901910016280",
+                                 "url":  "https://x.com/nijisanji_app/status/2112497901910016280",
+                                 "text":  "【 #にじトイ このあと20時からスタート！】 放送はこちらから▼ live.nicovideo.jp/watch/lv351545…",
+                                 "published_at_jst":  "2026-10-20T19:55:22.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-20T21:50:01.7949032+09:00"
+                             },
+                             {
+                                 "id":  "2112483970558341626",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2112483970558341626",
+                                 "text":  "🌟今日21:00 ⸝⸝ ⭑ 話題の浮気判定シート～～～！🎀 メンヘラがやってみる✋すこちゃんの借りたよ！ youtube.com/live/vS6m1vlJF…",
+                                 "published_at_jst":  "2026-10-20T19:00:01.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-20T21:50:01.7949032+09:00"
+                             },
                              {
                                  "id":  "2112471441602179259",
                                  "url":  "https://x.com/nijisanji_app/status/2112471441602179259",
@@ -201,41 +244,6 @@
                                  "text":  "✦・┈┈┈┈┈┈┈┈ ・✦ 2026.10.19 18:00- Goods info coming soon… ✦・┈┈┈┈┈┈┈┈ ・✦",
                                  "published_at_jst":  "2026-10-19T00:00:10.0000000+09:00",
                                  "first_seen_at_jst":  "2026-10-19T00:50:03.4325959+09:00"
-                             },
-                             {
-                                 "id":  "2111796598552596862",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2111796598552596862",
-                                 "text":  "織姫星7周年ありがとー！！🌠 記念で三原色を歌ってみたよჱ̒՞ ̳ᴗ ̫ ᴗ ̳՞꒱ コラボも笑いっぱなしでめっちゃ楽しかったー！！！ このまま5億年一緒にいるか╮(´･ᴗ･` )╭",
-                                 "published_at_jst":  "2026-10-18T21:28:39.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-18T21:50:02.1893683+09:00"
-                             },
-                             {
-                                 "id":  "2111793178835857497",
-                                 "url":  "https://x.com/nijisanji_app/status/2111793178835857497",
-                                 "text":  "／ #MECHATUA_1stライブ 追加情報！ ＼ 10月10日(土)に実施した MECHATU-A 1st LIVE “Over Drive!” 公演内で使用したビジュアルを公開！ 詳しくは特設サイトをご覧ください！ 🔽特設サイト nijisanji.jp/events/mechatu… ※本編視聴後の閲覧を推奨いたします 🔽配信視聴チケット dwango-ticket.jp/project/ACcuN2… Show more",
-                                 "published_at_jst":  "2026-10-18T21:15:03.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-18T21:50:02.1893683+09:00"
-                             },
-                             {
-                                 "id":  "2111774539520803127",
-                                 "url":  "https://x.com/nijisanji_app/status/2111774539520803127",
-                                 "text":  "◥◣ #加賀美ハヤト_1stライブBD ◢◤ 1st One Man Live \"ALPHA ONE\" ━┄\u003e\u003eショート動画試聴公開！\u003c\u003c┄━ 加賀美ハヤト、渡会雲雀、渚トラウトによるオーディオコメンタリーを一足先にちょい聞かせ👂 「ずうっといっしょ！」の披露に沸く会場と後輩たちに…？ ▼映像はこちら Show more",
-                                 "published_at_jst":  "2026-10-18T20:00:59.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-18T21:50:02.1893683+09:00"
-                             },
-                             {
-                                 "id":  "2111759467440378021",
-                                 "url":  "https://x.com/nijisanji_app/status/2111759467440378021",
-                                 "text":  "༻࿐ ✦ ✧ ✦ ࿐༺ #不破湊_2ndLIVE 本日事前販売〆切 ༻࿐ ✦ ✧ ✦ ࿐༺ 「不破湊 2nd LIVE “VORTEX”」グッズの事前販売は 本日10/18(日)23:59までとなっております。 ご注文をお忘れなく！ ✧詳細はこちら shop.nijisanji.jp/TAG_1027 ✧イベント特設サイト nijisanji.jp/events/fuwa_VO…",
-                                 "published_at_jst":  "2026-10-18T19:01:06.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-18T21:50:02.1893683+09:00"
-                             },
-                             {
-                                 "id":  "2111759310829326438",
-                                 "url":  "https://x.com/nijisanji_app/status/2111759310829326438",
-                                 "text":  "「不破湊 1st LIVE “Cheers with you”」の「シャンパングラスライト」再販も本日まで！ 詳細は引用元をチェック✨",
-                                 "published_at_jst":  "2026-10-18T19:00:28.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-18T21:50:02.1893683+09:00"
                              }
                          ],
     "undated_posts_unverified":  [
