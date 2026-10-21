@@ -1,40 +1,57 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-10-20T21:50:01.7949032+09:00",
+    "collected_at_jst":  "2026-10-21T16:48:46.1360103+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-10-20T21:50:02.0378104+09:00",
+                         "checked_at_jst":  "2026-10-21T16:48:46.4452015+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-10-20T21:50:03.4213401+09:00",
+                         "checked_at_jst":  "2026-10-21T16:48:47.6170088+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-10-20T21:50:04.3175885+09:00",
+                         "checked_at_jst":  "2026-10-21T16:48:48.3859485+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      }
                  ],
     "recently_discovered_ids":  [
-                                    "2112483970558341626",
-                                    "2112514609655714207",
-                                    "2112497901910016280",
-                                    "2112502875020808486",
-                                    "2112519225818615947",
-                                    "2112520528208785785"
+                                    "2112791140613378086",
+                                    "2112808657931137389"
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2112808657931137389",
+                                 "url":  "https://x.com/nijisanji_app/status/2112808657931137389",
+                                 "text":  "【再入荷のお知らせ】 再入荷したアイテムは以下のページからご確認いただけます！ ※お届け時期については各商品ページをご確認ください。 ▼再入荷特集はこちら！ shop.nijisanji.jp/TAG_908 #にじストア",
+                                 "published_at_jst":  "2026-10-21T16:30:12.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-21T16:48:46.1360103+09:00"
+                             },
+                             {
+                                 "id":  "2112791140613378086",
+                                 "url":  "https://x.com/Hoshikawa_sub/status/2112791140613378086",
+                                 "text":  "雲が2倍速で動いてるよ",
+                                 "published_at_jst":  "2026-10-21T15:20:36.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-21T16:48:46.1360103+09:00"
+                             },
+                             {
+                                 "id":  "2112548725323370691",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2112548725323370691",
+                                 "text":  "配信ありがとうございました！ この価値観に合う人がいなかったら全然1人でいい❣️1人でも楽しく生きていけるので❣️",
+                                 "published_at_jst":  "2026-10-20T23:17:20.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-21T16:48:46.1360103+09:00"
+                             },
                              {
                                  "id":  "2112520528208785785",
                                  "url":  "https://x.com/nijisanji_app/status/2112520528208785785",
@@ -216,34 +233,6 @@
                                  "text":  "【 #Haunted_School コンセプト紹介②】 フリオドール、渚トラウト、榊ネス、一橋綾人のグッズビジュアル、コンセプトを公開。 グッズと合わせてお楽しみください… ▼10/20(火)18:00より販売開始。 shop.nijisanji.jp/TAG_1023 #にじさんじハロウィン2026",
                                  "published_at_jst":  "2026-10-19T18:03:11.0000000+09:00",
                                  "first_seen_at_jst":  "2026-10-19T18:50:02.2933300+09:00"
-                             },
-                             {
-                                 "id":  "2112088260235416027",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2112088260235416027",
-                                 "text":  "🌟今日19:00 ⸝⸝ ⭑ 完全初見のFate/Grand Order！ 第2部1章！永久凍土帝国アナスタシア⛄ 激寒なとこに来てしましました。 モフモフパツシィくんを救いたいです。 youtube.com/live/9rWuSxeew…",
-                                 "published_at_jst":  "2026-10-19T16:47:36.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-19T18:50:02.2933300+09:00"
-                             },
-                             {
-                                 "id":  "2112046173787967690",
-                                 "url":  "https://x.com/nijisanji_app/status/2112046173787967690",
-                                 "text":  "【「AFA Singapore 2026」出展決定！】 サンテック・シンガポール国際会議展示場にて11/27(金)～11/29(日)に開催される「AFA Singapore 2026」に 「NIJISANJI EN」から #NØVA が出展決定！ また、11/28(土)のAFA NEXT Stageには17:15(現地時間)から #NØVA が参加いたします！ 詳細はこちら▼ Show more",
-                                 "published_at_jst":  "2026-10-19T14:00:22.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-19T15:50:02.9937268+09:00"
-                             },
-                             {
-                                 "id":  "2112024747307573735",
-                                 "url":  "https://x.com/nijisanji_app/status/2112024747307573735",
-                                 "text":  "༻࿐ ✦ ✧ ✦ ࿐༺ #不破湊_ECLIPSE 特典デザイン \u0026 初回B 特典カバーCD 収録楽曲公開！ ༻࿐ ✦ ✧ ✦ ࿐༺ 💿12月9日(水)発売 不破湊 New Single『ECLIPSE』 ☀️にじさんじストア特典 ・有償特典 食卓 feat.不破湊アクリルスタンド ・無償特典 ECLIPSE Show more",
-                                 "published_at_jst":  "2026-10-19T12:35:13.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-19T12:50:02.9085016+09:00"
-                             },
-                             {
-                                 "id":  "2111834729985232970",
-                                 "url":  "https://x.com/nijisanji_app/status/2111834729985232970",
-                                 "text":  "✦・┈┈┈┈┈┈┈┈ ・✦ 2026.10.19 18:00- Goods info coming soon… ✦・┈┈┈┈┈┈┈┈ ・✦",
-                                 "published_at_jst":  "2026-10-19T00:00:10.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-19T00:50:03.4325959+09:00"
                              }
                          ],
     "undated_posts_unverified":  [
