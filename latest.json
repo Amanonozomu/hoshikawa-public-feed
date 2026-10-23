@@ -1,35 +1,42 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-10-23T23:50:02.1297020+09:00",
+    "collected_at_jst":  "2026-10-24T07:50:02.9299282+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-10-23T23:50:02.4565871+09:00",
+                         "checked_at_jst":  "2026-10-24T07:50:03.2595831+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-10-23T23:50:03.2488632+09:00",
+                         "checked_at_jst":  "2026-10-24T07:50:03.9051238+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-10-23T23:50:03.7363420+09:00",
+                         "checked_at_jst":  "2026-10-24T07:50:04.5100314+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      }
                  ],
     "recently_discovered_ids":  [
-                                    "2113601722644087005"
+
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2113646685591339169",
+                                 "url":  "https://x.com/nijisanji_app/status/2113646685591339169",
+                                 "text":  "💡 #伊波ライ ( @rai_173 )1stミニアルバム『Hero』配信＆記念3Dライブ決定💡 ■ #伊波1stミニアルバム_Hero が 本日10月24日(土)0:00より配信開始！🎧⚙️ ▼🎧配信サイトはこちら linkco.re/hm1GvbQe ※全7曲の収録内容やクリエイター陣のコメント、ライブ詳細はツリーへ👇",
+                                 "published_at_jst":  "2026-10-24T00:00:14.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-24T07:50:02.9299282+09:00"
+                             },
                              {
                                  "id":  "2113601722644087005",
                                  "url":  "https://x.com/Sara_Hoshikawa/status/2113601722644087005",
