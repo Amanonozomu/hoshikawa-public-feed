@@ -1,36 +1,70 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-10-24T15:50:02.0972124+09:00",
+    "collected_at_jst":  "2026-10-24T23:50:03.1812998+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-10-24T15:50:02.3206983+09:00",
+                         "checked_at_jst":  "2026-10-24T23:50:03.5847892+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-10-24T15:50:02.9576501+09:00",
+                         "checked_at_jst":  "2026-10-24T23:50:04.9931923+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-10-24T15:50:05.6209165+09:00",
+                         "checked_at_jst":  "2026-10-24T23:50:05.6273467+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      }
                  ],
     "recently_discovered_ids":  [
-                                    "2113877817310232671",
-                                    "2113873202116194516"
+                                    "2113979407169978766"
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2113979407169978766",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2113979407169978766",
+                                 "text":  "配信開始",
+                                 "published_at_jst":  "2026-10-24T22:02:21.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-24T23:50:03.1812998+09:00"
+                             },
+                             {
+                                 "id":  "2113933602455244824",
+                                 "url":  "https://x.com/nijisanji_app/status/2113933602455244824",
+                                 "text":  "【 #社築 ( @846kizuQ ) 新3D衣装お披露目配信は本日20:00🖥】 このあと10月24日(土)20:00から配信開始！ ▼待機所はこちら youtube.com/live/B8C5iYAUV… ※社築YouTubeチャンネルにて全編無料配信 #社築3D新衣装お披露目",
+                                 "published_at_jst":  "2026-10-24T19:00:20.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-24T23:50:03.1812998+09:00"
+                             },
+                             {
+                                 "id":  "2113933527431696714",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2113933527431696714",
+                                 "text":  "🌟今日22:00 ⸝⸝ ⭑ 進撃の巨人🎀アニメ同時視聴！ 2週間ぶり！！！待ってた～～～！ 今日は３期50話から！もう50話・・・😳 youtube.com/live/HrS5_Hooo…",
+                                 "published_at_jst":  "2026-10-24T19:00:02.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-24T23:50:03.1812998+09:00"
+                             },
+                             {
+                                 "id":  "2113918784520270169",
+                                 "url":  "https://x.com/nijisanji_app/status/2113918784520270169",
+                                 "text":  "≫≫⚔️NIJISANJI Extreme Match / Overwatch 明日開幕🛡️≪≪ 明日、ライバーたちの熱い戦いがついに幕を開ける🔥 仲間を信じて突き進む、1日限りのガチバトルを見逃すな！ ▼本戦配信の待機所はこちら！ youtube.com/live/27u1s-jLn… 📅 10/25(日) 15:00～ 🎥 にじさんじ公式YouTubeチャンネル Show more",
+                                 "published_at_jst":  "2026-10-24T18:01:27.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-24T23:50:03.1812998+09:00"
+                             },
+                             {
+                                 "id":  "2113888543189913795",
+                                 "url":  "https://x.com/Hoshikawa_sub/status/2113888543189913795",
+                                 "text":  "ちなみにこのクリームパンみたい小さな手も好き",
+                                 "published_at_jst":  "2026-10-24T16:01:17.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-24T23:50:03.1812998+09:00"
+                             },
                              {
                                  "id":  "2113877817310232671",
                                  "url":  "https://x.com/Sara_Hoshikawa/status/2113877817310232671",
@@ -135,55 +169,6 @@
                                  "text":  "おはよぉぉぉぉ！⊂( ᴖ ̫ᴖ)⊃ みんな圧倒的☆スター星きいてくれたー？！🥹 動画の中で特に星川が好きなとこ貼っとく🎀🫶🏻",
                                  "published_at_jst":  "2026-10-23T11:50:25.0000000+09:00",
                                  "first_seen_at_jst":  "2026-10-23T15:50:02.7692176+09:00"
-                             },
-                             {
-                                 "id":  "2113261867888165115",
-                                 "url":  "https://x.com/Hoshikawa_sub/status/2113261867888165115",
-                                 "text":  "どうだった？꒰⁔՞•⤙•՞⁔꒱",
-                                 "published_at_jst":  "2026-10-22T22:31:06.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-22T23:50:02.9030987+09:00"
-                             },
-                             {
-                                 "id":  "2113237725390544950",
-                                 "url":  "https://x.com/nijisanji_app/status/2113237725390544950",
-                                 "text":  "✦ ── ˖ ࣪ ⊹ ˚ ✧₊ 🌟 ₊✧ ˚ ⊹ ࣪ ˖ ── ✦ #星川サラ_ステラノート 「圧倒的☆スター星」 MV公開💐！ ──── ˖ ⋆⊹ ˖✧ ᧔᧓ ✧˖ ⊹⋆ ˖ ──── 「圧倒的☆スター星」 Lyrics：りみみらいら, 早川博隆 Music：早川博隆, Yoshiki Abe Arrangement：Yoshiki Abe 🎬MVはこちら Show more",
-                                 "published_at_jst":  "2026-10-22T20:55:10.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-22T23:50:02.9030987+09:00"
-                             },
-                             {
-                                 "id":  "2113225156424511696",
-                                 "url":  "https://x.com/nijisanji_app/status/2113225156424511696",
-                                 "text":  "#社築 ( @ 846kizuQ ) 新3D衣装お披露目配信が決定🖥 ▼開催日時 10月24日(土)20:00～ ▼配信はこちら youtube.com/live/B8C5iYAUV… #社築3D新衣装お披露目",
-                                 "published_at_jst":  "2026-10-22T20:05:13.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-22T23:50:02.9030987+09:00"
-                             },
-                             {
-                                 "id":  "2113223943167566050",
-                                 "url":  "https://x.com/nijisanji_app/status/2113223943167566050",
-                                 "text":  "【 #PR 「にじさんじ」×「イルミオロースタリーラボ.」】 #Zeffiro の #風楽奏斗 と #渡会雲雀 をイメージした 「オリジナルブレンドコーヒー☕」が販売中！ 2人のこだわりがつまったコーヒー、ぜひご賞味ください！ ●受注期間：10/21(水)20:00～10/30(金)23:59まで ilmiioroastery.com/collections/ni… Show more",
-                                 "published_at_jst":  "2026-10-22T20:00:24.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-22T23:50:02.9030987+09:00"
-                             },
-                             {
-                                 "id":  "2113223846023369093",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2113223846023369093",
-                                 "text":  "プレミア公開始まるよぉ！！",
-                                 "published_at_jst":  "2026-10-22T20:00:01.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-22T23:50:02.9030987+09:00"
-                             },
-                             {
-                                 "id":  "2113220100862165314",
-                                 "url":  "https://x.com/nijisanji_app/status/2113220100862165314",
-                                 "text":  "【 #ぷちさんじ 】最新話を公開📺 花を貰うとテンションがあがる鏑木ろこ【漫画】 @ 65_kaburaki ▼YouTubeはコチラ",
-                                 "published_at_jst":  "2026-10-22T19:45:08.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-22T23:50:02.9030987+09:00"
-                             },
-                             {
-                                 "id":  "2113193903503692065",
-                                 "url":  "https://x.com/nijisanji_app/status/2113193903503692065",
-                                 "text":  "【 #SleepySheepy グッズ販売開始！】 にじさんじオフィシャルストアにて天宮こころ、鏑木ろこ、来栖夏芽、小清水透、早乙女ベリー、魔界ノりりむ による『Sleepy Sheepy』グッズの販売を開始！ 商品ページ▼ shop.nijisanji.jp/TAG_1029",
-                                 "published_at_jst":  "2026-10-22T18:01:02.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-22T23:50:02.9030987+09:00"
                              }
                          ],
     "undated_posts_unverified":  [
