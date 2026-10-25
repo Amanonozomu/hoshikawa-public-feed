@@ -1,35 +1,49 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-10-25T23:50:02.9806270+09:00",
+    "collected_at_jst":  "2026-10-26T07:50:03.5293031+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-10-25T23:50:04.6870018+09:00",
+                         "checked_at_jst":  "2026-10-26T07:50:03.9630916+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-10-25T23:50:06.6736726+09:00",
+                         "checked_at_jst":  "2026-10-26T07:50:04.6196032+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-10-25T23:50:07.2579729+09:00",
+                         "checked_at_jst":  "2026-10-26T07:50:05.5112093+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      }
                  ],
     "recently_discovered_ids":  [
-                                    "2114344899432923447"
+
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2114385866437349565",
+                                 "url":  "https://x.com/Hoshikawa_sub/status/2114385866437349565",
+                                 "text":  "(:3[____] youtube.com/post/Ugkx9Sdw1…",
+                                 "published_at_jst":  "2026-10-26T00:57:28.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-26T07:50:03.5293031+09:00"
+                             },
+                             {
+                                 "id":  "2114371450782326818",
+                                 "url":  "https://x.com/nijisanji_app/status/2114371450782326818",
+                                 "text":  "【🌞甲斐田晴 オリジナル曲 配信情報♫】 甲斐田晴( @Kaida_Haru )デジタルシングル「AYAKASHI DAYS」がリリース！ ただいま《10/26(月)00:00》より、各ストアにて順次配信開始！ ▼リリース情報 linkco.re/0BgyHaVN",
+                                 "published_at_jst":  "2026-10-26T00:00:11.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-26T07:50:03.5293031+09:00"
+                             },
                              {
                                  "id":  "2114344899432923447",
                                  "url":  "https://x.com/nijisanji_app/status/2114344899432923447",
@@ -183,13 +197,6 @@
                                  "text":  "💡 #伊波ライ ( @rai_173 )1stミニアルバム『Hero』配信中💡 #伊波1stミニアルバム_Hero が 本日10月24日(土)0:00より配信中です🎧⚙️ ぜひたくさん聴いてください！ ▼🎧配信サイトはこちら linkco.re/hm1GvbQe ※全7曲の収録内容やクリエイター陣のコメント、ライブ詳細はツリーへ👇",
                                  "published_at_jst":  "2026-10-24T15:00:19.0000000+09:00",
                                  "first_seen_at_jst":  "2026-10-24T15:50:02.0972124+09:00"
-                             },
-                             {
-                                 "id":  "2113646685591339169",
-                                 "url":  "https://x.com/nijisanji_app/status/2113646685591339169",
-                                 "text":  "💡 #伊波ライ ( @rai_173 )1stミニアルバム『Hero』配信＆記念3Dライブ決定💡 ■ #伊波1stミニアルバム_Hero が 本日10月24日(土)0:00より配信開始！🎧⚙️ ▼🎧配信サイトはこちら linkco.re/hm1GvbQe ※全7曲の収録内容やクリエイター陣のコメント、ライブ詳細はツリーへ👇",
-                                 "published_at_jst":  "2026-10-24T00:00:14.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-24T07:50:02.9299282+09:00"
                              }
                          ],
     "undated_posts_unverified":  [
