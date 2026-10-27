@@ -1,26 +1,26 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-10-27T07:50:03.2088660+09:00",
+    "collected_at_jst":  "2026-10-27T15:50:02.2874351+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-10-27T07:50:03.6076888+09:00",
+                         "checked_at_jst":  "2026-10-27T15:50:02.6091175+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-10-27T07:50:04.6260593+09:00",
+                         "checked_at_jst":  "2026-10-27T15:50:03.2107893+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-10-27T07:50:05.0629614+09:00",
+                         "checked_at_jst":  "2026-10-27T15:50:03.6254551+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
@@ -30,6 +30,20 @@
 
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2114916284047769600",
+                                 "url":  "https://x.com/nijisanji_app/status/2114916284047769600",
+                                 "text":  "【🎂誕生日グッズ＆ボイス販売決定！】 ベルモンド・バンデラス( @belmond_b_2434 )の誕生日を記念した『誕生日グッズ＆ボイス2026』 ＜ 11/3(火・祝)18:00 ＞から、にじさんじオフィシャルストア にて販売決定！ shop.nijisanji.jp #にじストア",
+                                 "published_at_jst":  "2026-10-27T12:05:10.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-27T15:50:02.2874351+09:00"
+                             },
+                             {
+                                 "id":  "2114915078529253721",
+                                 "url":  "https://x.com/nijisanji_app/status/2114915078529253721",
+                                 "text":  "【📢 #にじさんじTrickorTreatVoice 再販売中！】 #にじストア にて再販中の「にじさんじ Trick or Treat Voice」 再販期間は＜ 10/30(金)23:59 ＞まで！ 再販売ページはこちら！▼ shop.nijisanji.jp/DIG_TAG_164 再販売されるボイスは「にじストアボイスアプリ」でも再生できます。 Show more",
+                                 "published_at_jst":  "2026-10-27T12:00:22.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-27T15:50:02.2874351+09:00"
+                             },
                              {
                                  "id":  "2114674250590343491",
                                  "url":  "https://x.com/nijisanji_app/status/2114674250590343491",
@@ -162,48 +176,6 @@
                                  "text":  "久々の気まぐれリプ返たいむ꒰⁔՞•⤙•՞⁔꒱",
                                  "published_at_jst":  "2026-10-25T15:56:57.0000000+09:00",
                                  "first_seen_at_jst":  "2026-10-25T23:50:02.9806270+09:00"
-                             },
-                             {
-                                 "id":  "2114236932624621780",
-                                 "url":  "https://x.com/nijisanji_app/status/2114236932624621780",
-                                 "text":  "── 主催者紹介 ── ≫≫⚔️NIJISANJI Extreme Match / Overwatch🛡️≪≪ MC▶︎ #ラトナ・プティ / #ローレン・イロアス 実況解説▷ #蒼汁 🎥 youtube.com/live/27u1s-jLn… #にじEX_OW",
-                                 "published_at_jst":  "2026-10-25T15:05:40.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-25T15:50:03.4581670+09:00"
-                             },
-                             {
-                                 "id":  "2114235893825622516",
-                                 "url":  "https://x.com/nijisanji_app/status/2114235893825622516",
-                                 "text":  "── 配信開始 ── ≫≫⚔️NIJISANJI Extreme Match / Overwatch🛡️≪≪ 応援や感想は【 #にじEX_OW 】をつけてポストをお願いします。",
-                                 "published_at_jst":  "2026-10-25T15:01:32.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-25T15:50:03.4581670+09:00"
-                             },
-                             {
-                                 "id":  "2114220007253270936",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2114220007253270936",
-                                 "text":  "おはよぴーすっ(｡•⩊•ಣ",
-                                 "published_at_jst":  "2026-10-25T13:58:24.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-25T15:50:03.4581670+09:00"
-                             },
-                             {
-                                 "id":  "2114197807200620685",
-                                 "url":  "https://x.com/nijisanji_app/status/2114197807200620685",
-                                 "text":  "／ #MECHATUA_1stライブ 追加グッズ販売情報 ＼ MECHATU-A 1st LIVE “Over Drive!”追加グッズの受注販売はまもなく終了！ 受注期間は本日10月25日(日)23:59までとなりますのでお忘れなく！ ▼ 販売ページはこちら shop.nijisanji.jp/TAG_948",
-                                 "published_at_jst":  "2026-10-25T12:30:11.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-25T15:50:03.4581670+09:00"
-                             },
-                             {
-                                 "id":  "2114192766498648299",
-                                 "url":  "https://x.com/nijisanji_app/status/2114192766498648299",
-                                 "text":  "🎬 ━ ℕ𝕠𝕨 𝕆𝕟 𝕊𝕥𝕒𝕘𝕖 ━ 🎬 #七次元生徒会_ミュージカル グッズ事前販売本日まで 🎶━━━━━━━━━━🎶 『劇場版 七次元生徒会！ 〜ずっと一緒大作戦！〜』 グッズの事前販売は本日10/25(日)23:59までとなっております。 ご注文をお忘れなく！ 🎥 ご購入はこちら Show more",
-                                 "published_at_jst":  "2026-10-25T12:10:09.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-25T15:50:03.4581670+09:00"
-                             },
-                             {
-                                 "id":  "2114191534925246740",
-                                 "url":  "https://x.com/nijisanji_app/status/2114191534925246740",
-                                 "text":  "【🎂誕生日グッズ＆ボイス販売決定！】 榊ネス( @Ness_Sakaki )の誕生日を記念した『誕生日グッズ＆ボイス2026』 ＜ 11/1(日)18:00 ＞から、にじさんじオフィシャルストア にて販売決定！ shop.nijisanji.jp #にじストア",
-                                 "published_at_jst":  "2026-10-25T12:05:16.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-25T15:50:03.4581670+09:00"
                              }
                          ],
     "undated_posts_unverified":  [
