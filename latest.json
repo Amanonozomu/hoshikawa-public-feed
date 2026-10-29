@@ -1,35 +1,85 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-10-29T15:50:03.1548733+09:00",
+    "collected_at_jst":  "2026-10-29T23:50:02.4849918+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-10-29T15:50:03.4724257+09:00",
+                         "checked_at_jst":  "2026-10-29T23:50:02.7726524+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-10-29T15:50:05.6006613+09:00",
+                         "checked_at_jst":  "2026-10-29T23:50:03.4720867+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-10-29T15:50:06.1061491+09:00",
+                         "checked_at_jst":  "2026-10-29T23:50:03.9361237+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      }
                  ],
     "recently_discovered_ids":  [
-
+                                    "2115793110240464925",
+                                    "2115803523904618820"
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2115803523904618820",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2115803523904618820",
+                                 "text":  "なんとー！ #YouTubeMusic のプレイリスト「デジタルネイティブ」のカバーに選出いただきました𐔌ᐡᴗ͈ ̫ ᴗ͈ᐡ𐦯✨ 新曲の「圧倒的☆スター星」がたくさんプレイリストINしてます🌟 みんないっぱい聞いてね～～！🎀 🤍プレイリスト🎧🎶 デジタルネイティブ yt.be/music/DigitalJP RELEASED Show more",
+                                 "published_at_jst":  "2026-10-29T22:50:44.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-29T23:50:02.4849918+09:00"
+                             },
+                             {
+                                 "id":  "2115793110240464925",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2115793110240464925",
+                                 "text":  "配信ありがとう！面白かったー！ 無限にやれちゃうげーむだね🧸 猫ちゃんも可愛いฅ ˆ. ̫.ˆ ฅ みんなもぜひ遊んでみてねっ！🎀 #meowdoku #trickormeowdoku #PR @Meowdoku_JP",
+                                 "published_at_jst":  "2026-10-29T22:09:21.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-29T23:50:02.4849918+09:00"
+                             },
+                             {
+                                 "id":  "2115756786221482065",
+                                 "url":  "https://x.com/nijisanji_app/status/2115756786221482065",
+                                 "text":  "【 #ぷちさんじ 】最新話を公開📺 戌亥とこに遊ばれてしまうアンジュ・カトリーナ【漫画】 @inui_toko @Ange_Katrina_ ▼YouTubeはコチラ",
+                                 "published_at_jst":  "2026-10-29T19:45:01.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-29T23:50:02.4849918+09:00"
+                             },
+                             {
+                                 "id":  "2115753071464833194",
+                                 "url":  "https://x.com/nijisanji_app/status/2115753071464833194",
+                                 "text":  "【 #SleepySheepy グッズ販売中！】 にじさんじオフィシャルストアでは羊をテーマにした『Sleepy Sheepy』グッズを販売中🐏 日常使いしやすいモチーフグッズからケース付き缶バッジなど、ビジュアルグッズもご用意しています🎀 商品ページ▼ shop.nijisanji.jp/TAG_1029",
+                                 "published_at_jst":  "2026-10-29T19:30:15.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-29T23:50:02.4849918+09:00"
+                             },
+                             {
+                                 "id":  "2115745540243918997",
+                                 "url":  "https://x.com/nijisanji_app/status/2115745540243918997",
+                                 "text":  "【📢 #にじさんじTrickorTreatVoice 再販期間のお知らせ】 #にじストア にて再販中の 「にじさんじ Trick or Treat Voice」 販売期間は＜ 明日10/30(金)23:59 ＞ まで！ 再販売ページはこちら！▼ shop.nijisanji.jp/DIG_TAG_164 再販売されるボイスは「にじストアボイスアプリ」でも再生できます。 Show more",
+                                 "published_at_jst":  "2026-10-29T19:00:20.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-29T23:50:02.4849918+09:00"
+                             },
+                             {
+                                 "id":  "2115741729022415303",
+                                 "url":  "https://x.com/nijisanji_app/status/2115741729022415303",
+                                 "text":  "◥◣ #加賀美ハヤト_1stライブBD ◢◤ 1st One Man Live \"ALPHA ONE\" ━┄\u003e\u003e発売はとうとう来週！\u003c\u003c┄━ 発売を目前に控えたBlu-rayの魅力を 加賀美ハヤトが存分にお伝えする テレビショッピング映像を公開！ Blu-rayは2026年11月4日(水)発売！ 各店舗にてご予約受付中！ youtu.be/sc7jNemEphk Show more",
+                                 "published_at_jst":  "2026-10-29T18:45:11.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-29T23:50:02.4849918+09:00"
+                             },
+                             {
+                                 "id":  "2115737988533780597",
+                                 "url":  "https://x.com/nijisanji_app/status/2115737988533780597",
+                                 "text":  "／ ライバー個別ファンクラブ会員様限定！ スマートフォン用待ち受けカレンダー画像を毎月プレゼント！✨ ＼ 今月のデザインはこちら！✨ にじさんじ FAN CLUBアプリの「ファンクラブ特典配布チャンネル」からお受け取りください！ ▼ライバー個別ファンクラブへの入会はこちら！ Show more",
+                                 "published_at_jst":  "2026-10-29T18:30:19.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-29T23:50:02.4849918+09:00"
+                             },
                              {
                                  "id":  "2115651103803199908",
                                  "url":  "https://x.com/nijisanji_app/status/2115651103803199908",
@@ -141,62 +191,6 @@
                                  "text":  "『にじさんじのB級バラエティ(仮)』第122回、ありがとうございました。 君もマッチで丁寧な生活をしちゃおう！ 次回は＜11/10(火)24:00＞放送予定！お楽しみに！ ▽今回の放送はこちら youtu.be/Tym4kGjb4so #にじバラ仮",
                                  "published_at_jst":  "2026-10-28T00:30:04.0000000+09:00",
                                  "first_seen_at_jst":  "2026-10-28T07:50:03.2309033+09:00"
-                             },
-                             {
-                                 "id":  "2115051198235709589",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2115051198235709589",
-                                 "text":  "配信開始！✨️",
-                                 "published_at_jst":  "2026-10-27T21:01:16.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-27T23:50:03.1947500+09:00"
-                             },
-                             {
-                                 "id":  "2115020768971231356",
-                                 "url":  "https://x.com/nijisanji_app/status/2115020768971231356",
-                                 "text":  "【 #Haunted_School グッズについて】 ご好評につき一部完売しておりました「クリアファイル＆ステッカーシート」につきまして、 在庫追加を開始しました！ ▼グッズはこちら shop.nijisanji.jp/TAG_1023 #にじさんじハロウィン2026",
-                                 "published_at_jst":  "2026-10-27T19:00:21.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-27T23:50:03.1947500+09:00"
-                             },
-                             {
-                                 "id":  "2115013240057135489",
-                                 "url":  "https://x.com/nijisanji_app/status/2115013240057135489",
-                                 "text":  "✧˙⁎⋆┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ にじさんじ Girls Idol Festival 〜虹をつないで、未来を見つけて〜 応援のぼり追加受付決定！ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈⋆⁎˙✧ 12月19日(土)、20(日)にインテックス大阪にて開催の にじさんじ Girls Idol Festival Show more",
-                                 "published_at_jst":  "2026-10-27T18:30:26.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-27T23:50:03.1947500+09:00"
-                             },
-                             {
-                                 "id":  "2115006378763063637",
-                                 "url":  "https://x.com/nijisanji_app/status/2115006378763063637",
-                                 "text":  "【 #SILENT_SERVANTS グッズ紹介②】 シックなデザインのカップ＆ソーサーは、ティータイムにはもちろん、インテリアとして飾るのもおすすめ☕ ライバーの複製手書きメッセージカード付きで、特別感のあるアイテムです。 Show more",
-                                 "published_at_jst":  "2026-10-27T18:03:10.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-27T23:50:03.1947500+09:00"
-                             },
-                             {
-                                 "id":  "2115006199079010458",
-                                 "url":  "https://x.com/nijisanji_app/status/2115006199079010458",
-                                 "text":  "【 #SILENT_SERVANTS グッズ紹介①】 撮りおろしビジュアルを楽しめるアイテムをご紹介！ ステッカーセットは紅茶缶をイメージした缶にステッカーを入れてお届け🫖 ▼商品ページ shop.nijisanji.jp/TAG_1024",
-                                 "published_at_jst":  "2026-10-27T18:02:27.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-27T23:50:03.1947500+09:00"
-                             },
-                             {
-                                 "id":  "2115005791115841763",
-                                 "url":  "https://x.com/nijisanji_app/status/2115005791115841763",
-                                 "text":  "【 #SILENT_SERVANTS 販売決定！】 10/28(水)18:00より にじストア にて、 笹木咲、獅子堂あかり、長尾景、春崎エアル、フレン・E・ルスタリオ、ましろ爻、夕陽リリ、ローレン・イロアスによる『SILENT SERVANTS』グッズの販売が決定！ 詳細はツリーをチェック！",
-                                 "published_at_jst":  "2026-10-27T18:00:50.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-27T23:50:03.1947500+09:00"
-                             },
-                             {
-                                 "id":  "2115005594818302077",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2115005594818302077",
-                                 "text":  "🌟今日21:00 ⸝⸝ ⭑ 完全初見！魔法使いの夜！⋆͛🎮⋆͛ 青子も草ちゃんも鳶丸も可愛すぎて空気がうまい☁ ところで赤みのかかった髪に眼鏡をかけたタバコを吸うお姉さんが気になりすぎています。 今日から4章！読むぞおおおおおおおおおお🎶 youtube.com/live/KvC-0OCMB…",
-                                 "published_at_jst":  "2026-10-27T18:00:03.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-27T23:50:03.1947500+09:00"
-                             },
-                             {
-                                 "id":  "2114998586488607191",
-                                 "url":  "https://x.com/Hoshikawa_sub/status/2114998586488607191",
-                                 "text":  "誕生日グッズが届き始めているという噂꒰⁔՞•⤙•՞⁔꒱",
-                                 "published_at_jst":  "2026-10-27T17:32:12.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-27T23:50:03.1947500+09:00"
                              }
                          ],
     "undated_posts_unverified":  [
