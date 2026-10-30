@@ -1,35 +1,85 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-10-30T15:50:01.6443401+09:00",
+    "collected_at_jst":  "2026-10-30T23:50:02.3348703+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-10-30T15:50:01.8813707+09:00",
+                         "checked_at_jst":  "2026-10-30T23:50:02.6449151+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-10-30T15:50:02.5212336+09:00",
+                         "checked_at_jst":  "2026-10-30T23:50:03.3275279+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-10-30T15:50:03.5236451+09:00",
+                         "checked_at_jst":  "2026-10-30T23:50:03.8054765+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      }
                  ],
     "recently_discovered_ids":  [
-
+                                    "2116153841137942646",
+                                    "2116145119342846253"
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2116153841137942646",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2116153841137942646",
+                                 "text":  "配信開始！✨️",
+                                 "published_at_jst":  "2026-10-30T22:02:46.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-30T23:50:02.3348703+09:00"
+                             },
+                             {
+                                 "id":  "2116145119342846253",
+                                 "url":  "https://x.com/nijisanji_app/status/2116145119342846253",
+                                 "text":  "━━━━*＼\\🦸🦸🦸🦸/／*━━━━ 「Promised Future」\u0026「月下美人」 この後MVプレミア公開！ ━━━━*／/🦸🦸🦸🦸\\＼*━━━━ Oriens「Promised Future」 Dytica「月下美人」 MVのプレミア公開はこの後すぐ！ 21:30「Promised Future」 youtu.be/j1b6bt9YGHk 21:35「月下美人」 Show more",
+                                 "published_at_jst":  "2026-10-30T21:28:07.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-30T23:50:02.3348703+09:00"
+                             },
+                             {
+                                 "id":  "2116125216028098846",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2116125216028098846",
+                                 "text":  "🌟今日22:00 ⸝⸝ ⭑ /／ 第１回！今日から始まる星座会議！🩷 \\＼ 星くずと話して月1ラジオやることにしたよ✨ たのしみ～～～～～！꒰⁔՞•⤙•՞⁔꒱ 🩵おたより募集ちゅう forms.gle/MMo463m98f9JfC… 💛配信ここ youtube.com/live/uAiLOm8lC…",
+                                 "published_at_jst":  "2026-10-30T20:09:01.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-30T23:50:02.3348703+09:00"
+                             },
+                             {
+                                 "id":  "2116107913278394589",
+                                 "url":  "https://x.com/nijisanji_app/status/2116107913278394589",
+                                 "text":  "【📢 #にじさんじナイショのお願いボイス ＆ #にじさんじ妖怪パロディボイス 販売期間のお知らせ】 にじさんじオフィシャルストア 販売期間は＜ 明日10/31(土)23:59 ＞ まで！ ナイショのお願いボイス▼ shop.nijisanji.jp/DIG_TAG_194 妖怪パロディボイス▼ shop.nijisanji.jp/DIG_TAG_195",
+                                 "published_at_jst":  "2026-10-30T19:00:16.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-30T23:50:02.3348703+09:00"
+                             },
+                             {
+                                 "id":  "2116100460574916758",
+                                 "url":  "https://x.com/nijisanji_app/status/2116100460574916758",
+                                 "text":  "━━━━*＼\\🦸🦸🦸🦸/／*━━━━ 「Promised Future」\u0026「月下美人」 MV本日10/30(金)公開決定！ ━━━━*／/🦸🦸🦸🦸\\＼*━━━━ Oriens「Promised Future」 Dytica「月下美人」のMVを 本日連続でプレミア公開！ 21:30「Promised Future」 youtu.be/j1b6bt9YGHk 21:35「月下美人」 Show more",
+                                 "published_at_jst":  "2026-10-30T18:30:39.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-30T23:50:02.3348703+09:00"
+                             },
+                             {
+                                 "id":  "2116097841391411531",
+                                 "url":  "https://x.com/nijisanji_app/status/2116097841391411531",
+                                 "text":  "次回の「くろのわーるがなんかやる」情報！ 詳細は引用元をチェック！👀 #くろなん",
+                                 "published_at_jst":  "2026-10-30T18:20:15.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-30T23:50:02.3348703+09:00"
+                             },
+                             {
+                                 "id":  "2116092988275474849",
+                                 "url":  "https://x.com/nijisanji_app/status/2116092988275474849",
+                                 "text":  "【 #SANBAKA_Palais_de_Rose グッズ販売開始！】 にじさんじオフィシャルストアにて アンジュ・カトリーナ、リゼ・ヘルエスタ、戌亥とこによる『SANBAKA Palais de Rose』グッズの販売を開始！ 商品ページ▼ shop.nijisanji.jp/TAG_1303 #さんばか",
+                                 "published_at_jst":  "2026-10-30T18:00:58.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-30T23:50:02.3348703+09:00"
+                             },
                              {
                                  "id":  "2116009782851367047",
                                  "url":  "https://x.com/nijisanji_app/status/2116009782851367047",
@@ -141,48 +191,6 @@
                                  "text":  "🌟10/29(木)21:00 ⸝⸝ ⭑ もうすぐハロウィン🎃 猫を見つけるナンプレ『Meowdoku!』のPR配信をします！ コメントのみんなと協力して頑張るぞ🎀 youtube.com/live/XsCtp-Wa2… #meowdoku #trickormeowdoku #PR @Meowdoku_JP",
                                  "published_at_jst":  "2026-10-29T12:00:04.0000000+09:00",
                                  "first_seen_at_jst":  "2026-10-29T15:50:03.1548733+09:00"
-                             },
-                             {
-                                 "id":  "2115411430459814229",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2115411430459814229",
-                                 "text":  "歌みたどうだったー？！ᐢ ̥_ ̫ _ ̥ᐢ 今回は初めての歌い方をしてみたよっ 動画もめーーっちゃ素敵だから見て🌙 月姫だいすきだᐢ ̥_ ̫ _ ̥ᐢ",
-                                 "published_at_jst":  "2026-10-28T20:52:42.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-28T23:50:03.6981632+09:00"
-                             },
-                             {
-                                 "id":  "2115405768392688031",
-                                 "url":  "https://x.com/nijisanji_app/status/2115405768392688031",
-                                 "text":  "◥◣ #加賀美ハヤト_1stライブBD ◢◤ 1st One Man Live \"ALPHA ONE\" ━┄\u003e\u003e発売はとうとう来週！\u003c\u003c┄━ 発売を目前に控えたBlu-rayの魅力を 加賀美ハヤトが存分にお伝えする テレビショッピング映像を公開！ Blu-rayは2026年11月4日(水)発売！ 各店舗にてご予約受付中！ youtube.com/watch?v=bszxPV… Show more",
-                                 "published_at_jst":  "2026-10-28T20:30:12.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-28T23:50:03.6981632+09:00"
-                             },
-                             {
-                                 "id":  "2115404477440422015",
-                                 "url":  "https://x.com/nijisanji_app/status/2115404477440422015",
-                                 "text":  "📺 YouTubeでも遊び方動画を公開中！ ▼動画はこちら youtube.com/watch?v=SIRdMp… #にじなな #NIJISANJI7ColorsCardGame",
-                                 "published_at_jst":  "2026-10-28T20:25:04.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-28T23:50:03.6981632+09:00"
-                             },
-                             {
-                                 "id":  "2115398420731207932",
-                                 "url":  "https://x.com/nijisanji_app/status/2115398420731207932",
-                                 "text":  "🌈7️⃣ #にじなな 遊び方動画公開！ #NIJISANJI7ColorsCardGame の遊び方を、実際の対戦シーンを交えながらご紹介！ 基本的なルールやゲームの流れをチェックして、にじななの対戦を楽しもう！ #PR",
-                                 "published_at_jst":  "2026-10-28T20:01:00.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-28T23:50:03.6981632+09:00"
-                             },
-                             {
-                                 "id":  "2115398338342461456",
-                                 "url":  "https://x.com/nijisanji_app/status/2115398338342461456",
-                                 "text":  "今週のロクフリはお休み💤 最新のラインナップはこちら！！ 全員恋のライバル！？ハッピーエンドをむかえるのは誰？ youtu.be/bxgD1klhnqA ローレンの初出勤！ドタバタ危険バイト『サーモンラン』！ youtu.be/KQ5HppIsZ9w トンデモ営業トーク炸裂！？文野環とフミの売り込み力とは？ Show more",
-                                 "published_at_jst":  "2026-10-28T20:00:40.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-28T23:50:03.6981632+09:00"
-                             },
-                             {
-                                 "id":  "2115383181444882729",
-                                 "url":  "https://x.com/nijisanji_app/status/2115383181444882729",
-                                 "text":  "✥♦️━━━━━━━━━━♦️✥ #葛葉ワンマンライブ ネチケ購入は明日まで ✥♦️━━━━━━━━━━♦️✥ Kuzuha One-Man Live \"Bloody Alexandrite\" 配信視聴チケット発売中です🍷 購入期限は明日10月29日(木)23:59まで ▼ ライブ本編(ニコニコ生放送) live.nicovideo.jp/watch/lv351345… ▼ Show more",
-                                 "published_at_jst":  "2026-10-28T19:00:27.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-28T23:50:03.6981632+09:00"
                              }
                          ],
     "undated_posts_unverified":  [
