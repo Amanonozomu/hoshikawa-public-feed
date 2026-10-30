@@ -1,26 +1,26 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-10-30T07:50:02.7047459+09:00",
+    "collected_at_jst":  "2026-10-30T15:50:01.6443401+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-10-30T07:50:03.0441930+09:00",
+                         "checked_at_jst":  "2026-10-30T15:50:01.8813707+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-10-30T07:50:04.6008862+09:00",
+                         "checked_at_jst":  "2026-10-30T15:50:02.5212336+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-10-30T07:50:05.0913651+09:00",
+                         "checked_at_jst":  "2026-10-30T15:50:03.5236451+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
@@ -30,6 +30,27 @@
 
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2116009782851367047",
+                                 "url":  "https://x.com/nijisanji_app/status/2116009782851367047",
+                                 "text":  "━━━━━━━━━━ 国際フォーラム公演 「37カード」視聴期限のご案内 ━━━━━━━━━━ 「甲斐田晴 1st One-Man Live -足跡-」 「ローレン・イロアス 1st LIVE “FACE”」 「叶 2nd LIVE 孤独 -solitude-」 にじストア特典「37カード」の視聴期限は明日10月31日(土)23:59までとなります。 Show more",
+                                 "published_at_jst":  "2026-10-30T12:30:20.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-30T15:50:01.6443401+09:00"
+                             },
+                             {
+                                 "id":  "2116004728769597672",
+                                 "url":  "https://x.com/nijisanji_app/status/2116004728769597672",
+                                 "text":  "【NIJI Photo Journey 📸特設サイトオープン！】 数ある過去のグッズビジュアルの中から、 まだ知らない一枚や懐かしい一枚との出会いを楽しむ 「NIJI Photo Journey」がにじさんじオフィシャルストア内にオープン！ ※掲載されるビジュアルは定期的に更新をいたします。 ▼詳細はこちら Show more",
+                                 "published_at_jst":  "2026-10-30T12:10:15.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-30T15:50:01.6443401+09:00"
+                             },
+                             {
+                                 "id":  "2116003107532599795",
+                                 "url":  "https://x.com/nijisanji_app/status/2116003107532599795",
+                                 "text":  "🎬 ━━━ ℕ𝕠𝕨 𝕆𝕟 𝕊𝕥𝕒𝕘𝕖 ━━━ 🎬 七次元生徒会！『七次元回廊』 発売記念トークイベント情報 🎶━━━━━━━━━━━━━🎶 アニメイトまたはタワーレコードでのCDご予約で トークイベントに抽選でご招待🎉 生徒会メンバーVS生徒・保護者のみなさんとのクイズ大会も…⁉ Show more",
+                                 "published_at_jst":  "2026-10-30T12:03:48.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-30T15:50:01.6443401+09:00"
+                             },
                              {
                                  "id":  "2115803523904618820",
                                  "url":  "https://x.com/Sara_Hoshikawa/status/2115803523904618820",
@@ -162,27 +183,6 @@
                                  "text":  "✥♦️━━━━━━━━━━♦️✥ #葛葉ワンマンライブ ネチケ購入は明日まで ✥♦️━━━━━━━━━━♦️✥ Kuzuha One-Man Live \"Bloody Alexandrite\" 配信視聴チケット発売中です🍷 購入期限は明日10月29日(木)23:59まで ▼ ライブ本編(ニコニコ生放送) live.nicovideo.jp/watch/lv351345… ▼ Show more",
                                  "published_at_jst":  "2026-10-28T19:00:27.0000000+09:00",
                                  "first_seen_at_jst":  "2026-10-28T23:50:03.6981632+09:00"
-                             },
-                             {
-                                 "id":  "2115292531403727102",
-                                 "url":  "https://x.com/nijisanji_app/status/2115292531403727102",
-                                 "text":  "【 #PR 「にじさんじ」×「イルミオロースタリーラボ.」】 #Zeffiro の #風楽奏斗 と #渡会雲雀 をイメージした 「オリジナルブレンドコーヒー☕」が販売中！ 2人のこだわりがつまったコーヒー、ぜひご賞味ください！ 受注期間は【10/30(金)23:59】まで！ ilmiioroastery.com/collections/ni… #にじイルミオ",
-                                 "published_at_jst":  "2026-10-28T13:00:14.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-28T15:50:03.2352523+09:00"
-                             },
-                             {
-                                 "id":  "2115277474754093377",
-                                 "url":  "https://x.com/nijisanji_app/status/2115277474754093377",
-                                 "text":  "─ ꘜ ─ ─────────── #虚空狂宴 ネチケ購入は本日まで ─────────── ─ ꘜ ─ 剣持刀也リアルソロライブ【虚空狂宴】 配信視聴チケット発売中 購入期限は本日10月28日(水)23:59まで ▼ メイン配信(ニコニコ生放送) live.nicovideo.jp/watch/lv351345… ▼ チケット詳細 Show more",
-                                 "published_at_jst":  "2026-10-28T12:00:24.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-28T15:50:03.2352523+09:00"
-                             },
-                             {
-                                 "id":  "2115253601383952553",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2115253601383952553",
-                                 "text":  "おはよぉ^_ ̫_^੭ねむ 今日はこれっっっ。🌙",
-                                 "published_at_jst":  "2026-10-28T10:25:32.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-28T15:50:03.2352523+09:00"
                              }
                          ],
     "undated_posts_unverified":  [
