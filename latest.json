@@ -1,36 +1,42 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-10-31T23:50:02.6896181+09:00",
+    "collected_at_jst":  "2026-11-01T07:50:01.9521700+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-10-31T23:50:03.0208070+09:00",
+                         "checked_at_jst":  "2026-11-01T07:50:02.3439467+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-10-31T23:50:03.8244872+09:00",
+                         "checked_at_jst":  "2026-11-01T07:50:03.0296589+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-10-31T23:50:04.3702271+09:00",
+                         "checked_at_jst":  "2026-11-01T07:50:03.5053622+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      }
                  ],
     "recently_discovered_ids":  [
-                                    "2116507148930994619",
-                                    "2116515895090758102"
+
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2116549072933031958",
+                                 "url":  "https://x.com/nijisanji_app/status/2116549072933031958",
+                                 "text":  "【 #VOLTACTION TV出演情報📺】 11/7(土)23:00から放送の #Venue101 に出演決定🎉 ぜひご覧ください✨ ※生放送のため予告なく放送時間・内容が変更となる可能性がございます。",
+                                 "published_at_jst":  "2026-11-01T00:13:17.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-01T07:50:01.9521700+09:00"
+                             },
                              {
                                  "id":  "2116515895090758102",
                                  "url":  "https://x.com/Sara_Hoshikawa/status/2116515895090758102",
@@ -72,6 +78,13 @@
                                  "text":  "◥◣ #加賀美ハヤト_1stライブ ◢◤ ━┄\u003e\u003e新宿ユニカ放映決定\u003c\u003c┄━ Blu-ray発売を記念し、新宿ユニカビジョンにて 「ALPHA ONE」ライブ映像を放映🎉 ▼放映楽曲 1. 泥の誉れ 2. デストロイアガール 3. 間隙の座標 ▼放映期間 11月2日(月)～11月8日(日) ▼放映時間 9時 / 11時 / 13時 / 15時 / 17時 Show more",
                                  "published_at_jst":  "2026-10-31T17:00:38.0000000+09:00",
                                  "first_seen_at_jst":  "2026-10-31T23:50:02.6896181+09:00"
+                             },
+                             {
+                                 "id":  "2116433138712973547",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2116433138712973547",
+                                 "text":  "🎀short投稿したよ🎀 圧倒的☆スター星 踊ったよ🎶✨️ 私世界一可愛い君だけの一番星！ みてね〜〜꒰⁔՞•⤙•՞⁔꒱🩵 youtube.com/shorts/P2Et4rP…",
+                                 "published_at_jst":  "2026-10-31T16:32:36.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-01T07:50:01.9521700+09:00"
                              },
                              {
                                  "id":  "2116409921663345092",
