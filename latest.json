@@ -1,36 +1,78 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-10-31T15:50:02.7986688+09:00",
+    "collected_at_jst":  "2026-10-31T23:50:02.6896181+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-10-31T15:50:03.2342281+09:00",
+                         "checked_at_jst":  "2026-10-31T23:50:03.0208070+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-10-31T15:50:04.9267417+09:00",
+                         "checked_at_jst":  "2026-10-31T23:50:03.8244872+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-10-31T15:50:05.6272758+09:00",
+                         "checked_at_jst":  "2026-10-31T23:50:04.3702271+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      }
                  ],
     "recently_discovered_ids":  [
-                                    "2116394780980830421",
-                                    "2116409921663345092"
+                                    "2116507148930994619",
+                                    "2116515895090758102"
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2116515895090758102",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2116515895090758102",
+                                 "text":  "配信開始！",
+                                 "published_at_jst":  "2026-10-31T22:01:27.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-31T23:50:02.6896181+09:00"
+                             },
+                             {
+                                 "id":  "2116507148930994619",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2116507148930994619",
+                                 "text":  "リゼ様にお誘いいただき参加しています！✨ 歌パートよりコールの方が多かった気がしますはいせーの！ミョーホントゥスケ！化織飛除去！ジャージャー！ファイボ！ワイパー！うりゃおい！うりゃおい！うりゃおい！うりゃおい！あー！よっしゃいくぞー！タイガー！ファイヤー！ Show more",
+                                 "published_at_jst":  "2026-10-31T21:26:41.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-31T23:50:02.6896181+09:00"
+                             },
+                             {
+                                 "id":  "2116493537395253753",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2116493537395253753",
+                                 "text":  "🌟今日22:00 ⸝⸝ ⭑ 進撃の巨人🎀アニメ同時視聴！ 泣きすぎて中断しちゃった前回🥲 気持ち整理して続きの54話から❣️ youtube.com/live/dRdDssZw_…",
+                                 "published_at_jst":  "2026-10-31T20:32:36.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-31T23:50:02.6896181+09:00"
+                             },
+                             {
+                                 "id":  "2116460731659128907",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2116460731659128907",
+                                 "text":  "なんと！パタちが誘ってくれて、カルテNo.2222を歌ったよ〜❤️‍🩹 甘々可愛いからみんな是非聴いてねっ꒰⁔՞•⤙•՞⁔꒱",
+                                 "published_at_jst":  "2026-10-31T18:22:15.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-31T23:50:02.6896181+09:00"
+                             },
+                             {
+                                 "id":  "2116455190073339986",
+                                 "url":  "https://x.com/nijisanji_app/status/2116455190073339986",
+                                 "text":  "【 #春崎エアル ライバー企画ボイス販売開始！】 本日よりにじストアにて、 春崎エアル( @harusakiair2434 )によるライバー企画ボイスの販売を開始いたしました！ ■販売ページはこちら！ shop.nijisanji.jp/dig-k-00085.ht… 本商品はボイスアプリ対応！▼ voiceapp.shop.nijisanji.jp #にじストア",
+                                 "published_at_jst":  "2026-10-31T18:00:13.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-31T23:50:02.6896181+09:00"
+                             },
+                             {
+                                 "id":  "2116440194832597452",
+                                 "url":  "https://x.com/nijisanji_app/status/2116440194832597452",
+                                 "text":  "◥◣ #加賀美ハヤト_1stライブ ◢◤ ━┄\u003e\u003e新宿ユニカ放映決定\u003c\u003c┄━ Blu-ray発売を記念し、新宿ユニカビジョンにて 「ALPHA ONE」ライブ映像を放映🎉 ▼放映楽曲 1. 泥の誉れ 2. デストロイアガール 3. 間隙の座標 ▼放映期間 11月2日(月)～11月8日(日) ▼放映時間 9時 / 11時 / 13時 / 15時 / 17時 Show more",
+                                 "published_at_jst":  "2026-10-31T17:00:38.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-10-31T23:50:02.6896181+09:00"
+                             },
                              {
                                  "id":  "2116409921663345092",
                                  "url":  "https://x.com/nijisanji_app/status/2116409921663345092",
@@ -135,55 +177,6 @@
                                  "text":  "🎬 ━━━ ℕ𝕠𝕨 𝕆𝕟 𝕊𝕥𝕒𝕘𝕖 ━━━ 🎬 七次元生徒会！『七次元回廊』 発売記念トークイベント情報 🎶━━━━━━━━━━━━━🎶 アニメイトまたはタワーレコードでのCDご予約で トークイベントに抽選でご招待🎉 生徒会メンバーVS生徒・保護者のみなさんとのクイズ大会も…⁉ Show more",
                                  "published_at_jst":  "2026-10-30T12:03:48.0000000+09:00",
                                  "first_seen_at_jst":  "2026-10-30T15:50:01.6443401+09:00"
-                             },
-                             {
-                                 "id":  "2115803523904618820",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2115803523904618820",
-                                 "text":  "なんとー！ #YouTubeMusic のプレイリスト「デジタルネイティブ」のカバーに選出いただきました𐔌ᐡᴗ͈ ̫ ᴗ͈ᐡ𐦯✨ 新曲の「圧倒的☆スター星」がたくさんプレイリストINしてます🌟 みんないっぱい聞いてね～～！🎀 🤍プレイリスト🎧🎶 デジタルネイティブ yt.be/music/DigitalJP RELEASED Show more",
-                                 "published_at_jst":  "2026-10-29T22:50:44.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-29T23:50:02.4849918+09:00"
-                             },
-                             {
-                                 "id":  "2115793110240464925",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2115793110240464925",
-                                 "text":  "配信ありがとう！面白かったー！ 無限にやれちゃうげーむだね🧸 猫ちゃんも可愛いฅ ˆ. ̫.ˆ ฅ みんなもぜひ遊んでみてねっ！🎀 #meowdoku #trickormeowdoku #PR @Meowdoku_JP",
-                                 "published_at_jst":  "2026-10-29T22:09:21.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-29T23:50:02.4849918+09:00"
-                             },
-                             {
-                                 "id":  "2115756786221482065",
-                                 "url":  "https://x.com/nijisanji_app/status/2115756786221482065",
-                                 "text":  "【 #ぷちさんじ 】最新話を公開📺 戌亥とこに遊ばれてしまうアンジュ・カトリーナ【漫画】 @inui_toko @Ange_Katrina_ ▼YouTubeはコチラ",
-                                 "published_at_jst":  "2026-10-29T19:45:01.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-29T23:50:02.4849918+09:00"
-                             },
-                             {
-                                 "id":  "2115753071464833194",
-                                 "url":  "https://x.com/nijisanji_app/status/2115753071464833194",
-                                 "text":  "【 #SleepySheepy グッズ販売中！】 にじさんじオフィシャルストアでは羊をテーマにした『Sleepy Sheepy』グッズを販売中🐏 日常使いしやすいモチーフグッズからケース付き缶バッジなど、ビジュアルグッズもご用意しています🎀 商品ページ▼ shop.nijisanji.jp/TAG_1029",
-                                 "published_at_jst":  "2026-10-29T19:30:15.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-29T23:50:02.4849918+09:00"
-                             },
-                             {
-                                 "id":  "2115745540243918997",
-                                 "url":  "https://x.com/nijisanji_app/status/2115745540243918997",
-                                 "text":  "【📢 #にじさんじTrickorTreatVoice 再販期間のお知らせ】 #にじストア にて再販中の 「にじさんじ Trick or Treat Voice」 販売期間は＜ 明日10/30(金)23:59 ＞ まで！ 再販売ページはこちら！▼ shop.nijisanji.jp/DIG_TAG_164 再販売されるボイスは「にじストアボイスアプリ」でも再生できます。 Show more",
-                                 "published_at_jst":  "2026-10-29T19:00:20.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-29T23:50:02.4849918+09:00"
-                             },
-                             {
-                                 "id":  "2115741729022415303",
-                                 "url":  "https://x.com/nijisanji_app/status/2115741729022415303",
-                                 "text":  "◥◣ #加賀美ハヤト_1stライブBD ◢◤ 1st One Man Live \"ALPHA ONE\" ━┄\u003e\u003e発売はとうとう来週！\u003c\u003c┄━ 発売を目前に控えたBlu-rayの魅力を 加賀美ハヤトが存分にお伝えする テレビショッピング映像を公開！ Blu-rayは2026年11月4日(水)発売！ 各店舗にてご予約受付中！ youtu.be/sc7jNemEphk Show more",
-                                 "published_at_jst":  "2026-10-29T18:45:11.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-29T23:50:02.4849918+09:00"
-                             },
-                             {
-                                 "id":  "2115737988533780597",
-                                 "url":  "https://x.com/nijisanji_app/status/2115737988533780597",
-                                 "text":  "／ ライバー個別ファンクラブ会員様限定！ スマートフォン用待ち受けカレンダー画像を毎月プレゼント！✨ ＼ 今月のデザインはこちら！✨ にじさんじ FAN CLUBアプリの「ファンクラブ特典配布チャンネル」からお受け取りください！ ▼ライバー個別ファンクラブへの入会はこちら！ Show more",
-                                 "published_at_jst":  "2026-10-29T18:30:19.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-29T23:50:02.4849918+09:00"
                              }
                          ],
     "undated_posts_unverified":  [
