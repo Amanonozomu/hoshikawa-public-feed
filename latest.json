@@ -1,35 +1,49 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-11-01T07:50:01.9521700+09:00",
+    "collected_at_jst":  "2026-11-01T15:50:02.6102673+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-11-01T07:50:02.3439467+09:00",
+                         "checked_at_jst":  "2026-11-01T15:50:02.9493459+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-11-01T07:50:03.0296589+09:00",
+                         "checked_at_jst":  "2026-11-01T15:50:05.1121083+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-11-01T07:50:03.5053622+09:00",
+                         "checked_at_jst":  "2026-11-01T15:50:05.8528386+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      }
                  ],
     "recently_discovered_ids":  [
-
+                                    "2116759672548216977"
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2116759672548216977",
+                                 "url":  "https://x.com/nijisanji_app/status/2116759672548216977",
+                                 "text":  "／ #NIJISANJI_EN 全体曲のリリース日決定！ ＼ 長らくお待たせしました！ 待望のNIJISANJI EN初の全体曲が12月5日(土)0時(JST)に配信開始✨ MVは翌日12月6日(日)12時(JST)にプレミア公開！ 日本語版と英語版両方お楽しみいただけます🎶 All our thanks for your love and support❤️ #NIJIEN5Anni",
+                                 "published_at_jst":  "2026-11-01T14:10:08.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-01T15:50:02.6102673+09:00"
+                             },
+                             {
+                                 "id":  "2116726990074167409",
+                                 "url":  "https://x.com/nijisanji_app/status/2116726990074167409",
+                                 "text":  "【🎂誕生日グッズ＆ボイス販売決定！】 愛園愛美( @manami_aizono )の誕生日を記念した『誕生日グッズ＆ボイス2026』 ＜ 11/8(日)18:00 ＞から、にじさんじオフィシャルストア にて販売決定！ shop.nijisanji.jp #にじストア",
+                                 "published_at_jst":  "2026-11-01T12:00:15.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-01T15:50:02.6102673+09:00"
+                             },
                              {
                                  "id":  "2116549072933031958",
                                  "url":  "https://x.com/nijisanji_app/status/2116549072933031958",
@@ -169,27 +183,6 @@
                                  "text":  "【 #SANBAKA_Palais_de_Rose グッズ販売開始！】 にじさんじオフィシャルストアにて アンジュ・カトリーナ、リゼ・ヘルエスタ、戌亥とこによる『SANBAKA Palais de Rose』グッズの販売を開始！ 商品ページ▼ shop.nijisanji.jp/TAG_1303 #さんばか",
                                  "published_at_jst":  "2026-10-30T18:00:58.0000000+09:00",
                                  "first_seen_at_jst":  "2026-10-30T23:50:02.3348703+09:00"
-                             },
-                             {
-                                 "id":  "2116009782851367047",
-                                 "url":  "https://x.com/nijisanji_app/status/2116009782851367047",
-                                 "text":  "━━━━━━━━━━ 国際フォーラム公演 「37カード」視聴期限のご案内 ━━━━━━━━━━ 「甲斐田晴 1st One-Man Live -足跡-」 「ローレン・イロアス 1st LIVE “FACE”」 「叶 2nd LIVE 孤独 -solitude-」 にじストア特典「37カード」の視聴期限は明日10月31日(土)23:59までとなります。 Show more",
-                                 "published_at_jst":  "2026-10-30T12:30:20.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-30T15:50:01.6443401+09:00"
-                             },
-                             {
-                                 "id":  "2116004728769597672",
-                                 "url":  "https://x.com/nijisanji_app/status/2116004728769597672",
-                                 "text":  "【NIJI Photo Journey 📸特設サイトオープン！】 数ある過去のグッズビジュアルの中から、 まだ知らない一枚や懐かしい一枚との出会いを楽しむ 「NIJI Photo Journey」がにじさんじオフィシャルストア内にオープン！ ※掲載されるビジュアルは定期的に更新をいたします。 ▼詳細はこちら Show more",
-                                 "published_at_jst":  "2026-10-30T12:10:15.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-30T15:50:01.6443401+09:00"
-                             },
-                             {
-                                 "id":  "2116003107532599795",
-                                 "url":  "https://x.com/nijisanji_app/status/2116003107532599795",
-                                 "text":  "🎬 ━━━ ℕ𝕠𝕨 𝕆𝕟 𝕊𝕥𝕒𝕘𝕖 ━━━ 🎬 七次元生徒会！『七次元回廊』 発売記念トークイベント情報 🎶━━━━━━━━━━━━━🎶 アニメイトまたはタワーレコードでのCDご予約で トークイベントに抽選でご招待🎉 生徒会メンバーVS生徒・保護者のみなさんとのクイズ大会も…⁉ Show more",
-                                 "published_at_jst":  "2026-10-30T12:03:48.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-30T15:50:01.6443401+09:00"
                              }
                          ],
     "undated_posts_unverified":  [
