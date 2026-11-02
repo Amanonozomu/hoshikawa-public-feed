@@ -1,35 +1,70 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-11-02T15:50:02.0034784+09:00",
+    "collected_at_jst":  "2026-11-02T23:50:02.8527767+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-11-02T15:50:02.2989797+09:00",
+                         "checked_at_jst":  "2026-11-02T23:50:03.2168947+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-11-02T15:50:03.9589333+09:00",
+                         "checked_at_jst":  "2026-11-02T23:50:05.2981480+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-11-02T15:50:04.6462774+09:00",
+                         "checked_at_jst":  "2026-11-02T23:50:05.7549427+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      }
                  ],
     "recently_discovered_ids":  [
-                                    "2117119594385355249"
+
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2117206336463405440",
+                                 "url":  "https://x.com/nijisanji_app/status/2117206336463405440",
+                                 "text":  "【 #ぷちさんじ 】最新話を公開📺 絶対に酒寄颯馬と皇れおを二人きりにさせたくない渚トラウト【漫画】 @Tr0uT_2434 @sakayori_soma @sumeragi_0o ▼YouTubeはコチラ youtube.com/shorts/TnWQ_6R…",
+                                 "published_at_jst":  "2026-11-02T19:45:01.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-02T23:50:02.8527767+09:00"
+                             },
+                             {
+                                 "id":  "2117195200401756621",
+                                 "url":  "https://x.com/nijisanji_app/status/2117195200401756621",
+                                 "text":  "【 #SILENT_SERVANTS グッズ 在庫追加決定のお知らせ】 ご好評につき一部完売しておりました『SILENT SERVANTS』グッズにつきまして、 一部商品に限り在庫追加が決定しました。 【11/5(木)19:00】より在庫追加を開始いたします。 ▼販売ページはこちら shop.nijisanji.jp/TAG_1024 Show more",
+                                 "published_at_jst":  "2026-11-02T19:00:46.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-02T23:50:02.8527767+09:00"
+                             },
+                             {
+                                 "id":  "2117193765400289648",
+                                 "url":  "https://x.com/nijisanji_app/status/2117193765400289648",
+                                 "text":  "まもなく「くろのわーるがなんかやる」放送開始！ 詳細は引用元をチェック！👀 #くろなん",
+                                 "published_at_jst":  "2026-11-02T18:55:03.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-02T23:50:02.8527767+09:00"
+                             },
+                             {
+                                 "id":  "2117188451116495168",
+                                 "url":  "https://x.com/nijisanji_app/status/2117188451116495168",
+                                 "text":  "次回の「超!VOLTACTION」情報！ 詳細は引用元をチェック！👀 #超ヴォルタ",
+                                 "published_at_jst":  "2026-11-02T18:33:56.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-02T23:50:02.8527767+09:00"
+                             },
+                             {
+                                 "id":  "2117164820084744603",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2117164820084744603",
+                                 "text":  "🌟今日19:00 ⸝⸝ ⭑ 完全初見のFate/Grand Order！ 第2部1章！永久凍土帝国アナスタシア⛄ 首都に攻め入る準備は順調！10節から行くぞ！ youtube.com/live/5djHUwFOf…",
+                                 "published_at_jst":  "2026-11-02T17:00:02.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-02T23:50:02.8527767+09:00"
+                             },
                              {
                                  "id":  "2117119594385355249",
                                  "url":  "https://x.com/nijisanji_app/status/2117119594385355249",
@@ -112,55 +147,6 @@
                                  "url":  "https://x.com/nijisanji_app/status/2116549072933031958",
                                  "text":  "【 #VOLTACTION TV出演情報📺】 11/7(土)23:00から放送の #Venue101 に出演決定🎉 ぜひご覧ください✨ ※生放送のため予告なく放送時間・内容が変更となる可能性がございます。",
                                  "published_at_jst":  "2026-11-01T00:13:17.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-01T07:50:01.9521700+09:00"
-                             },
-                             {
-                                 "id":  "2116515895090758102",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2116515895090758102",
-                                 "text":  "配信開始！",
-                                 "published_at_jst":  "2026-10-31T22:01:27.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-31T23:50:02.6896181+09:00"
-                             },
-                             {
-                                 "id":  "2116507148930994619",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2116507148930994619",
-                                 "text":  "リゼ様にお誘いいただき参加しています！✨ 歌パートよりコールの方が多かった気がしますはいせーの！ミョーホントゥスケ！化織飛除去！ジャージャー！ファイボ！ワイパー！うりゃおい！うりゃおい！うりゃおい！うりゃおい！あー！よっしゃいくぞー！タイガー！ファイヤー！ Show more",
-                                 "published_at_jst":  "2026-10-31T21:26:41.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-31T23:50:02.6896181+09:00"
-                             },
-                             {
-                                 "id":  "2116493537395253753",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2116493537395253753",
-                                 "text":  "🌟今日22:00 ⸝⸝ ⭑ 進撃の巨人🎀アニメ同時視聴！ 泣きすぎて中断しちゃった前回🥲 気持ち整理して続きの54話から❣️ youtube.com/live/dRdDssZw_…",
-                                 "published_at_jst":  "2026-10-31T20:32:36.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-31T23:50:02.6896181+09:00"
-                             },
-                             {
-                                 "id":  "2116460731659128907",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2116460731659128907",
-                                 "text":  "なんと！パタちが誘ってくれて、カルテNo.2222を歌ったよ〜❤️‍🩹 甘々可愛いからみんな是非聴いてねっ꒰⁔՞•⤙•՞⁔꒱",
-                                 "published_at_jst":  "2026-10-31T18:22:15.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-31T23:50:02.6896181+09:00"
-                             },
-                             {
-                                 "id":  "2116455190073339986",
-                                 "url":  "https://x.com/nijisanji_app/status/2116455190073339986",
-                                 "text":  "【 #春崎エアル ライバー企画ボイス販売開始！】 本日よりにじストアにて、 春崎エアル( @harusakiair2434 )によるライバー企画ボイスの販売を開始いたしました！ ■販売ページはこちら！ shop.nijisanji.jp/dig-k-00085.ht… 本商品はボイスアプリ対応！▼ voiceapp.shop.nijisanji.jp #にじストア",
-                                 "published_at_jst":  "2026-10-31T18:00:13.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-31T23:50:02.6896181+09:00"
-                             },
-                             {
-                                 "id":  "2116440194832597452",
-                                 "url":  "https://x.com/nijisanji_app/status/2116440194832597452",
-                                 "text":  "◥◣ #加賀美ハヤト_1stライブ ◢◤ ━┄\u003e\u003e新宿ユニカ放映決定\u003c\u003c┄━ Blu-ray発売を記念し、新宿ユニカビジョンにて 「ALPHA ONE」ライブ映像を放映🎉 ▼放映楽曲 1. 泥の誉れ 2. デストロイアガール 3. 間隙の座標 ▼放映期間 11月2日(月)～11月8日(日) ▼放映時間 9時 / 11時 / 13時 / 15時 / 17時 Show more",
-                                 "published_at_jst":  "2026-10-31T17:00:38.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-31T23:50:02.6896181+09:00"
-                             },
-                             {
-                                 "id":  "2116433138712973547",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2116433138712973547",
-                                 "text":  "🎀short投稿したよ🎀 圧倒的☆スター星 踊ったよ🎶✨️ 私世界一可愛い君だけの一番星！ みてね〜〜꒰⁔՞•⤙•՞⁔꒱🩵 youtube.com/shorts/P2Et4rP…",
-                                 "published_at_jst":  "2026-10-31T16:32:36.0000000+09:00",
                                  "first_seen_at_jst":  "2026-11-01T07:50:01.9521700+09:00"
                              }
                          ],
