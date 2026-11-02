@@ -1,35 +1,56 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-11-02T07:50:02.8461015+09:00",
+    "collected_at_jst":  "2026-11-02T15:50:02.0034784+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-11-02T07:50:03.2548584+09:00",
+                         "checked_at_jst":  "2026-11-02T15:50:02.2989797+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-11-02T07:50:03.9874269+09:00",
+                         "checked_at_jst":  "2026-11-02T15:50:03.9589333+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-11-02T07:50:04.5416536+09:00",
+                         "checked_at_jst":  "2026-11-02T15:50:04.6462774+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      }
                  ],
     "recently_discovered_ids":  [
-                                    "2117023629024141333"
+                                    "2117119594385355249"
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2117119594385355249",
+                                 "url":  "https://x.com/nijisanji_app/status/2117119594385355249",
+                                 "text":  "🍜 #PR #スーパーカップ × #にじさんじ 🍜 キャンペーン賞品の実物サンプルが公開されました✨ ここでしか手に入らない限定グッズです！ ご応募がまだの方はぜひご参加ください🎉 🍜 #にじスーパーカップ部 🍜",
+                                 "published_at_jst":  "2026-11-02T14:00:20.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-02T15:50:02.0034784+09:00"
+                             },
+                             {
+                                 "id":  "2117093158907691107",
+                                 "url":  "https://x.com/nijisanji_app/status/2117093158907691107",
+                                 "text":  "༻࿐ ✦ ✧ ✦ ࿐༺ #不破湊_ECLIPSE 試聴動画(XFD)・参加クリエイター公開！ ༻࿐ ✦ ✧ ✦ ࿐༺ 12月9日(水)発売 不破湊 New Single『ECLIPSE』 収録楽曲の詳細を公開🎉 ✧試聴動画(XFD) youtu.be/j02fnrdvZW4?si… ✧にじストアでのご予約はこちら shop.nijisanji.jp/TAG_1016 Show more",
+                                 "published_at_jst":  "2026-11-02T12:15:17.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-02T15:50:02.0034784+09:00"
+                             },
+                             {
+                                 "id":  "2117089496386932940",
+                                 "url":  "https://x.com/nijisanji_app/status/2117089496386932940",
+                                 "text":  "【にじたうん 特別壁紙プレゼント中！】 ゆがみん(にじさんじ)のLINE公式アカウントにて、 今回プレゼントする壁紙は、秋を楽しむにじたうん🎁 「11月 壁紙」とメッセージを送ってくださいね✨ ▼LINEアカウント友だち追加はこちら lin.ee/4wIjsdm",
+                                 "published_at_jst":  "2026-11-02T12:00:44.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-02T15:50:02.0034784+09:00"
+                             },
                              {
                                  "id":  "2117023629024141333",
                                  "url":  "https://x.com/Sara_Hoshikawa/status/2117023629024141333",
@@ -141,41 +162,6 @@
                                  "text":  "🎀short投稿したよ🎀 圧倒的☆スター星 踊ったよ🎶✨️ 私世界一可愛い君だけの一番星！ みてね〜〜꒰⁔՞•⤙•՞⁔꒱🩵 youtube.com/shorts/P2Et4rP…",
                                  "published_at_jst":  "2026-10-31T16:32:36.0000000+09:00",
                                  "first_seen_at_jst":  "2026-11-01T07:50:01.9521700+09:00"
-                             },
-                             {
-                                 "id":  "2116409921663345092",
-                                 "url":  "https://x.com/nijisanji_app/status/2116409921663345092",
-                                 "text":  "しっかり者な君のワガママに、頬がゆるむ ＼販売中のボイスのワンシーンを漫画でお届け／ ニュイ・ソシエール( @Nui_Sociere )と一緒におやすみ #漫画でにじさんじボイス #漫画が読めるハッシュタグ",
-                                 "published_at_jst":  "2026-10-31T15:00:20.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-31T15:50:02.7986688+09:00"
-                             },
-                             {
-                                 "id":  "2116394780980830421",
-                                 "url":  "https://x.com/nijisanji_app/status/2116394780980830421",
-                                 "text":  "✧˙⁎⋆┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ にじさんじ Girls Idol Festival 〜虹をつないで、未来を見つけて〜 チケット情報 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈⋆⁎˙✧ にじさんじ Girls Idol Festival 〜虹をつないで、未来を見つけて〜 Show more",
-                                 "published_at_jst":  "2026-10-31T14:00:11.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-31T15:50:02.7986688+09:00"
-                             },
-                             {
-                                 "id":  "2116367144627913042",
-                                 "url":  "https://x.com/nijisanji_app/status/2116367144627913042",
-                                 "text":  "【📢 #にじさんじハロウィンゾンビボイス 販売中！】 ……素手ですやん👀 やっててよかった、形意拳✊ ゾンビだらけの社内スタジオで #タメナンデス がバトル！？ タメナンデス編商品ページはこちら！▼ shop.nijisanji.jp/dig-k-00084_2.… 形意拳が炸裂するサンプルボイスも公開中！ 販売期間は＜ Show more",
-                                 "published_at_jst":  "2026-10-31T12:10:22.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-31T15:50:02.7986688+09:00"
-                             },
-                             {
-                                 "id":  "2116365853272977798",
-                                 "url":  "https://x.com/nijisanji_app/status/2116365853272977798",
-                                 "text":  "【🎂誕生日グッズ販売決定！】 家長むぎ( @ienaga_mugi23 )の誕生日を記念した『誕生日グッズ2026』 ＜ 11/7(土)18:00 ＞から、にじさんじオフィシャルストア にて販売決定！ shop.nijisanji.jp #にじストア",
-                                 "published_at_jst":  "2026-10-31T12:05:14.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-31T15:50:02.7986688+09:00"
-                             },
-                             {
-                                 "id":  "2116365220621009140",
-                                 "url":  "https://x.com/nijisanji_app/status/2116365220621009140",
-                                 "text":  "【緑仙オリジナルグッズ販売開始！】 本日10/31(土)12:00より、にじさんじ公式BOOTHにて 緑仙( @midori_2434 )オリジナルグッズの販売を開始いたしました！ 販売ページはこちら！▽ nijisanji.booth.pm",
-                                 "published_at_jst":  "2026-10-31T12:02:43.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-10-31T15:50:02.7986688+09:00"
                              }
                          ],
     "undated_posts_unverified":  [
