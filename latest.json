@@ -1,36 +1,42 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-11-03T23:50:01.9804091+09:00",
+    "collected_at_jst":  "2026-11-04T07:50:01.9736437+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-11-03T23:50:02.2926637+09:00",
+                         "checked_at_jst":  "2026-11-04T07:50:02.3335977+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-11-03T23:50:03.0648318+09:00",
+                         "checked_at_jst":  "2026-11-04T07:50:03.0281835+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-11-03T23:50:04.0771353+09:00",
+                         "checked_at_jst":  "2026-11-04T07:50:03.4692922+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      }
                  ],
     "recently_discovered_ids":  [
-                                    "2117587718138155168",
-                                    "2117602735289971132"
+
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2117632931741192587",
+                                 "url":  "https://x.com/nijisanji_app/status/2117632931741192587",
+                                 "text":  "◥◣ #加賀美ハヤト_1stライブBD ◢◤ 1st One Man Live \"ALPHA ONE\" ━┄\u003e\u003e本日発売！\u003c\u003c┄━ 加賀美ハヤト 1st One Man Live \"ALPHA ONE\" Blu-rayが本日ついに発売🎉 ぜひお手元で何度でもお楽しみください✨ ▼詳細はこちら prtimes.jp/main/html/rd/p… ▼ #にじストア ご購入はこちら Show more",
+                                 "published_at_jst":  "2026-11-04T00:00:09.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-04T07:50:01.9736437+09:00"
+                             },
                              {
                                  "id":  "2117602735289971132",
                                  "url":  "https://x.com/nijisanji_app/status/2117602735289971132",
@@ -163,13 +169,6 @@
                                  "text":  "【にじたうん 特別壁紙プレゼント中！】 ゆがみん(にじさんじ)のLINE公式アカウントにて、 今回プレゼントする壁紙は、秋を楽しむにじたうん🎁 「11月 壁紙」とメッセージを送ってくださいね✨ ▼LINEアカウント友だち追加はこちら lin.ee/4wIjsdm",
                                  "published_at_jst":  "2026-11-02T12:00:44.0000000+09:00",
                                  "first_seen_at_jst":  "2026-11-02T15:50:02.0034784+09:00"
-                             },
-                             {
-                                 "id":  "2117023629024141333",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2117023629024141333",
-                                 "text":  "おはよ～～～！💛🩷🩵 11月のいいねちょーだいっ！꒰⁔՞•⤙•՞⁔꒱",
-                                 "published_at_jst":  "2026-11-02T07:39:00.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-02T07:50:02.8461015+09:00"
                              }
                          ],
     "undated_posts_unverified":  [
