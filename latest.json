@@ -1,35 +1,70 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-11-02T23:50:02.8527767+09:00",
+    "collected_at_jst":  "2026-11-03T15:50:02.1433097+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-11-02T23:50:03.2168947+09:00",
+                         "checked_at_jst":  "2026-11-03T15:50:02.5696257+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-11-02T23:50:05.2981480+09:00",
+                         "checked_at_jst":  "2026-11-03T15:50:03.4157743+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-11-02T23:50:05.7549427+09:00",
+                         "checked_at_jst":  "2026-11-03T15:50:03.8805334+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      }
                  ],
     "recently_discovered_ids":  [
-
+                                    "2117484887481647111"
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2117484887481647111",
+                                 "url":  "https://x.com/Hoshikawa_sub/status/2117484887481647111",
+                                 "text":  "事務所にiPadのペンを忘れて手書きできなかったฅ ˆ. ̫.ˆ ฅ youtube.com/post/Ugkxx7Fow…",
+                                 "published_at_jst":  "2026-11-03T14:11:52.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-03T15:50:02.1433097+09:00"
+                             },
+                             {
+                                 "id":  "2117454237072564580",
+                                 "url":  "https://x.com/nijisanji_app/status/2117454237072564580",
+                                 "text":  "【Happy B-day to Kuzuha 再販決定！】 ご好評につき一部完売しておりましたグッズにつきまして、 にじストアにて【2026/11/10(火)18:00】より在庫追加を行います。 商品ページ▼ shop.nijisanji.jp/TAG_823 ※数には限りがございます。 再販グッズ▼ ・ランダム缶バッジ ・ランダムフォト風カード Show more",
+                                 "published_at_jst":  "2026-11-03T12:10:05.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-03T15:50:02.1433097+09:00"
+                             },
+                             {
+                                 "id":  "2117452995025924158",
+                                 "url":  "https://x.com/nijisanji_app/status/2117452995025924158",
+                                 "text":  "✧˙⁎⋆┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ にじさんじ Girls Idol Festival 〜虹をつないで、未来を見つけて〜 チケット情報 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈⋆⁎˙✧ にじさんじ Girls Idol Festival 〜虹をつないで、未来を見つけて〜 Show more",
+                                 "published_at_jst":  "2026-11-03T12:05:09.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-03T15:50:02.1433097+09:00"
+                             },
+                             {
+                                 "id":  "2117451789956260193",
+                                 "url":  "https://x.com/nijisanji_app/status/2117451789956260193",
+                                 "text":  "【🎂誕生日グッズ＆ボイス販売決定！】 葛葉( @Vamp_Kuzu )の誕生日を記念した『誕生日グッズ＆ボイス2026』 ＜ 11/10(火)18:00 ＞から、にじさんじオフィシャルストア にて販売決定！ shop.nijisanji.jp #にじストア",
+                                 "published_at_jst":  "2026-11-03T12:00:21.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-03T15:50:02.1433097+09:00"
+                             },
+                             {
+                                 "id":  "2117421681136509091",
+                                 "url":  "https://x.com/nijisanji_app/status/2117421681136509091",
+                                 "text":  "🎬 ━━━ ℕ𝕠𝕨 𝕆𝕟 𝕊𝕥𝕒𝕘𝕖 ━━━ 🎬 七次元生徒会！『七次元回廊』 Preキャンペーン開始！ 🎶━━━━━━━━━━━━━🎶 応募してくださった方全員に 限定壁紙画像をプレゼント📱 応募方法は、下記の応募フォームもしくは 添付画像にてご確認ください👀✨ Show more",
+                                 "published_at_jst":  "2026-11-03T10:00:43.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-03T15:50:02.1433097+09:00"
+                             },
                              {
                                  "id":  "2117206336463405440",
                                  "url":  "https://x.com/nijisanji_app/status/2117206336463405440",
@@ -127,27 +162,6 @@
                                  "text":  "【🌈7️⃣ #にじなな 開発秘話大公開！11月号 今週水曜公開📢】 「NIJISANJI 7 Colors Card Game」の情報番組 にじなな情報局11月号 11/4(水) 20:00よりプレミア公開！ 開発陣のこだわりとはいったい！？お楽しみに！ youtu.be/4aCFMB-xe7Y #にじなな情報局 #PR",
                                  "published_at_jst":  "2026-11-01T17:00:28.0000000+09:00",
                                  "first_seen_at_jst":  "2026-11-01T23:50:03.0530394+09:00"
-                             },
-                             {
-                                 "id":  "2116759672548216977",
-                                 "url":  "https://x.com/nijisanji_app/status/2116759672548216977",
-                                 "text":  "／ #NIJISANJI_EN 全体曲のリリース日決定！ ＼ 長らくお待たせしました！ 待望のNIJISANJI EN初の全体曲が12月5日(土)0時(JST)に配信開始✨ MVは翌日12月6日(日)12時(JST)にプレミア公開！ 日本語版と英語版両方お楽しみいただけます🎶 All our thanks for your love and support❤️ #NIJIEN5Anni",
-                                 "published_at_jst":  "2026-11-01T14:10:08.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-01T15:50:02.6102673+09:00"
-                             },
-                             {
-                                 "id":  "2116726990074167409",
-                                 "url":  "https://x.com/nijisanji_app/status/2116726990074167409",
-                                 "text":  "【🎂誕生日グッズ＆ボイス販売決定！】 愛園愛美( @manami_aizono )の誕生日を記念した『誕生日グッズ＆ボイス2026』 ＜ 11/8(日)18:00 ＞から、にじさんじオフィシャルストア にて販売決定！ shop.nijisanji.jp #にじストア",
-                                 "published_at_jst":  "2026-11-01T12:00:15.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-01T15:50:02.6102673+09:00"
-                             },
-                             {
-                                 "id":  "2116549072933031958",
-                                 "url":  "https://x.com/nijisanji_app/status/2116549072933031958",
-                                 "text":  "【 #VOLTACTION TV出演情報📺】 11/7(土)23:00から放送の #Venue101 に出演決定🎉 ぜひご覧ください✨ ※生放送のため予告なく放送時間・内容が変更となる可能性がございます。",
-                                 "published_at_jst":  "2026-11-01T00:13:17.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-01T07:50:01.9521700+09:00"
                              }
                          ],
     "undated_posts_unverified":  [
