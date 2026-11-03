@@ -1,35 +1,78 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-11-03T15:50:02.1433097+09:00",
+    "collected_at_jst":  "2026-11-03T23:50:01.9804091+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-11-03T15:50:02.5696257+09:00",
+                         "checked_at_jst":  "2026-11-03T23:50:02.2926637+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-11-03T15:50:03.4157743+09:00",
+                         "checked_at_jst":  "2026-11-03T23:50:03.0648318+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-11-03T15:50:03.8805334+09:00",
+                         "checked_at_jst":  "2026-11-03T23:50:04.0771353+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      }
                  ],
     "recently_discovered_ids":  [
-                                    "2117484887481647111"
+                                    "2117587718138155168",
+                                    "2117602735289971132"
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2117602735289971132",
+                                 "url":  "https://x.com/nijisanji_app/status/2117602735289971132",
+                                 "text":  "【🫖 #榊ネス ボカロPデビュー！🌿】 「とっておきの一撃を！ (feat. 初音ミク)」 作詞・作曲：榊ネス 編曲：高田翼、榊ネス 榊ネス自身が作詞作曲を手がけた初のボカロ曲がリリース決定！ ▼MVは明日11月4日(水)19:00公開 youtu.be/wQNs1l0U7rI",
+                                 "published_at_jst":  "2026-11-03T22:00:09.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-03T23:50:01.9804091+09:00"
+                             },
+                             {
+                                 "id":  "2117587718138155168",
+                                 "url":  "https://x.com/nijisanji_app/status/2117587718138155168",
+                                 "text":  "【 #笹木咲 新3D衣装お披露目ライブ 開催決定！】 笹木咲( @saku_sasaki )の新3D衣装お披露目ライブの開催が決定いたしました！ ＜ 11/11(水)21:00〜 ＞全編無料にてお届けします！🎋🐼 スペシャルゲストもお見逃しなく！ ▼会場はこちら youtube.com/live/6LmA_a_p_… #笹木咲3D新衣装",
+                                 "published_at_jst":  "2026-11-03T21:00:29.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-03T23:50:01.9804091+09:00"
+                             },
+                             {
+                                 "id":  "2117570017676165543",
+                                 "url":  "https://x.com/nijisanji_app/status/2117570017676165543",
+                                 "text":  "まもなく「超!VOLTACTION」放送開始！ 詳細は引用元をチェック！👀 #超ヴォルタ",
+                                 "published_at_jst":  "2026-11-03T19:50:09.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-03T23:50:01.9804091+09:00"
+                             },
+                             {
+                                 "id":  "2117566413686853942",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2117566413686853942",
+                                 "text":  "🌟今日21:00 ⸝⸝ ⭑ ただいま！今おしごとから帰ってきたよー！！ 完全初見！魔法使いの夜！⋆͛🎮⋆͛ ５章突入！！！謎の人形との戦闘、はじまりました。 youtube.com/live/77saaoocP…",
+                                 "published_at_jst":  "2026-11-03T19:35:50.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-03T23:50:01.9804091+09:00"
+                             },
+                             {
+                                 "id":  "2117543586338340986",
+                                 "url":  "https://x.com/nijisanji_app/status/2117543586338340986",
+                                 "text":  "【 #にじトイ 無料パートアーカイブ公開！】 10/20(火)に放送された「にじさんじのTOYBOX！」 無料パートをにじさんじ公式YouTubeチャンネルにて公開！ 視聴はこちらから▼ youtu.be/b0MJr3al1QU ■出演者 文野環/笹木咲/宇佐美リト",
+                                 "published_at_jst":  "2026-11-03T18:05:07.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-03T23:50:01.9804091+09:00"
+                             },
+                             {
+                                 "id":  "2117542340038627513",
+                                 "url":  "https://x.com/nijisanji_app/status/2117542340038627513",
+                                 "text":  "【🎂誕生日グッズ＆ボイス販売開始！】 本日より ベルモンド・バンデラス( @belmond_b_2434 )の誕生日を記念した『誕生日グッズ＆ボイス2026』を販売開始いたしました！ 販売ページ▽ shop.nijisanji.jp/SSZS-81420.html ■販売期間 11/9(月)23:59まで #にじストア",
+                                 "published_at_jst":  "2026-11-03T18:00:10.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-03T23:50:01.9804091+09:00"
+                             },
                              {
                                  "id":  "2117484887481647111",
                                  "url":  "https://x.com/Hoshikawa_sub/status/2117484887481647111",
@@ -127,41 +170,6 @@
                                  "text":  "おはよ～～～！💛🩷🩵 11月のいいねちょーだいっ！꒰⁔՞•⤙•՞⁔꒱",
                                  "published_at_jst":  "2026-11-02T07:39:00.0000000+09:00",
                                  "first_seen_at_jst":  "2026-11-02T07:50:02.8461015+09:00"
-                             },
-                             {
-                                 "id":  "2116871882528227628",
-                                 "url":  "https://x.com/Hoshikawa_sub/status/2116871882528227628",
-                                 "text":  "外の景色見ながらさけるチーズさいてる",
-                                 "published_at_jst":  "2026-11-01T21:36:01.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-01T23:50:03.0530394+09:00"
-                             },
-                             {
-                                 "id":  "2116835090521342093",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2116835090521342093",
-                                 "text":  "すみません！！！起きたときから怪しかったんだけど、体調万全頭すっきり状態で文章読みたいので今日まほよお休みします！申し訳ない！🙏🏻 明後日以降5章クリアまで駆け抜けますᐢ ̥_ ̫ _ ̥ᐢ",
-                                 "published_at_jst":  "2026-11-01T19:09:49.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-01T23:50:03.0530394+09:00"
-                             },
-                             {
-                                 "id":  "2116832877166149957",
-                                 "url":  "https://x.com/nijisanji_app/status/2116832877166149957",
-                                 "text":  "🎬 ━━━ ℕ𝕠𝕨 𝕆𝕟 𝕊𝕥𝕒𝕘𝕖 ━━━ 🎬 七次元生徒会！『七次元回廊』 発売日まで後10日！ 🎶━━━━━━━━━━━━━🎶 にじストア特典のご紹介🥳 👗有償特典 アクリルスタンド(メンバー個別 全6種) 🎨無償特典 複製手書きコメント入り2L版カード(各形態絵柄別)",
-                                 "published_at_jst":  "2026-11-01T19:01:01.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-01T23:50:03.0530394+09:00"
-                             },
-                             {
-                                 "id":  "2116817571567792483",
-                                 "url":  "https://x.com/nijisanji_app/status/2116817571567792483",
-                                 "text":  "【🎂誕生日グッズ＆ボイス販売開始！】 本日より 榊ネス( @Ness_Sakaki )の誕生日を記念した『誕生日グッズ＆ボイス2026』を販売開始いたしました！ 販売ページ▽ shop.nijisanji.jp/SSZS-81417.html ■販売期間 11/7(土)23:59まで #にじストア",
-                                 "published_at_jst":  "2026-11-01T18:00:12.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-01T23:50:03.0530394+09:00"
-                             },
-                             {
-                                 "id":  "2116802538649600254",
-                                 "url":  "https://x.com/nijisanji_app/status/2116802538649600254",
-                                 "text":  "【🌈7️⃣ #にじなな 開発秘話大公開！11月号 今週水曜公開📢】 「NIJISANJI 7 Colors Card Game」の情報番組 にじなな情報局11月号 11/4(水) 20:00よりプレミア公開！ 開発陣のこだわりとはいったい！？お楽しみに！ youtu.be/4aCFMB-xe7Y #にじなな情報局 #PR",
-                                 "published_at_jst":  "2026-11-01T17:00:28.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-01T23:50:03.0530394+09:00"
                              }
                          ],
     "undated_posts_unverified":  [
