@@ -1,26 +1,26 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-11-05T07:50:02.9919661+09:00",
+    "collected_at_jst":  "2026-11-05T15:50:02.5542738+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-11-05T07:50:03.4028224+09:00",
+                         "checked_at_jst":  "2026-11-05T15:50:02.9485717+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-11-05T07:50:04.5649592+09:00",
+                         "checked_at_jst":  "2026-11-05T15:50:04.4290926+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-11-05T07:50:05.4755803+09:00",
+                         "checked_at_jst":  "2026-11-05T15:50:05.2184313+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
@@ -30,6 +30,20 @@
 
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2118181533538508927",
+                                 "url":  "https://x.com/nijisanji_app/status/2118181533538508927",
+                                 "text":  "🎷- - - - - - - - - - - - - - - - - - - - - - ✦⁡⁡.⁺ #戌亥とこ_2ndライブ シートマップ更新のお知らせ ⁺.✦⁡⁡ - - - - - - - - - - - - - - - - - - - - - 🎙 2027年4月24日(土)に東京ガーデンシアターで開催する、 Inui Toko 2nd Solo Live “リスタート” Show more",
+                                 "published_at_jst":  "2026-11-05T12:20:06.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-05T15:50:02.5542738+09:00"
+                             },
+                             {
+                                 "id":  "2118176524889424065",
+                                 "url":  "https://x.com/nijisanji_app/status/2118176524889424065",
+                                 "text":  "【🎂誕生日グッズ＆ボイス販売開始！】 本日より ケイリクス・デボネア( @KaelixDebonair )の誕生日を記念した『誕生日グッズ＆ボイス2026』を販売開始いたしました！ 販売ページ▽ shop.nijisanji.jp/SSZS-81423.html ■販売期間 11/11(水)23:59まで #にじストア #NIJISANJI_EN",
+                                 "published_at_jst":  "2026-11-05T12:00:12.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-05T15:50:02.5542738+09:00"
+                             },
                              {
                                  "id":  "2117950302410383658",
                                  "url":  "https://x.com/Sara_Hoshikawa/status/2117950302410383658",
@@ -169,41 +183,6 @@
                                  "text":  "【🎂誕生日グッズ＆ボイス販売開始！】 本日より ベルモンド・バンデラス( @belmond_b_2434 )の誕生日を記念した『誕生日グッズ＆ボイス2026』を販売開始いたしました！ 販売ページ▽ shop.nijisanji.jp/SSZS-81420.html ■販売期間 11/9(月)23:59まで #にじストア",
                                  "published_at_jst":  "2026-11-03T18:00:10.0000000+09:00",
                                  "first_seen_at_jst":  "2026-11-03T23:50:01.9804091+09:00"
-                             },
-                             {
-                                 "id":  "2117484887481647111",
-                                 "url":  "https://x.com/Hoshikawa_sub/status/2117484887481647111",
-                                 "text":  "事務所にiPadのペンを忘れて手書きできなかったฅ ˆ. ̫.ˆ ฅ youtube.com/post/Ugkxx7Fow…",
-                                 "published_at_jst":  "2026-11-03T14:11:52.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-03T15:50:02.1433097+09:00"
-                             },
-                             {
-                                 "id":  "2117454237072564580",
-                                 "url":  "https://x.com/nijisanji_app/status/2117454237072564580",
-                                 "text":  "【Happy B-day to Kuzuha 再販決定！】 ご好評につき一部完売しておりましたグッズにつきまして、 にじストアにて【2026/11/10(火)18:00】より在庫追加を行います。 商品ページ▼ shop.nijisanji.jp/TAG_823 ※数には限りがございます。 再販グッズ▼ ・ランダム缶バッジ ・ランダムフォト風カード Show more",
-                                 "published_at_jst":  "2026-11-03T12:10:05.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-03T15:50:02.1433097+09:00"
-                             },
-                             {
-                                 "id":  "2117452995025924158",
-                                 "url":  "https://x.com/nijisanji_app/status/2117452995025924158",
-                                 "text":  "✧˙⁎⋆┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ にじさんじ Girls Idol Festival 〜虹をつないで、未来を見つけて〜 チケット情報 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈⋆⁎˙✧ にじさんじ Girls Idol Festival 〜虹をつないで、未来を見つけて〜 Show more",
-                                 "published_at_jst":  "2026-11-03T12:05:09.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-03T15:50:02.1433097+09:00"
-                             },
-                             {
-                                 "id":  "2117451789956260193",
-                                 "url":  "https://x.com/nijisanji_app/status/2117451789956260193",
-                                 "text":  "【🎂誕生日グッズ＆ボイス販売決定！】 葛葉( @Vamp_Kuzu )の誕生日を記念した『誕生日グッズ＆ボイス2026』 ＜ 11/10(火)18:00 ＞から、にじさんじオフィシャルストア にて販売決定！ shop.nijisanji.jp #にじストア",
-                                 "published_at_jst":  "2026-11-03T12:00:21.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-03T15:50:02.1433097+09:00"
-                             },
-                             {
-                                 "id":  "2117421681136509091",
-                                 "url":  "https://x.com/nijisanji_app/status/2117421681136509091",
-                                 "text":  "🎬 ━━━ ℕ𝕠𝕨 𝕆𝕟 𝕊𝕥𝕒𝕘𝕖 ━━━ 🎬 七次元生徒会！『七次元回廊』 Preキャンペーン開始！ 🎶━━━━━━━━━━━━━🎶 応募してくださった方全員に 限定壁紙画像をプレゼント📱 応募方法は、下記の応募フォームもしくは 添付画像にてご確認ください👀✨ Show more",
-                                 "published_at_jst":  "2026-11-03T10:00:43.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-03T15:50:02.1433097+09:00"
                              }
                          ],
     "undated_posts_unverified":  [
