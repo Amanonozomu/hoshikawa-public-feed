@@ -1,35 +1,49 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-11-06T07:50:02.8792881+09:00",
+    "collected_at_jst":  "2026-11-06T15:50:02.7980588+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-11-06T07:50:03.3787533+09:00",
+                         "checked_at_jst":  "2026-11-06T15:50:03.0965194+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-11-06T07:50:04.2315201+09:00",
+                         "checked_at_jst":  "2026-11-06T15:50:04.0873539+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-11-06T07:50:05.0005086+09:00",
+                         "checked_at_jst":  "2026-11-06T15:50:04.5094585+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      }
                  ],
     "recently_discovered_ids":  [
-
+                                    "2118554094352920739"
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2118554094352920739",
+                                 "url":  "https://x.com/nijisanji_app/status/2118554094352920739",
+                                 "text":  "36名のゲストが登場するロクフリ未公開集！ ギルザレン、四季凪、酒寄による『音速飯店』白熱のもう1ラウンド！ 神田＆北見のディープな仮面ライダートークも！！ #ロクフリにじさんじ \u003c\u003c 本日11/6(金)19時 \u003e\u003eプレミア公開！ youtu.be/ZusBB2w-4fk",
+                                 "published_at_jst":  "2026-11-06T13:00:31.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-06T15:50:02.7980588+09:00"
+                             },
+                             {
+                                 "id":  "2118546467447242835",
+                                 "url":  "https://x.com/nijisanji_app/status/2118546467447242835",
+                                 "text":  "【ANYCOLOR MAGAZINE 記事公開！📰】 ANYCOLORデザイン部座談会 ライバーの「デビュー」と「新衣装」を支える妥協なきチームワーク 記事はこちら▼ magazine.anycolor.co.jp/articles/12492… #エニマガ のスクショ投稿時はURLの併記をお願いいたします📝",
+                                 "published_at_jst":  "2026-11-06T12:30:13.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-06T15:50:02.7980588+09:00"
+                             },
                              {
                                  "id":  "2118297554194694630",
                                  "url":  "https://x.com/nijisanji_app/status/2118297554194694630",
@@ -134,41 +148,6 @@
                                  "text":  "【 #にじバラ仮 は来週火曜24時！】 イブラヒムにコントの才能を見た新番組 『にじさんじのB級バラエティ(仮)』次回放送は11月10日(火)24:00 ゲストは魔法少女(元)とお嬢様(志望)…！？ 現地リポーターを社長(兼業)にお願いした豪華40分ちょいSP！お楽しみに！ ▼前回はこちら Show more",
                                  "published_at_jst":  "2026-11-04T17:30:17.0000000+09:00",
                                  "first_seen_at_jst":  "2026-11-04T23:50:02.0091058+09:00"
-                             },
-                             {
-                                 "id":  "2117823184343101549",
-                                 "url":  "https://x.com/nijisanji_app/status/2117823184343101549",
-                                 "text":  "【ANYCOLOR MAGAZINE 記事公開！📰】 ANYCOLORデザイン部 初期メンバー座談会 にじさんじのクリエイティブを築き上げてきた初期メンバーの歩み 記事はこちら▼ magazine.anycolor.co.jp/articles/20292… #エニマガ のスクショ投稿時はURLの併記をお願いいたします📝",
-                                 "published_at_jst":  "2026-11-04T12:36:09.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-04T15:50:01.9438481+09:00"
-                             },
-                             {
-                                 "id":  "2117822931820822645",
-                                 "url":  "https://x.com/nijisanji_app/status/2117822931820822645",
-                                 "text":  "【 #エニマガ カバーアート公開📸】 #にじさんじ の魅力をもっと感じることができるWebマガジン「ANYCOLOR MAGAZINE」。 今回の特集では「ANYCOLORデザイン部」を深掘り！ カバーアートはこちらから▼ magazine.anycolor.co.jp/2081360809/sha…",
-                                 "published_at_jst":  "2026-11-04T12:35:08.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-04T15:50:01.9438481+09:00"
-                             },
-                             {
-                                 "id":  "2117821707658637362",
-                                 "url":  "https://x.com/nijisanji_app/status/2117821707658637362",
-                                 "text":  "◥◣ #加賀美ハヤト_1stライブBD ◢◤ 1st One Man Live \"ALPHA ONE\" ━┄\u003e\u003eオリコンデイリー2位獲得\u003c\u003c┄━ 加賀美ハヤト 1st One Man Live \"ALPHA ONE\" Blu-rayがオリコンデイリーBlu-rayランキングにて2位を獲得🎉 たくさんのご声援ありがとうございます✨ ▼詳細はこちら Show more",
-                                 "published_at_jst":  "2026-11-04T12:30:16.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-04T15:50:01.9438481+09:00"
-                             },
-                             {
-                                 "id":  "2117815395872825684",
-                                 "url":  "https://x.com/nijisanji_app/status/2117815395872825684",
-                                 "text":  "／ 個人ファンクラブ ブログ更新！ 限定公開🔑 ＼ #蝸堂みかる ( @Kadou_Mikaru )のファンクラブ「蝸堂みかる：いまからねる」にて、「おでかけ」が更新されました！ ▼ブログの閲覧はこちら nijisanji.jp/fanclubs/conte… #にじさんじファンクラブ",
-                                 "published_at_jst":  "2026-11-04T12:05:12.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-04T15:50:01.9438481+09:00"
-                             },
-                             {
-                                 "id":  "2117814129847341534",
-                                 "url":  "https://x.com/nijisanji_app/status/2117814129847341534",
-                                 "text":  "【🎂誕生日グッズ＆ボイス販売決定！】 笹木咲( @saku_sasaki )の誕生日を記念した『誕生日グッズ＆ボイス2026』 ＜ 11/11(水)18:00 ＞から、にじさんじオフィシャルストア にて販売決定！ shop.nijisanji.jp #にじストア",
-                                 "published_at_jst":  "2026-11-04T12:00:10.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-04T15:50:01.9438481+09:00"
                              }
                          ],
     "undated_posts_unverified":  [
