@@ -1,35 +1,33 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-11-07T23:50:02.9841793+09:00",
+    "collected_at_jst":  "2026-11-08T07:50:03.0180907+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-11-07T23:50:03.4535549+09:00",
+                         "checked_at_jst":  "2026-11-08T07:50:03.4997802+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-11-07T23:50:04.2868735+09:00",
+                         "checked_at_jst":  "2026-11-08T07:50:04.2340914+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-11-07T23:50:05.6335061+09:00",
+                         "checked_at_jst":  "2026-11-08T07:50:04.6571877+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      }
                  ],
     "recently_discovered_ids":  [
-                                    "2119052534153408940",
-                                    "2119045340817150325",
-                                    "2119065512051454030"
+
                                 ],
     "recent_posts_48h":  [
                              {
