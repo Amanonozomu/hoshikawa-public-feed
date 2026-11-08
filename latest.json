@@ -1,35 +1,63 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-11-08T15:50:02.6192475+09:00",
+    "collected_at_jst":  "2026-11-08T23:50:02.4688681+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-11-08T15:50:02.9755491+09:00",
+                         "checked_at_jst":  "2026-11-08T23:50:03.0193329+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-11-08T15:50:03.7958281+09:00",
+                         "checked_at_jst":  "2026-11-08T23:50:04.2945848+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-11-08T15:50:04.3891301+09:00",
+                         "checked_at_jst":  "2026-11-08T23:50:05.1232619+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      }
                  ],
     "recently_discovered_ids":  [
-                                    "2119301999984587177"
+                                    "2119403694060077113"
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2119403694060077113",
+                                 "url":  "https://x.com/nijisanji_app/status/2119403694060077113",
+                                 "text":  "🦑🔵塗りまくれ！にじさんじイカ祭り2026 Day2終了🟠🦑 2日間にわたりご視聴いただきありがとうございました！ 24チームが参加したお祭り大会✨ 見事優勝に輝いたのは・・・ 🏆「寝落ちサンバ」🎉 大会の感想は【 #にじイカ祭り2026 】でポスト💬 ▼Day1のアーカイブはこちら Show more",
+                                 "published_at_jst":  "2026-11-08T21:16:31.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-08T23:50:02.4688681+09:00"
+                             },
+                             {
+                                 "id":  "2119354272441897287",
+                                 "url":  "https://x.com/nijisanji_app/status/2119354272441897287",
+                                 "text":  "【🎂誕生日グッズ＆ボイス販売開始！】 本日より 愛園愛美( @manami_aizono )の誕生日を記念した『誕生日グッズ＆ボイス2026』を販売開始いたしました！ 販売ページ▽ shop.nijisanji.jp/SSZS-81432.html ■販売期間 11/14(土)23:59まで #にじストア",
+                                 "published_at_jst":  "2026-11-08T18:00:08.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-08T23:50:02.4688681+09:00"
+                             },
+                             {
+                                 "id":  "2119341979146543149",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2119341979146543149",
+                                 "text":  "めっちゃ楽しかったありがとう！！ 30秒短すぎたもっと喋りたかった(՞ . .՞) でもすごく幸せな気持ちになりましたまる",
+                                 "published_at_jst":  "2026-11-08T17:11:17.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-08T23:50:02.4688681+09:00"
+                             },
+                             {
+                                 "id":  "2119321551137050713",
+                                 "url":  "https://x.com/Hoshikawa_sub/status/2119321551137050713",
+                                 "text":  "おい30秒みじけえ❗️❗️❗️❗️❗️",
+                                 "published_at_jst":  "2026-11-08T15:50:07.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-08T23:50:02.4688681+09:00"
+                             },
                              {
                                  "id":  "2119301999984587177",
                                  "url":  "https://x.com/Sara_Hoshikawa/status/2119301999984587177",
@@ -113,55 +141,6 @@
                                  "text":  "🦑🔵 #にじイカ祭り2026 Day1 本日15時開始🟠🦑 本日11/7(土)15時より「塗りまくれ！にじさんじイカ祭り2026 」Day1がスタート！ 『予選リーグ』を勝ち抜き、Day2へ進出するのはどのチームなのか…！？ ▼Day1の待機所はこちら youtube.com/live/OeHKIxVoa… Show more",
                                  "published_at_jst":  "2026-11-07T12:01:41.0000000+09:00",
                                  "first_seen_at_jst":  "2026-11-07T15:50:02.9540891+09:00"
-                             },
-                             {
-                                 "id":  "2118660220285227480",
-                                 "url":  "https://x.com/nijisanji_app/status/2118660220285227480",
-                                 "text":  "【PARALLEL CASE: 2434 CASE 01 公開中】 ましろ爻、来栖夏芽、シスター・クレアが登場する 第四境界とのコラボコンテンツ第一弾 『CASE 01：ましろ爻の記録』も公開中です parallelcase-2434.net/case/case01/ 彼らといわくつきの廃アパート「霞野荘」を巡る物語を体験ください。",
-                                 "published_at_jst":  "2026-11-06T20:02:13.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-06T23:50:03.4187995+09:00"
-                             },
-                             {
-                                 "id":  "2118660103515873346",
-                                 "url":  "https://x.com/nijisanji_app/status/2118660103515873346",
-                                 "text":  "【PARALLEL CASE: 2434 CASE 02 グッズ紹介】 EPISODE 02が遊べるアイテム『ソフィア・ヴァレンタインのUSBメモリ』の他にも ソフィア・ヴァレンタイン、七瀬すず菜、社築のビジュアルグッズも登場 ▼にじストアはこちら shop.nijisanji.jp/TAG_999 Show more",
-                                 "published_at_jst":  "2026-11-06T20:01:46.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-06T23:50:03.4187995+09:00"
-                             },
-                             {
-                                 "id":  "2118659713831485842",
-                                 "url":  "https://x.com/nijisanji_app/status/2118659713831485842",
-                                 "text":  "【PARALLEL CASE: 2434 CASE 02 調査開始】 ソフィア・ヴァレンタイン、七瀬すず菜、社築が登場する 第四境界とのコラボコンテンツ第二弾 『CASE 02：ソフィア・ヴァレンタインの記録』が調査開始となりました parallelcase-2434.net/case/case02/ EPISODE Show more",
-                                 "published_at_jst":  "2026-11-06T20:00:13.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-06T23:50:03.4187995+09:00"
-                             },
-                             {
-                                 "id":  "2118654670436802741",
-                                 "url":  "https://x.com/nijisanji_app/status/2118654670436802741",
-                                 "text":  "甲斐田晴、チャームポイントは笑顔です！ 蔵出しトーク大放出の未公開集はこちら！ youtu.be/ZusBB2w-4fk #ロクフリにじさんじ",
-                                 "published_at_jst":  "2026-11-06T19:40:10.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-06T23:50:03.4187995+09:00"
-                             },
-                             {
-                                 "id":  "2118644748936478945",
-                                 "url":  "https://x.com/nijisanji_app/status/2118644748936478945",
-                                 "text":  "【 #不破湊_ECLIPSE パッケージ写真公開 📸】 💿12月9日(水)発売 不破湊 New Single『ECLIPSE』 ✦全形態共通封入特典(初回生産分のみ)】 ・フォトカード(全3種よりランダム1種封入) ・不破湊 2nd LIVE “VORTEX” チケット先行抽選シリアルコード ✦初回限定盤A CD、ECLIPSE Show more",
-                                 "published_at_jst":  "2026-11-06T19:00:45.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-06T23:50:03.4187995+09:00"
-                             },
-                             {
-                                 "id":  "2118644561006232046",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2118644561006232046",
-                                 "text":  "🌟今日22時メンバー限定配信 ⸝⸝ ⭑ みねば。 Fate/Grand Order -MOONLIGHT/LOSTROOM-アニメ同時視聴する！ youtube.com/live/IJwTlCeFq…",
-                                 "published_at_jst":  "2026-11-06T19:00:00.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-06T23:50:03.4187995+09:00"
-                             },
-                             {
-                                 "id":  "2118637917845496254",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2118637917845496254",
-                                 "text":  "🎀short投稿したよ🎀 流星☆ラブビーム！✨️ HIMEHINAの2人と一緒に踊ったよ〜！！うれしい🩷🩵 youtube.com/shorts/XQrg3Ms…",
-                                 "published_at_jst":  "2026-11-06T18:33:36.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-06T23:50:03.4187995+09:00"
                              }
                          ],
     "undated_posts_unverified":  [
