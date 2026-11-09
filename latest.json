@@ -1,35 +1,56 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-11-09T07:50:02.8765707+09:00",
+    "collected_at_jst":  "2026-11-09T15:50:02.7403085+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-11-09T07:50:03.3936738+09:00",
+                         "checked_at_jst":  "2026-11-09T15:50:03.0597935+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-11-09T07:50:04.4103154+09:00",
+                         "checked_at_jst":  "2026-11-09T15:50:03.8071601+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-11-09T07:50:05.8738189+09:00",
+                         "checked_at_jst":  "2026-11-09T15:50:04.2752291+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      }
                  ],
     "recently_discovered_ids":  [
-
+                                    "2119662425356267747"
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2119662425356267747",
+                                 "url":  "https://x.com/Hoshikawa_sub/status/2119662425356267747",
+                                 "text":  "ｵﾊﾖ꜀( ु-.-) ुᐝ",
+                                 "published_at_jst":  "2026-11-09T14:24:38.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-09T15:50:02.7403085+09:00"
+                             },
+                             {
+                                 "id":  "2119633637503365209",
+                                 "url":  "https://x.com/nijisanji_app/status/2119633637503365209",
+                                 "text":  "【 #エニマガ 記事公開📰】 「ANYCOLOR MAGAZINE」にて、最新記事が公開されました！ お仕事手帖 企画・台本制作（公式番組）編 あえての「余白」でライバーらしさを映し出す 記事はこちら▼ magazine.anycolor.co.jp/articles/17395… #エニマガ のスクショ投稿時はURLの併記をお願いいたします📝",
+                                 "published_at_jst":  "2026-11-09T12:30:14.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-09T15:50:02.7403085+09:00"
+                             },
+                             {
+                                 "id":  "2119626072249753905",
+                                 "url":  "https://x.com/nijisanji_app/status/2119626072249753905",
+                                 "text":  "【🎂誕生日グッズ販売決定！】 物述有栖( @AliceMononobe )の誕生日を記念した『誕生日グッズ2026』 ＜ 11/16(月)18:00 ＞から、にじさんじオフィシャルストア にて販売決定！ shop.nijisanji.jp #にじストア",
+                                 "published_at_jst":  "2026-11-09T12:00:11.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-09T15:50:02.7403085+09:00"
+                             },
                              {
                                  "id":  "2119403694060077113",
                                  "url":  "https://x.com/nijisanji_app/status/2119403694060077113",
@@ -127,20 +148,6 @@
                                  "text":  "【🎂誕生日グッズ販売開始！】 本日より 家長むぎ( @ienaga_mugi23 )の誕生日を記念した『誕生日グッズ2026』を販売開始いたしました！ 販売ページ▽ shop.nijisanji.jp/SSZS-81429.html ■販売期間 11/13(金)23:59まで #にじストア",
                                  "published_at_jst":  "2026-11-07T18:00:22.0000000+09:00",
                                  "first_seen_at_jst":  "2026-11-07T23:50:02.9841793+09:00"
-                             },
-                             {
-                                 "id":  "2118939472620618019",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2118939472620618019",
-                                 "text":  "おはよ〜〜^_ ̫_^੭",
-                                 "published_at_jst":  "2026-11-07T14:31:52.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-07T15:50:02.9540891+09:00"
-                             },
-                             {
-                                 "id":  "2118901674039509192",
-                                 "url":  "https://x.com/nijisanji_app/status/2118901674039509192",
-                                 "text":  "🦑🔵 #にじイカ祭り2026 Day1 本日15時開始🟠🦑 本日11/7(土)15時より「塗りまくれ！にじさんじイカ祭り2026 」Day1がスタート！ 『予選リーグ』を勝ち抜き、Day2へ進出するのはどのチームなのか…！？ ▼Day1の待機所はこちら youtube.com/live/OeHKIxVoa… Show more",
-                                 "published_at_jst":  "2026-11-07T12:01:41.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-07T15:50:02.9540891+09:00"
                              }
                          ],
     "undated_posts_unverified":  [
