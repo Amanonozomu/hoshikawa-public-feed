@@ -1,35 +1,77 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-11-09T15:50:02.7403085+09:00",
+    "collected_at_jst":  "2026-11-09T23:50:02.2027845+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-11-09T15:50:03.0597935+09:00",
+                         "checked_at_jst":  "2026-11-09T23:50:02.5433967+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-11-09T15:50:03.8071601+09:00",
+                         "checked_at_jst":  "2026-11-09T23:50:03.2967835+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-11-09T15:50:04.2752291+09:00",
+                         "checked_at_jst":  "2026-11-09T23:50:03.7396879+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      }
                  ],
     "recently_discovered_ids":  [
-                                    "2119662425356267747"
+
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2119743053795860507",
+                                 "url":  "https://x.com/nijisanji_app/status/2119743053795860507",
+                                 "text":  "【 #ぷちさんじ 】最新話を公開📺 倉持めるとのオリジナル曲が爆誕する瞬間に立ち会う戌亥とことルンルン【漫画】 @inui_toko @k_meruto @mo_lunlun_gu ▼YouTubeはコチラ youtube.com/shorts/BEBCqwc…",
+                                 "published_at_jst":  "2026-11-09T19:45:01.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-09T23:50:02.2027845+09:00"
+                             },
+                             {
+                                 "id":  "2119730515330879943",
+                                 "url":  "https://x.com/nijisanji_app/status/2119730515330879943",
+                                 "text":  "まもなく「くろのわーるがなんかやる」放送開始！ 詳細は引用元をチェック！👀 #くろなん",
+                                 "published_at_jst":  "2026-11-09T18:55:12.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-09T23:50:02.2027845+09:00"
+                             },
+                             {
+                                 "id":  "2119721667920638390",
+                                 "url":  "https://x.com/nijisanji_app/status/2119721667920638390",
+                                 "text":  "／ 個人ファンクラブ ブログ更新！ 限定公開🔑 ＼ #家長むぎ ( @ienaga_mugi23 )のファンクラブ「家長むぎのふぁんくらぶ」にて、「2026年10月の日記」が更新されました！ ▼ブログの閲覧はこちら nijisanji.jp/fanclubs/conte… #にじさんじファンクラブ",
+                                 "published_at_jst":  "2026-11-09T18:20:02.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-09T23:50:02.2027845+09:00"
+                             },
+                             {
+                                 "id":  "2119720435613143466",
+                                 "url":  "https://x.com/nijisanji_app/status/2119720435613143466",
+                                 "text":  "【 #雪城眞尋 ライバー企画ボイス販売開始！】 本日よりにじストアにて、 雪城眞尋( @MahiroYukishiro )によるライバー企画ボイスの販売を開始いたしました！ ■販売ページはこちら！ shop.nijisanji.jp/dig-k-00088.ht… 本商品はボイスアプリ対応！▼ voiceapp.shop.nijisanji.jp #にじストア",
+                                 "published_at_jst":  "2026-11-09T18:15:09.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-09T23:50:02.2027845+09:00"
+                             },
+                             {
+                                 "id":  "2119719158799900937",
+                                 "url":  "https://x.com/nijisanji_app/status/2119719158799900937",
+                                 "text":  "【 #Dolly_Patchwork グッズ紹介②】 バッグやポーチに付けて持ち歩けるアイテムから、 おうち時間を楽しめるアイテムまで✨ 11/10(火)18:00より販売開始🧵 shop.nijisanji.jp/TAG_1308",
+                                 "published_at_jst":  "2026-11-09T18:10:04.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-09T23:50:02.2027845+09:00"
+                             },
+                             {
+                                 "id":  "2119701535735083113",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2119701535735083113",
+                                 "text":  "🌟今日19:00 ⸝⸝ ⭑ 完全初見のFate/Grand Order！ 第2部1章！永久凍土帝国アナスタシア⛄ カドック❗️カドックきた❗️おい❗️やっと会えたなああああ❗️❗️❗️ youtube.com/live/mzM2DT2EU…",
+                                 "published_at_jst":  "2026-11-09T17:00:02.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-09T23:50:02.2027845+09:00"
+                             },
                              {
                                  "id":  "2119662425356267747",
                                  "url":  "https://x.com/Hoshikawa_sub/status/2119662425356267747",
@@ -92,62 +134,6 @@
                                  "text":  "🦑🔵 #にじイカ祭り2026 Day2 本日14時開始🟠🦑 本日11/8(日)14時より「塗りまくれ！にじさんじイカ祭り2026」Day2開祭！ どのチームが優勝するのか…！？ 最後まで何が起こるかわからない『決勝トーナメント』をお楽しみに👀 ▼Day2の待機所はこちら youtube.com/live/fiKw9dLQk… Show more",
                                  "published_at_jst":  "2026-11-08T12:01:25.0000000+09:00",
                                  "first_seen_at_jst":  "2026-11-08T15:50:02.6192475+09:00"
-                             },
-                             {
-                                 "id":  "2119065512051454030",
-                                 "url":  "https://x.com/nijisanji_app/status/2119065512051454030",
-                                 "text":  "【 #VOLTACTION #Venue101 出演この後すぐ✨】 いよいよ23:00から放送開始🎉 NHK ONEでは同時\u0026見逃し配信も！ スマホからでも見られます👀 ▼NHK ONEはこちら web.nhk/tv/an/venue101…",
-                                 "published_at_jst":  "2026-11-07T22:52:43.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-07T23:50:02.9841793+09:00"
-                             },
-                             {
-                                 "id":  "2119052534153408940",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2119052534153408940",
-                                 "text":  "配信開始！",
-                                 "published_at_jst":  "2026-11-07T22:01:08.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-07T23:50:02.9841793+09:00"
-                             },
-                             {
-                                 "id":  "2119045340817150325",
-                                 "url":  "https://x.com/nijisanji_app/status/2119045340817150325",
-                                 "text":  "🦑🔵 #にじイカ祭り2026 Day1 終了🟠🦑 Day1『予選リーグ』ご視聴ありがとうございました！ 決勝トーナメントへ進出した12チームはコチラ🎉 明日のDay2『決勝トーナメント』は11/8(日)14時からスタート！ ▼Day2の待機所はこちら youtube.com/live/fiKw9dLQk… ▼Day1のアーカイブはこちら Show more",
-                                 "published_at_jst":  "2026-11-07T21:32:33.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-07T23:50:02.9841793+09:00"
-                             },
-                             {
-                                 "id":  "2119006951577395479",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2119006951577395479",
-                                 "text":  "🌟今日22:00 ⸝⸝ ⭑ 進撃の巨人🎀アニメ同時視聴！ 今日で３期ラストまで行くぞおおおおおおおおおおおおおおおおおおおおおおおおお！ youtube.com/live/vFQeQbr9G…",
-                                 "published_at_jst":  "2026-11-07T19:00:01.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-07T23:50:02.9841793+09:00"
-                             },
-                             {
-                                 "id":  "2118995767507763598",
-                                 "url":  "https://x.com/Hoshikawa_sub/status/2118995767507763598",
-                                 "text":  "ピノ全部アーモンド！うれしい いっぱい食べる",
-                                 "published_at_jst":  "2026-11-07T18:15:34.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-07T23:50:02.9841793+09:00"
-                             },
-                             {
-                                 "id":  "2118993461353558117",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2118993461353558117",
-                                 "text":  "🩵short投稿したよ🩷 私世界一可愛い🎶キミだけの一番星🌟 サムネ顔近い。🫪 youtube.com/shorts/6Z-iQ0-…",
-                                 "published_at_jst":  "2026-11-07T18:06:24.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-07T23:50:02.9841793+09:00"
-                             },
-                             {
-                                 "id":  "2118993117596819732",
-                                 "url":  "https://x.com/nijisanji_app/status/2118993117596819732",
-                                 "text":  "【 #珠乃井ナナ ライバー企画ボイス販売開始！】 本日よりにじストアにて、 珠乃井ナナ( @7_tamanoi )によるライバー企画ボイスの販売を開始いたしました！ ■販売ページはこちら！ shop.nijisanji.jp/dig-k-00087.ht… 本商品はボイスアプリ対応！▼ voiceapp.shop.nijisanji.jp #にじストア",
-                                 "published_at_jst":  "2026-11-07T18:05:02.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-07T23:50:02.9841793+09:00"
-                             },
-                             {
-                                 "id":  "2118991940507361631",
-                                 "url":  "https://x.com/nijisanji_app/status/2118991940507361631",
-                                 "text":  "【🎂誕生日グッズ販売開始！】 本日より 家長むぎ( @ienaga_mugi23 )の誕生日を記念した『誕生日グッズ2026』を販売開始いたしました！ 販売ページ▽ shop.nijisanji.jp/SSZS-81429.html ■販売期間 11/13(金)23:59まで #にじストア",
-                                 "published_at_jst":  "2026-11-07T18:00:22.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-07T23:50:02.9841793+09:00"
                              }
                          ],
     "undated_posts_unverified":  [
