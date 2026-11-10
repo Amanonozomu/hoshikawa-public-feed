@@ -1,35 +1,58 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-11-10T07:50:02.0249942+09:00",
+    "collected_at_jst":  "2026-11-10T15:00:18.5748798+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-11-10T07:50:02.4170040+09:00",
+                         "checked_at_jst":  "2026-11-10T15:00:18.8365126+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-11-10T07:50:04.7646521+09:00",
+                         "checked_at_jst":  "2026-11-10T15:00:19.5490236+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-11-10T07:50:05.4875893+09:00",
+                         "checked_at_jst":  "2026-11-10T15:00:19.9650546+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      }
                  ],
     "recently_discovered_ids":  [
-
+                                    "2119988619607957945",
+                                    "2119989697581850951",
+                                    "2119990990513861043"
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2119990990513861043",
+                                 "url":  "https://x.com/nijisanji_app/status/2119990990513861043",
+                                 "text":  "【🎂誕生日グッズ＆ボイス販売決定！】 ヴェザリウス バンデージ( @VezaliusBandage )の誕生日を記念した『誕生日グッズ＆ボイス2026』 ＜ 11/17(火)12:00 ＞から、にじさんじオフィシャルストア にて販売決定！ shop.nijisanji.jp #にじストア #NIJISANJI_EN",
+                                 "published_at_jst":  "2026-11-10T12:10:14.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-10T15:00:18.5748798+09:00"
+                             },
+                             {
+                                 "id":  "2119989697581850951",
+                                 "url":  "https://x.com/nijisanji_app/status/2119989697581850951",
+                                 "text":  "【ボイスビジュアルカード 販売決定！】 『 #にじさんじバディボイス 』『 #にじさんじよしよし全肯定ボイス 』より、 撮りおろしビジュアルを使用した『ボイスビジュアルカード』を11/13(金)12:00から発売！ ※ボイスは付属しません 詳細はツリーをご確認ください！ #にじストア",
+                                 "published_at_jst":  "2026-11-10T12:05:06.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-10T15:00:18.5748798+09:00"
+                             },
+                             {
+                                 "id":  "2119988619607957945",
+                                 "url":  "https://x.com/nijisanji_app/status/2119988619607957945",
+                                 "text":  "【 #にじさんじバディボイス ＆ #にじさんじよしよし全肯定ボイス 販売決定！】 11/13(金)12:00より、にじさんじオフィシャルストア、NIJISANJI EN Official Storeにて 「バディボイス」「よしよし全肯定ボイス」の販売が決定！ 詳細はツリーをチェック！",
+                                 "published_at_jst":  "2026-11-10T12:00:49.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-10T15:00:18.5748798+09:00"
+                             },
                              {
                                  "id":  "2119743053795860507",
                                  "url":  "https://x.com/nijisanji_app/status/2119743053795860507",
@@ -120,20 +143,6 @@
                                  "text":  "おい30秒みじけえ❗️❗️❗️❗️❗️",
                                  "published_at_jst":  "2026-11-08T15:50:07.0000000+09:00",
                                  "first_seen_at_jst":  "2026-11-08T23:50:02.4688681+09:00"
-                             },
-                             {
-                                 "id":  "2119301999984587177",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2119301999984587177",
-                                 "text":  "おはよ〜(｡ɞ̴̶̷ ̫ ɞ̴̶̷｡)🎀 今日はリミスタ1on1トークイベント！ 星くずとおしゃべり楽しみ🥹🫵🏻",
-                                 "published_at_jst":  "2026-11-08T14:32:26.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-08T15:50:02.6192475+09:00"
-                             },
-                             {
-                                 "id":  "2119263996595601655",
-                                 "url":  "https://x.com/nijisanji_app/status/2119263996595601655",
-                                 "text":  "🦑🔵 #にじイカ祭り2026 Day2 本日14時開始🟠🦑 本日11/8(日)14時より「塗りまくれ！にじさんじイカ祭り2026」Day2開祭！ どのチームが優勝するのか…！？ 最後まで何が起こるかわからない『決勝トーナメント』をお楽しみに👀 ▼Day2の待機所はこちら youtube.com/live/fiKw9dLQk… Show more",
-                                 "published_at_jst":  "2026-11-08T12:01:25.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-08T15:50:02.6192475+09:00"
                              }
                          ],
     "undated_posts_unverified":  [
