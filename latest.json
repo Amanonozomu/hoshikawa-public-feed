@@ -1,36 +1,84 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-11-11T15:50:02.1941895+09:00",
+    "collected_at_jst":  "2026-11-11T23:50:02.1998328+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-11-11T15:50:02.5041357+09:00",
+                         "checked_at_jst":  "2026-11-11T23:50:02.5553165+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-11-11T15:50:03.2528660+09:00",
+                         "checked_at_jst":  "2026-11-11T23:50:03.6326958+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-11-11T15:50:03.7502208+09:00",
+                         "checked_at_jst":  "2026-11-11T23:50:04.0259677+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      }
                  ],
     "recently_discovered_ids":  [
-                                    "2120381069258301450",
-                                    "2120396143129682399"
+                                    "2120502253023002893"
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2120502253023002893",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2120502253023002893",
+                                 "text":  "配信開始！",
+                                 "published_at_jst":  "2026-11-11T22:01:48.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-11T23:50:02.1998328+09:00"
+                             },
+                             {
+                                 "id":  "2120481127760834890",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2120481127760834890",
+                                 "text":  "🌟今日22:00 ⸝⸝ ⭑ 絶対遵守❗️ルールを破ると即終了！？ ルールとか破ったことないです！！！！！！絶対に！！守ります！！！！！任せて！！！！！！！ youtube.com/live/C3NqVylTH…",
+                                 "published_at_jst":  "2026-11-11T20:37:52.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-11T23:50:02.1998328+09:00"
+                             },
+                             {
+                                 "id":  "2120479168068747732",
+                                 "url":  "https://x.com/nijisanji_app/status/2120479168068747732",
+                                 "text":  "🌈7️⃣ #にじなな ショート動画公開！ 2026年12月26日(土)発売！ #NIJISANJI7ColorsCardGame スターターデッキ「加賀美ハヤト」のカードをご紹介！ ぜひ動画をチェックしてください！ ▼動画はこちら youtube.com/shorts/2Be3PQM… #PR",
+                                 "published_at_jst":  "2026-11-11T20:30:04.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-11T23:50:02.1998328+09:00"
+                             },
+                             {
+                                 "id":  "2120477922704474508",
+                                 "url":  "https://x.com/nijisanji_app/status/2120477922704474508",
+                                 "text":  "🌈7️⃣ #にじなな ショート動画公開！ 2026年12月26日(土)発売！ #NIJISANJI7ColorsCardGame スターターデッキ「笹木咲」のカードをご紹介！ ぜひ動画をチェックしてください！ ▼動画はこちら youtube.com/shorts/fpbn4Jd… #PR",
+                                 "published_at_jst":  "2026-11-11T20:25:08.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-11T23:50:02.1998328+09:00"
+                             },
+                             {
+                                 "id":  "2120476648164512123",
+                                 "url":  "https://x.com/nijisanji_app/status/2120476648164512123",
+                                 "text":  "🌈7️⃣ #にじなな ショート動画公開！ 2026年12月26日(土)発売！ #NIJISANJI7ColorsCardGame スターターデッキ「葛葉」のカードをご紹介！ ぜひ動画をチェックしてください！ ▼動画はこちら youtube.com/shorts/R6wAWuk… #PR",
+                                 "published_at_jst":  "2026-11-11T20:20:04.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-11T23:50:02.1998328+09:00"
+                             },
+                             {
+                                 "id":  "2120475405450969597",
+                                 "url":  "https://x.com/nijisanji_app/status/2120475405450969597",
+                                 "text":  "🌈7️⃣ #にじなな ショート動画公開！ 2026年12月26日(土)発売！ #NIJISANJI7ColorsCardGame スターターデッキ「月ノ美兎」のカードをご紹介！ ぜひ動画をチェックしてください！ ▼動画はこちら youtube.com/shorts/B9ZHLYN… #PR",
+                                 "published_at_jst":  "2026-11-11T20:15:07.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-11T23:50:02.1998328+09:00"
+                             },
+                             {
+                                 "id":  "2120456148168200690",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2120456148168200690",
+                                 "text":  "\"ค(,,\u003eࠏ\u003c,, )ﾊｲﾊｲ",
+                                 "published_at_jst":  "2026-11-11T18:58:36.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-11T23:50:02.1998328+09:00"
+                             },
                              {
                                  "id":  "2120396143129682399",
                                  "url":  "https://x.com/nijisanji_app/status/2120396143129682399",
@@ -177,48 +225,6 @@
                                  "text":  "【 #にじさんじバディボイス ＆ #にじさんじよしよし全肯定ボイス 販売決定！】 11/13(金)12:00より、にじさんじオフィシャルストア、NIJISANJI EN Official Storeにて 「バディボイス」「よしよし全肯定ボイス」の販売が決定！ 詳細はツリーをチェック！",
                                  "published_at_jst":  "2026-11-10T12:00:49.0000000+09:00",
                                  "first_seen_at_jst":  "2026-11-10T15:00:18.5748798+09:00"
-                             },
-                             {
-                                 "id":  "2119743053795860507",
-                                 "url":  "https://x.com/nijisanji_app/status/2119743053795860507",
-                                 "text":  "【 #ぷちさんじ 】最新話を公開📺 倉持めるとのオリジナル曲が爆誕する瞬間に立ち会う戌亥とことルンルン【漫画】 @inui_toko @k_meruto @mo_lunlun_gu ▼YouTubeはコチラ youtube.com/shorts/BEBCqwc…",
-                                 "published_at_jst":  "2026-11-09T19:45:01.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-09T23:50:02.2027845+09:00"
-                             },
-                             {
-                                 "id":  "2119730515330879943",
-                                 "url":  "https://x.com/nijisanji_app/status/2119730515330879943",
-                                 "text":  "まもなく「くろのわーるがなんかやる」放送開始！ 詳細は引用元をチェック！👀 #くろなん",
-                                 "published_at_jst":  "2026-11-09T18:55:12.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-09T23:50:02.2027845+09:00"
-                             },
-                             {
-                                 "id":  "2119721667920638390",
-                                 "url":  "https://x.com/nijisanji_app/status/2119721667920638390",
-                                 "text":  "／ 個人ファンクラブ ブログ更新！ 限定公開🔑 ＼ #家長むぎ ( @ienaga_mugi23 )のファンクラブ「家長むぎのふぁんくらぶ」にて、「2026年10月の日記」が更新されました！ ▼ブログの閲覧はこちら nijisanji.jp/fanclubs/conte… #にじさんじファンクラブ",
-                                 "published_at_jst":  "2026-11-09T18:20:02.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-09T23:50:02.2027845+09:00"
-                             },
-                             {
-                                 "id":  "2119720435613143466",
-                                 "url":  "https://x.com/nijisanji_app/status/2119720435613143466",
-                                 "text":  "【 #雪城眞尋 ライバー企画ボイス販売開始！】 本日よりにじストアにて、 雪城眞尋( @MahiroYukishiro )によるライバー企画ボイスの販売を開始いたしました！ ■販売ページはこちら！ shop.nijisanji.jp/dig-k-00088.ht… 本商品はボイスアプリ対応！▼ voiceapp.shop.nijisanji.jp #にじストア",
-                                 "published_at_jst":  "2026-11-09T18:15:09.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-09T23:50:02.2027845+09:00"
-                             },
-                             {
-                                 "id":  "2119719158799900937",
-                                 "url":  "https://x.com/nijisanji_app/status/2119719158799900937",
-                                 "text":  "【 #Dolly_Patchwork グッズ紹介②】 バッグやポーチに付けて持ち歩けるアイテムから、 おうち時間を楽しめるアイテムまで✨ 11/10(火)18:00より販売開始🧵 shop.nijisanji.jp/TAG_1308",
-                                 "published_at_jst":  "2026-11-09T18:10:04.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-09T23:50:02.2027845+09:00"
-                             },
-                             {
-                                 "id":  "2119701535735083113",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2119701535735083113",
-                                 "text":  "🌟今日19:00 ⸝⸝ ⭑ 完全初見のFate/Grand Order！ 第2部1章！永久凍土帝国アナスタシア⛄ カドック❗️カドックきた❗️おい❗️やっと会えたなああああ❗️❗️❗️ youtube.com/live/mzM2DT2EU…",
-                                 "published_at_jst":  "2026-11-09T17:00:02.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-09T23:50:02.2027845+09:00"
                              }
                          ],
     "undated_posts_unverified":  [
