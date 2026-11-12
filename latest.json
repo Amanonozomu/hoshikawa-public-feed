@@ -1,26 +1,26 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-11-12T07:50:02.1510851+09:00",
+    "collected_at_jst":  "2026-11-12T15:50:02.2653710+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-11-12T07:50:02.4909753+09:00",
+                         "checked_at_jst":  "2026-11-12T15:50:02.5153169+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-11-12T07:50:03.1466314+09:00",
+                         "checked_at_jst":  "2026-11-12T15:50:03.1717800+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-11-12T07:50:03.5863123+09:00",
+                         "checked_at_jst":  "2026-11-12T15:50:03.5603992+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
@@ -30,6 +30,13 @@
 
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2120713640555004306",
+                                 "url":  "https://x.com/nijisanji_app/status/2120713640555004306",
+                                 "text":  "【 #PR きゃらねいるぱーつ にじたうん 発売決定！】 バンダイ クレアボーテ( @creerbeaute )から、 #にじたうん が3Dネイルパーツになって登場🌈 ▼先行受注販売受付中【12/15(火)23:59まで】 bandai-lifestyle.jp/products/index… 2027年4・5月発売予定！ 店頭での販売もお楽しみに✨",
+                                 "published_at_jst":  "2026-11-12T12:01:47.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-12T15:50:02.2653710+09:00"
+                             },
                              {
                                  "id":  "2120502253023002893",
                                  "url":  "https://x.com/Sara_Hoshikawa/status/2120502253023002893",
@@ -197,34 +204,6 @@
                                  "text":  "いつの間にかLINE送ったメッセージ編集できるようになってんだけど！！！！気付かなかった",
                                  "published_at_jst":  "2026-11-10T16:25:15.0000000+09:00",
                                  "first_seen_at_jst":  "2026-11-10T23:50:02.9908673+09:00"
-                             },
-                             {
-                                 "id":  "2120033866689999179",
-                                 "url":  "https://x.com/nijisanji_app/status/2120033866689999179",
-                                 "text":  "【にじさんじの「おかしなじかん」 生放送は本日20時から🍬】 本日20:00からは、 #にじかし 生放送❗️ 🔽ご視聴はこちら live.nicovideo.jp/watch/lv351628… 🔽出演者 MC： #鷹宮リオン ゲスト： #石神のぞみ #倉持めると",
-                                 "published_at_jst":  "2026-11-10T15:00:36.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-10T15:50:02.0964707+09:00"
-                             },
-                             {
-                                 "id":  "2119990990513861043",
-                                 "url":  "https://x.com/nijisanji_app/status/2119990990513861043",
-                                 "text":  "【🎂誕生日グッズ＆ボイス販売決定！】 ヴェザリウス バンデージ( @VezaliusBandage )の誕生日を記念した『誕生日グッズ＆ボイス2026』 ＜ 11/17(火)12:00 ＞から、にじさんじオフィシャルストア にて販売決定！ shop.nijisanji.jp #にじストア #NIJISANJI_EN",
-                                 "published_at_jst":  "2026-11-10T12:10:14.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-10T15:00:18.5748798+09:00"
-                             },
-                             {
-                                 "id":  "2119989697581850951",
-                                 "url":  "https://x.com/nijisanji_app/status/2119989697581850951",
-                                 "text":  "【ボイスビジュアルカード 販売決定！】 『 #にじさんじバディボイス 』『 #にじさんじよしよし全肯定ボイス 』より、 撮りおろしビジュアルを使用した『ボイスビジュアルカード』を11/13(金)12:00から発売！ ※ボイスは付属しません 詳細はツリーをご確認ください！ #にじストア",
-                                 "published_at_jst":  "2026-11-10T12:05:06.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-10T15:00:18.5748798+09:00"
-                             },
-                             {
-                                 "id":  "2119988619607957945",
-                                 "url":  "https://x.com/nijisanji_app/status/2119988619607957945",
-                                 "text":  "【 #にじさんじバディボイス ＆ #にじさんじよしよし全肯定ボイス 販売決定！】 11/13(金)12:00より、にじさんじオフィシャルストア、NIJISANJI EN Official Storeにて 「バディボイス」「よしよし全肯定ボイス」の販売が決定！ 詳細はツリーをチェック！",
-                                 "published_at_jst":  "2026-11-10T12:00:49.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-10T15:00:18.5748798+09:00"
                              }
                          ],
     "undated_posts_unverified":  [
