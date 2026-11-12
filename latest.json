@@ -1,26 +1,26 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-11-12T15:50:02.2653710+09:00",
+    "collected_at_jst":  "2026-11-12T23:50:02.2073234+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-11-12T15:50:02.5153169+09:00",
+                         "checked_at_jst":  "2026-11-12T23:50:02.5452572+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-11-12T15:50:03.1717800+09:00",
+                         "checked_at_jst":  "2026-11-12T23:50:03.2973293+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-11-12T15:50:03.5603992+09:00",
+                         "checked_at_jst":  "2026-11-12T23:50:03.6854151+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
@@ -30,6 +30,55 @@
 
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2120834889515958612",
+                                 "url":  "https://x.com/nijisanji_app/status/2120834889515958612",
+                                 "text":  "【 #VOLTACTION #Venue101 見逃し配信中📺】 見逃し配信はNHK ONEで11月14日(土) 23:30まで！ スマホからでも見られます👀 ぜひご覧ください✨ ▼NHK ONEはこちら web.nhk/tv/an/venue101…",
+                                 "published_at_jst":  "2026-11-12T20:03:35.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-12T23:50:02.2073234+09:00"
+                             },
+                             {
+                                 "id":  "2120830234329321935",
+                                 "url":  "https://x.com/nijisanji_app/status/2120830234329321935",
+                                 "text":  "【 #ぷちさんじ 】最新話を公開📺 猫屋敷美紅に妖怪の常識を教わる五木左京とえる【漫画】 @Nekoyashiki_39 @Elu_World @Itsuki_Sakyo ▼YouTubeはコチラ youtube.com/shorts/uFsqxDx…",
+                                 "published_at_jst":  "2026-11-12T19:45:05.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-12T23:50:02.2073234+09:00"
+                             },
+                             {
+                                 "id":  "2120811341036626027",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2120811341036626027",
+                                 "text":  "🌟今日21:00 ⸝⸝ ⭑ 最新作❣️気のせいすぎるRPGやるぞおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおお！ 面白そうな気が、する。 youtube.com/live/Km0uhRag0…",
+                                 "published_at_jst":  "2026-11-12T18:30:01.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-12T23:50:02.2073234+09:00"
+                             },
+                             {
+                                 "id":  "2120805279185138080",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2120805279185138080",
+                                 "text":  "投稿した！アルバムの2曲目！🎀 だいすきHoneyWorks꒰⁔՞•⤙•՞⁔꒱💛 好きにさせたい💐 #星川サラ_ステラノート",
+                                 "published_at_jst":  "2026-11-12T18:05:55.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-12T23:50:02.2073234+09:00"
+                             },
+                             {
+                                 "id":  "2120804830713413791",
+                                 "url":  "https://x.com/nijisanji_app/status/2120804830713413791",
+                                 "text":  "【 #にじさんじデコラモード PART3 グッズ紹介①】 デコラテーマの撮りおろしビジュアルが楽しめるグッズをご紹介！ アクリルスタンドは、カラフルなクリアカラーデザイン！ ステッカーセットは、ライバーの複製手書きイラスト絵柄入り🖌️ ▼商品ページ shop.nijisanji.jp/TAG_1306",
+                                 "published_at_jst":  "2026-11-12T18:04:08.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-12T23:50:02.2073234+09:00"
+                             },
+                             {
+                                 "id":  "2120804561829183695",
+                                 "url":  "https://x.com/nijisanji_app/status/2120804561829183695",
+                                 "text":  "【 #にじさんじデコラモード PART3 グッズ詳細②】 皇れお、渚トラウト、緋八マナ それぞれのラインナップをご紹介！ グッズは11/13(金)18:00より販売開始✨",
+                                 "published_at_jst":  "2026-11-12T18:03:04.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-12T23:50:02.2073234+09:00"
+                             },
+                             {
+                                 "id":  "2120795792219021622",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2120795792219021622",
+                                 "text":  "おはよ！うにょ〜〜ん⊂( ᴖ ̫ᴖ)⊃ オリジナル画像プレゼント🎁のお知らせ⊂( ᴖ ̫ᴖ)⊃",
+                                 "published_at_jst":  "2026-11-12T17:28:14.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-12T23:50:02.2073234+09:00"
+                             },
                              {
                                  "id":  "2120713640555004306",
                                  "url":  "https://x.com/nijisanji_app/status/2120713640555004306",
@@ -134,76 +183,6 @@
                                  "text":  "🎬 ━━━ ℕ𝕠𝕨 𝕆𝕟 𝕊𝕥𝕒𝕘𝕖 ━━━ 🎬 七次元生徒会！『七次元回廊』 本日配信開始＆発売‼️ 🎶━━━━━━━━━━━━━🎶 🎧各音楽配信サイトはこちら🎧 accelnotes.lnk.to/nanajigenseito… 🌈 #にじストア でのご購入はこちら shop.nijisanji.jp/TAG_1002 💿CD詳細はこちら！ Show more",
                                  "published_at_jst":  "2026-11-11T00:00:13.0000000+09:00",
                                  "first_seen_at_jst":  "2026-11-11T07:50:02.1187434+09:00"
-                             },
-                             {
-                                 "id":  "2120139574144086455",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2120139574144086455",
-                                 "text":  "こらぼはじまるー！！ 【 #早瀬とサシ飲み再演 】早瀬走×星川サラ part.10",
-                                 "published_at_jst":  "2026-11-10T22:00:39.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-10T23:50:02.9908673+09:00"
-                             },
-                             {
-                                 "id":  "2120129623078109584",
-                                 "url":  "https://x.com/nijisanji_app/status/2120129623078109584",
-                                 "text":  "【にじさんじの「おかしなじかん」 次回予告🍬】 📅放送日時：11/24(火) 20:00〜 👤MC： #鷹宮リオン 👥ゲスト： #ぷりん・らら・もーど #ぽめろ・ぱんち 🔽ご視聴はこちら live.nicovideo.jp/watch/lv351753… お楽しみに❗️",
-                                 "published_at_jst":  "2026-11-10T21:21:06.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-10T23:50:02.9908673+09:00"
-                             },
-                             {
-                                 "id":  "2120129385906962528",
-                                 "url":  "https://x.com/nijisanji_app/status/2120129385906962528",
-                                 "text":  "にじさんじの「おかしなじかん」をご覧いただき、ありがとうございました🍬 🔽タイムシフト視聴期間は、11/24(火)23:59まで❗️ live.nicovideo.jp/watch/lv351628… 📺 #にじかし 無料パートアーカイブは、 11/24(火)にじさんじ公式YouTubeチャンネルへ投稿予定です✨",
-                                 "published_at_jst":  "2026-11-10T21:20:10.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-10T23:50:02.9908673+09:00"
-                             },
-                             {
-                                 "id":  "2120106755753705589",
-                                 "url":  "https://x.com/nijisanji_app/status/2120106755753705589",
-                                 "text":  "【にじさんじの「おかしなじかん」 このあと20時からスタート🍬】 番組の感想は、 #にじかし をつけてぜひ投稿してください❗️ 🔽ご視聴はこちら live.nicovideo.jp/watch/lv351628…",
-                                 "published_at_jst":  "2026-11-10T19:50:14.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-10T23:50:02.9908673+09:00"
-                             },
-                             {
-                                 "id":  "2120090255022034981",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2120090255022034981",
-                                 "text":  "うわご飯誘われたダルー( ´︵` )",
-                                 "published_at_jst":  "2026-11-10T18:44:40.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-10T23:50:02.9908673+09:00"
-                             },
-                             {
-                                 "id":  "2120087868442103890",
-                                 "url":  "https://x.com/nijisanji_app/status/2120087868442103890",
-                                 "text":  "🎬 ━━━ ℕ𝕠𝕨 𝕆𝕟 𝕊𝕥𝕒𝕘𝕖 ━━━ 🎬 七次元生徒会！『七次元回廊』 アドトラック走行中‼️ 🎶━━━━━━━━━━━━━🎶 七次元生徒会！『七次元回廊』の発売を記念して渋谷エリア\u0026日比谷周辺エリアにアドトラックが走行します🚚 お近くにお越しの際はぜひご確認ください💃🕺 Show more",
-                                 "published_at_jst":  "2026-11-10T18:35:11.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-10T23:50:02.9908673+09:00"
-                             },
-                             {
-                                 "id":  "2120086639464849722",
-                                 "url":  "https://x.com/nijisanji_app/status/2120086639464849722",
-                                 "text":  "🎬 ━━━ ℕ𝕠𝕨 𝕆𝕟 𝕊𝕥𝕒𝕘𝕖 ━━━ 🎬 七次元生徒会！『七次元回廊』 明日11月11日(水)発売‼️ 🎶━━━━━━━━━━━━━🎶 歌あり・寸劇あり・バラエティーありの全部盛り！七次元生徒会！らしさをぎゅっと詰め込んだ内容になっています🎁",
-                                 "published_at_jst":  "2026-11-10T18:30:18.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-10T23:50:02.9908673+09:00"
-                             },
-                             {
-                                 "id":  "2120079167400374505",
-                                 "url":  "https://x.com/nijisanji_app/status/2120079167400374505",
-                                 "text":  "【 #Dolly_Patchwork グッズ販売開始！】 小々波いるか、ソフィア・ヴァレンタイン、葉加瀬冬雪、先斗寧、御子神琴音、夕陽リリによる『Dolly Patchwork』グッズの販売を開始！ 商品ページ▼ shop.nijisanji.jp/TAG_1308",
-                                 "published_at_jst":  "2026-11-10T18:00:37.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-11T15:50:02.1941895+09:00"
-                             },
-                             {
-                                 "id":  "2120078426552016961",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2120078426552016961",
-                                 "text":  "こんちゃ〜꒰⁔՞•⤙•՞⁔꒱ 今日はらんねーちゃんとこでコラボ！ 星川はジュース飲むよ🍎✨️ 久々にらんねーちゃんとおしゃべり楽しみ◜. ̫.◝",
-                                 "published_at_jst":  "2026-11-10T17:57:40.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-10T23:50:02.9908673+09:00"
-                             },
-                             {
-                                 "id":  "2120055166745575748",
-                                 "url":  "https://x.com/Hoshikawa_sub/status/2120055166745575748",
-                                 "text":  "いつの間にかLINE送ったメッセージ編集できるようになってんだけど！！！！気付かなかった",
-                                 "published_at_jst":  "2026-11-10T16:25:15.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-10T23:50:02.9908673+09:00"
                              }
                          ],
     "undated_posts_unverified":  [
