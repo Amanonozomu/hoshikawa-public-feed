@@ -1,26 +1,26 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-11-13T07:50:01.6363463+09:00",
+    "collected_at_jst":  "2026-11-13T15:50:01.6670936+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-11-13T07:50:01.9512905+09:00",
+                         "checked_at_jst":  "2026-11-13T15:50:01.9421682+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-11-13T07:50:02.5915880+09:00",
+                         "checked_at_jst":  "2026-11-13T15:50:02.5696002+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-11-13T07:50:03.0753119+09:00",
+                         "checked_at_jst":  "2026-11-13T15:50:02.9532993+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
@@ -30,6 +30,34 @@
 
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2121079414729711672",
+                                 "url":  "https://x.com/nijisanji_app/status/2121079414729711672",
+                                 "text":  "【 #にじさんじエスコートボイス 再販決定！】 11/16(月)11:00から、にじさんじオフィシャルストアにて 「にじさんじ エスコートボイス」の再販売が決定いたしました！ にじストアはこちら▼ shop.nijisanji.jp 再販売されるボイスは「にじストアボイスアプリ」でも再生できます。 Show more",
+                                 "published_at_jst":  "2026-11-13T12:15:14.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-13T15:50:01.6670936+09:00"
+                             },
+                             {
+                                 "id":  "2121078146749567398",
+                                 "url":  "https://x.com/nijisanji_app/status/2121078146749567398",
+                                 "text":  "【🎂誕生日グッズ＆ボイス販売決定！】 クララ チャームウッド( @KlaraCharmwood )の誕生日を記念した『誕生日グッズ＆ボイス2026』 ＜ 11/20(金)12:00 ＞から、にじさんじオフィシャルストア にて販売決定！ shop.nijisanji.jp #にじストア #NIJISANJI_EN",
+                                 "published_at_jst":  "2026-11-13T12:10:12.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-13T15:50:01.6670936+09:00"
+                             },
+                             {
+                                 "id":  "2121076892782780638",
+                                 "url":  "https://x.com/nijisanji_app/status/2121076892782780638",
+                                 "text":  "【ボイスビジュアルカード 販売開始！】 にじさんじオフィシャルストア にて『 #にじさんじバディボイス 』『 #にじさんじよしよし全肯定ボイス 』ボイスビジュアルカードの販売を開始いたしました！ 販売ページはこちら▼ shop.nijisanji.jp/TAG_619 #にじストア",
+                                 "published_at_jst":  "2026-11-13T12:05:13.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-13T15:50:01.6670936+09:00"
+                             },
+                             {
+                                 "id":  "2121075687436194033",
+                                 "url":  "https://x.com/nijisanji_app/status/2121075687436194033",
+                                 "text":  "【 #にじさんじバディボイス ＆ #にじさんじよしよし全肯定ボイス 販売開始！】 本日11/13(金)より販売開始！ バディボイス▼ shop.nijisanji.jp/DIG_TAG_197 よしよし全肯定ボイス▼ shop.nijisanji.jp/DIG_TAG_198 ■販売期間 ～11/30(月)23:59まで",
+                                 "published_at_jst":  "2026-11-13T12:00:26.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-13T15:50:01.6670936+09:00"
+                             },
                              {
                                  "id":  "2120834889515958612",
                                  "url":  "https://x.com/nijisanji_app/status/2120834889515958612",
@@ -134,34 +162,6 @@
                                  "text":  "\"ค(,,\u003eࠏ\u003c,, )ﾊｲﾊｲ",
                                  "published_at_jst":  "2026-11-11T18:58:36.0000000+09:00",
                                  "first_seen_at_jst":  "2026-11-11T23:50:02.1998328+09:00"
-                             },
-                             {
-                                 "id":  "2120396143129682399",
-                                 "url":  "https://x.com/nijisanji_app/status/2120396143129682399",
-                                 "text":  "／ #もじさんじ 神永タイガ編！ 👀チラ見せあり👀 ＼ にじさんじ総合ファンクラブにて、 #神永タイガ ( @Taiga_Kaminaga )の「【もじさんじ】『俺の、宝物。』【神永タイガ】」が公開されました！ 「もじさんじ」はライバーの個性豊かなエッセイを楽しめるファンクラブ会員限定コンテンツです！ Show more",
-                                 "published_at_jst":  "2026-11-11T15:00:10.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-11T15:50:02.1941895+09:00"
-                             },
-                             {
-                                 "id":  "2120381069258301450",
-                                 "url":  "https://x.com/nijisanji_app/status/2120381069258301450",
-                                 "text":  "【イベント特設サイト更新のお知らせ】 対象イベントの特設サイトを更新しました。 詳細は特設サイトをご確認ください。 ▼更新内容 ・注意事項 祝い花(スタンド花／楽屋花)・プレゼント・応援のぼりについて ▼対象イベント ・フレン・E・ルスタリオ 1st LIVE “smilE” Show more",
-                                 "published_at_jst":  "2026-11-11T14:00:16.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-11T15:50:02.1941895+09:00"
-                             },
-                             {
-                                 "id":  "2120362580300779747",
-                                 "url":  "https://x.com/nijisanji_app/status/2120362580300779747",
-                                 "text":  "【ANYCOLOR MAGAZINE 記事公開！📰】 “なんでも屋“で”駆け込み寺“なグラフィックデザインチーム座談会 「にじたうん」「にじ甲」デザインの源泉に迫る 記事はこちら▼ magazine.anycolor.co.jp/articles/15641… #エニマガ のスクショ投稿時はURLの併記をお願いいたします📝",
-                                 "published_at_jst":  "2026-11-11T12:46:48.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-11T15:50:02.1941895+09:00"
-                             },
-                             {
-                                 "id":  "2120354625639625163",
-                                 "url":  "https://x.com/nijisanji_app/status/2120354625639625163",
-                                 "text":  "🎷- - - - - - - - - - - - - - - - - - - - - - ✦⁡⁡.⁺ #戌亥とこ_2ndライブ S席特典公開！ ⁺.✦⁡⁡ - - - - - - - - - - - - - - - - - - - - - 🎙 Inui Toko 2nd Solo Live “リスタート” S席特典はピックチャームキーホルダー✨️ Show more",
-                                 "published_at_jst":  "2026-11-11T12:15:11.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-11T15:50:02.1941895+09:00"
                              }
                          ],
     "undated_posts_unverified":  [
