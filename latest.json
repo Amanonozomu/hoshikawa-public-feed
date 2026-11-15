@@ -1,35 +1,56 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-11-15T15:50:01.6992834+09:00",
+    "collected_at_jst":  "2026-11-15T23:50:01.7199073+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-11-15T15:50:01.9854983+09:00",
+                         "checked_at_jst":  "2026-11-15T23:50:02.0780772+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-11-15T15:50:02.6300457+09:00",
+                         "checked_at_jst":  "2026-11-15T23:50:02.7830404+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-11-15T15:50:03.0466747+09:00",
+                         "checked_at_jst":  "2026-11-15T23:50:03.1664152+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      }
                  ],
     "recently_discovered_ids":  [
-                                    "2121816084856889790"
+                                    "2121936350618472858"
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2121936350618472858",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2121936350618472858",
+                                 "text":  "配信開始！",
+                                 "published_at_jst":  "2026-11-15T21:00:24.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-15T23:50:01.7199073+09:00"
+                             },
+                             {
+                                 "id":  "2121906055844176018",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2121906055844176018",
+                                 "text":  "🌟今日21:00 ⸝⸝ ⭑ 大型アプデきちゃ！？ 謎メンR.E.P.O.コラボおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおお！ youtube.com/live/ijdWnubbT…",
+                                 "published_at_jst":  "2026-11-15T19:00:01.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-15T23:50:01.7199073+09:00"
+                             },
+                             {
+                                 "id":  "2121898497255588274",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2121898497255588274",
+                                 "text":  "投稿したよ🩵アルバムの5曲目！ ㄘʓ〜🫶🏻夜景見ながら聴きたい( ᵒ̴̶̷̥́◡ ᵒ̴̶̷̣̥̀⸝⸝) Love L∞p🎀 #星川サラ_ステラノート youtube.com/shorts/5b3EQy6…",
+                                 "published_at_jst":  "2026-11-15T18:29:59.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-15T23:50:01.7199073+09:00"
+                             },
                              {
                                  "id":  "2121816084856889790",
                                  "url":  "https://x.com/Sara_Hoshikawa/status/2121816084856889790",
@@ -99,76 +120,6 @@
                                  "text":  "🌟今日12:00 ⸝⸝ ⭑ おはよ！！！！！！！！！ 完全初見！魔法少女ノ魔女裁判！ 今日からまのさばやるぞおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおお！ youtube.com/live/q4zDz6yXU…",
                                  "published_at_jst":  "2026-11-14T10:30:00.0000000+09:00",
                                  "first_seen_at_jst":  "2026-11-14T15:50:01.7697117+09:00"
-                             },
-                             {
-                                 "id":  "2121241587695120535",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2121241587695120535",
-                                 "text":  "コラボはじまるよお！！！！💓 【星川サラに聞いてみた】理想の恋人クリエイト配信【星川サラ\u0026健屋花那/にじさんじ】",
-                                 "published_at_jst":  "2026-11-13T22:59:39.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-13T23:50:21.9434976+09:00"
-                             },
-                             {
-                                 "id":  "2121226986819625159",
-                                 "url":  "https://x.com/Hoshikawa_sub/status/2121226986819625159",
-                                 "text":  "steam版買っちゃってた；教えてくれてありがとう",
-                                 "published_at_jst":  "2026-11-13T22:01:38.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-13T23:50:21.9434976+09:00"
-                             },
-                             {
-                                 "id":  "2121225966311940364",
-                                 "url":  "https://x.com/Hoshikawa_sub/status/2121225966311940364",
-                                 "text":  "まのさばってsteamとswitchどっちおすすめ？",
-                                 "published_at_jst":  "2026-11-13T21:57:35.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-13T23:50:21.9434976+09:00"
-                             },
-                             {
-                                 "id":  "2121214388262846662",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2121214388262846662",
-                                 "text":  "今日はここ！❤️‍🩹 すこちゃんと恋バナするよ〜꒰⁔՞•⤙•՞⁔꒱ 理想の恋人クリエイトシートおもしろそー！！！",
-                                 "published_at_jst":  "2026-11-13T21:11:35.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-13T23:50:21.9434976+09:00"
-                             },
-                             {
-                                 "id":  "2121198907229356175",
-                                 "url":  "https://x.com/nijisanji_app/status/2121198907229356175",
-                                 "text":  "【🎉ハ ユン 3Dお披露目配信は本日21:00！】 いよいよ本日は、ハ ユン( @HaYun2434 )の3Dお披露目配信日！ ≪11/13(金)21:00～≫ 配信開始！！ 🎮🦭待機所はこちら▽ youtube.com/live/zo_aAXasJ… お見逃しなく！ #ハユン3D #にじさんじ3Dお披露目",
-                                 "published_at_jst":  "2026-11-13T20:10:04.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-13T23:50:21.9434976+09:00"
-                             },
-                             {
-                                 "id":  "2121197928115265671",
-                                 "url":  "https://x.com/nijisanji_app/status/2121197928115265671",
-                                 "text":  "6名のドタバタ乱闘、いかがでしたか？ ▼本日の配信はこちら youtube.com/live/qRGrYQauS… #ロクフリにじさんじ",
-                                 "published_at_jst":  "2026-11-13T20:06:10.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-13T23:50:21.9434976+09:00"
-                             },
-                             {
-                                 "id":  "2121196573715816861",
-                                 "url":  "https://x.com/nijisanji_app/status/2121196573715816861",
-                                 "text":  "【 #にじクイ 次回は11/19(木)20時！】 次回のにじクイは… #あやかき と #Speciale がクイズで激突！🔥 果たして勝利をつかむのはどちらのチームだ！？ \u003c\u003c 11/19(木)20時 \u003e\u003eプレミア公開！お楽しみに！",
-                                 "published_at_jst":  "2026-11-13T20:00:47.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-13T23:50:21.9434976+09:00"
-                             },
-                             {
-                                 "id":  "2121181469360157063",
-                                 "url":  "https://x.com/nijisanji_app/status/2121181469360157063",
-                                 "text":  "【PARALLEL CASE: 2434 CASE 02 公開中】 ソフィア・ヴァレンタイン、七瀬すず菜、社築が登場する 第四境界とのコラボARGコンテンツ第二弾 『CASE 02：ソフィア・ヴァレンタインの記録』のEPISODE 01は無料でお楽しみいただけます parallelcase-2434.net/case/case02/",
-                                 "published_at_jst":  "2026-11-13T19:00:46.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-13T23:50:21.9434976+09:00"
-                             },
-                             {
-                                 "id":  "2121167377639563727",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2121167377639563727",
-                                 "text":  "投稿したよ🎀アルバムの3曲目！ めーっちゃ耳に残る楽しい曲; ⩊ ;💛 Cheeky Wink🎶 #星川サラ_ステラノート",
-                                 "published_at_jst":  "2026-11-13T18:04:46.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-13T23:50:21.9434976+09:00"
-                             },
-                             {
-                                 "id":  "2121166417559183572",
-                                 "url":  "https://x.com/nijisanji_app/status/2121166417559183572",
-                                 "text":  "【 #にじさんじデコラモード PART3 グッズ販売開始！】 にじさんじオフィシャルストアにて 伊波ライ、宇佐美リト、城瀬いすみ、皇れお、渚トラウト、緋八マナによる 『にじさんじデコラモード PART3』グッズの販売を開始！ 商品ページ▼ shop.nijisanji.jp/TAG_1306",
-                                 "published_at_jst":  "2026-11-13T18:00:57.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-13T23:50:21.9434976+09:00"
                              }
                          ],
     "undated_posts_unverified":  [
