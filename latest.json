@@ -1,35 +1,77 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-11-16T15:50:01.7043741+09:00",
+    "collected_at_jst":  "2026-11-16T23:50:01.7240635+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-11-16T15:50:01.9824669+09:00",
+                         "checked_at_jst":  "2026-11-16T23:50:02.0646639+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-11-16T15:50:02.6370735+09:00",
+                         "checked_at_jst":  "2026-11-16T23:50:02.7492604+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-11-16T15:50:03.0416811+09:00",
+                         "checked_at_jst":  "2026-11-16T23:50:03.2658449+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      }
                  ],
     "recently_discovered_ids":  [
-                                    "2122217785422123248"
+                                    "2122298693114281989"
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2122298693114281989",
+                                 "url":  "https://x.com/nijisanji_app/status/2122298693114281989",
+                                 "text":  "【 #椎名唯華 新3Dお披露目ライブ 開催決定！👻】 椎名唯華( @yuika_siina )の新3Dお披露目ライブの開催が決定しました！ 11/23(月・祝)20:00～全編無料にてお届けします！ ▼会場はこちら youtube.com/live/VWrRUzsq6… #椎名新3Dお披露目",
+                                 "published_at_jst":  "2026-11-16T21:00:13.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-16T23:50:01.7240635+09:00"
+                             },
+                             {
+                                 "id":  "2122279780808900945",
+                                 "url":  "https://x.com/nijisanji_app/status/2122279780808900945",
+                                 "text":  "【 #ぷちさんじ 】最新話を公開📺 子供の頃の恥ずかしい思い出を語る早乙女ベリー【漫画】 @Saotome_Berry ▼YouTubeはコチラ youtube.com/shorts/Vw2U-f0…",
+                                 "published_at_jst":  "2026-11-16T19:45:04.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-16T23:50:01.7240635+09:00"
+                             },
+                             {
+                                 "id":  "2122267197594890399",
+                                 "url":  "https://x.com/nijisanji_app/status/2122267197594890399",
+                                 "text":  "まもなく「くろのわーるがなんかやる」放送開始！ 詳細は引用元をチェック！👀 #くろなん",
+                                 "published_at_jst":  "2026-11-16T18:55:04.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-16T23:50:01.7240635+09:00"
+                             },
+                             {
+                                 "id":  "2122262302728802698",
+                                 "url":  "https://x.com/nijisanji_app/status/2122262302728802698",
+                                 "text":  "次回の「超!VOLTACTION」情報！ 詳細は引用元をチェック！👀 #超ヴォルタ",
+                                 "published_at_jst":  "2026-11-16T18:35:37.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-16T23:50:01.7240635+09:00"
+                             },
+                             {
+                                 "id":  "2122253457826644001",
+                                 "url":  "https://x.com/nijisanji_app/status/2122253457826644001",
+                                 "text":  "【にじさんじフロッキーマスコットシリーズ#2 販売決定！】 11/17(火)18:00より、にじストアにて ほっとする触れ心地で癒やしを届ける『にじさんじフロッキーマスコットシリーズ#2』の販売が決定！ 詳細はツリーをチェック！ #にじフロシリーズ",
+                                 "published_at_jst":  "2026-11-16T18:00:28.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-16T23:50:01.7240635+09:00"
+                             },
+                             {
+                                 "id":  "2122238251494719512",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2122238251494719512",
+                                 "text":  "🌟今日19:00 ⸝⸝ ⭑ 完全初見のFate/Grand Order！ 第2部1章！永久凍土帝国アナスタシア⛄ パツシィ大丈夫か・・・そしてイヴァン雷帝は今どんな状態なんだろう・・・ youtube.com/live/soo9jGtdg…",
+                                 "published_at_jst":  "2026-11-16T17:00:03.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-16T23:50:01.7240635+09:00"
+                             },
                              {
                                  "id":  "2122217785422123248",
                                  "url":  "https://x.com/Hoshikawa_sub/status/2122217785422123248",
@@ -106,41 +148,6 @@
                                  "text":  "🌟今日13:00 ⸝⸝ ⭑ おはよ〜〜ꪔ̤̮🩵💛 完全初見！魔法少女ノ魔女裁判！ まのさば、初めての操作パート＆裁判いくぞおおおおおおおおおおおおおおおおおおおおおꪔ̤̮ˊ˗ youtube.com/live/RZiSqRBBp…",
                                  "published_at_jst":  "2026-11-15T11:31:21.0000000+09:00",
                                  "first_seen_at_jst":  "2026-11-15T15:50:01.6992834+09:00"
-                             },
-                             {
-                                 "id":  "2121589620282733032",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2121589620282733032",
-                                 "text":  "配信開始！ふぁいなるっ",
-                                 "published_at_jst":  "2026-11-14T22:02:37.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-14T23:50:01.7148329+09:00"
-                             },
-                             {
-                                 "id":  "2121568836218695688",
-                                 "url":  "https://x.com/nijisanji_app/status/2121568836218695688",
-                                 "text":  "【🎉イ ロハ 3Dお披露目配信決定🎉】 イ ロハ( @RohaLee2434 )の3Dお披露目配信日が決定いたしました！ ≪11/20(金)21:00～≫ 配信開始！！ 🚀待機所はこちら▽ youtube.com/live/n_UA1fk8D… お見逃しなく！ #宇宙アイドル3D #にじさんじ3Dお披露目",
-                                 "published_at_jst":  "2026-11-14T20:40:02.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-14T23:50:01.7148329+09:00"
-                             },
-                             {
-                                 "id":  "2121544304112083208",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2121544304112083208",
-                                 "text":  "投稿したよ🎀アルバムの4曲目！ 抱きしめていておねがいっ꒰ ྀི ∩⸝⸝∩ ꒱ おねがい💛 #星川サラ_ステラノート youtube.com/shorts/du5nB1u…",
-                                 "published_at_jst":  "2026-11-14T19:02:33.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-14T23:50:01.7148329+09:00"
-                             },
-                             {
-                                 "id":  "2121543749289509043",
-                                 "url":  "https://x.com/nijisanji_app/status/2121543749289509043",
-                                 "text":  "【📢 #にじさんじハロウィンゾンビボイス 販売期間のお知らせ】 夢追翔、町田ちま、黒井しば、長尾景、オリバー・エバンスの 「ハロウィンゾンビボイス」 販売期間は＜ 明日11/15(日)23:59 ＞ まで！ 販売ページはこちら！▼ shop.nijisanji.jp/DIG_TAG_196 サンプルボイスも公開中！ #にじストア",
-                                 "published_at_jst":  "2026-11-14T19:00:20.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-14T23:50:01.7148329+09:00"
-                             },
-                             {
-                                 "id":  "2121543185893896579",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2121543185893896579",
-                                 "text":  "🌟今日22:00 ⸝⸝ ⭑ 進撃の巨人🎀アニメ同時視聴！ 今日からThe Final Season！ いくぞおおおおおおお(*ु╹▿╹)*ु⁾⁾ youtube.com/live/88ShsTnX6…",
-                                 "published_at_jst":  "2026-11-14T18:58:06.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-14T23:50:01.7148329+09:00"
                              }
                          ],
     "undated_posts_unverified":  [
