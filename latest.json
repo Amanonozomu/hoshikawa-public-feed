@@ -1,35 +1,79 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-11-19T15:50:01.7129999+09:00",
+    "collected_at_jst":  "2026-11-19T23:50:01.6692113+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-11-19T15:50:01.9995004+09:00",
+                         "checked_at_jst":  "2026-11-19T23:50:01.9298999+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-11-19T15:50:02.6957864+09:00",
+                         "checked_at_jst":  "2026-11-19T23:50:02.6536346+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-11-19T15:50:03.1093799+09:00",
+                         "checked_at_jst":  "2026-11-19T23:50:03.0727695+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      }
                  ],
     "recently_discovered_ids":  [
-
+                                    "2123401373094236606",
+                                    "2123393380898263488",
+                                    "2123400931350028337"
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2123401373094236606",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2123401373094236606",
+                                 "text":  "提出物に追われている今日配信休み！👊🏻",
+                                 "published_at_jst":  "2026-11-19T22:01:52.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-19T23:50:01.6692113+09:00"
+                             },
+                             {
+                                 "id":  "2123400931350028337",
+                                 "url":  "https://x.com/nijisanji_app/status/2123400931350028337",
+                                 "text":  "【🎉 #フミ 3Dミニライブ開催決定！🎉】 フミが主催する3Dミニライブの開催が決定✨ 所属の垣根を超えて、フミと『スキ』が一緒なゲストを交えて楽しく歌います🎤🫶💕 「スキがいっしょ！フミ3D MINI LIVE」 ▼ゲスト 社築 一条莉々華（hololive ReGLOSS） 英リサ（ぶいすぽっ！） Show more",
+                                 "published_at_jst":  "2026-11-19T22:00:07.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-19T23:50:01.6692113+09:00"
+                             },
+                             {
+                                 "id":  "2123393380898263488",
+                                 "url":  "https://x.com/nijisanji_app/status/2123393380898263488",
+                                 "text":  "#にじクイ ご視聴ありがとうございました！ あやかきの新メンバー？ ▼今回の放送はこちら youtu.be/z1x3u1zphh0 さらに！ご褒美食事の様子とアフタートークがメンバーシップにて公開！！ ▼メンバーシップ限定動画はこちら youtu.be/jO6CAXoHe1o Show more",
+                                 "published_at_jst":  "2026-11-19T21:30:07.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-19T23:50:01.6692113+09:00"
+                             },
+                             {
+                                 "id":  "2123370936800084162",
+                                 "url":  "https://x.com/nijisanji_app/status/2123370936800084162",
+                                 "text":  "【 #UnitSelectionCalendar 2027 グッズ再販について】 11/19(木)17:00より販売開始した『Unit Selection Calendar 2027』グッズについて、 ご好評につき、現在一部商品が完売しております。 完売中の商品は在庫追加を検討しておりますので、続報をお待ちくださいませ。 #にじストア",
+                                 "published_at_jst":  "2026-11-19T20:00:56.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-19T23:50:01.6692113+09:00"
+                             },
+                             {
+                                 "id":  "2123368200087982307",
+                                 "url":  "https://x.com/nijisanji_app/status/2123368200087982307",
+                                 "text":  "【 #にじクイ このあと20時プレミア公開】 あやかき vs Speciale！クイズで激突💥 白熱の対決をお見逃しなく！ ▼配信はこちら youtu.be/z1x3u1zphh0",
+                                 "published_at_jst":  "2026-11-19T19:50:03.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-19T23:50:01.6692113+09:00"
+                             },
+                             {
+                                 "id":  "2123343279370764381",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2123343279370764381",
+                                 "text":  "💛short投稿したよ❤️ 地味にフレンと2人でショート撮るの初めて💭 お互いソロライブに向けて準備頑張ってるよ〜〜〜！！ദി- ̫ -) trust me🫵🏻 youtube.com/shorts/gBkyzG4…",
+                                 "published_at_jst":  "2026-11-19T18:11:02.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-19T23:50:01.6692113+09:00"
+                             },
                              {
                                  "id":  "2123257528477962339",
                                  "url":  "https://x.com/nijisanji_app/status/2123257528477962339",
@@ -113,69 +157,6 @@
                                  "text":  "🎷- - - - - - - - - - - - - - - - - - - - - - ✦⁡⁡.⁺ #戌亥とこ_2ndライブ シリアル先行抽選情報🎫 ⁺.✦⁡⁡ - - - - - - - - - - - - - - - - - - - - - 🎙 戌亥とこ 2nd Mini Album『One day』 チケットシリアル先行抽選のお申し込みは、 \u003e\u003e本日11月18日(水)23:59まで！\u003c\u003c ♪￤お申し込み eplus.jp/inuitoko/sp/ ♪￤特設サイト nijisanji.jp/events/inui_re… #戌亥とこ",
                                  "published_at_jst":  "2026-11-18T12:02:45.0000000+09:00",
                                  "first_seen_at_jst":  "2026-11-18T15:50:01.6852469+09:00"
-                             },
-                             {
-                                 "id":  "2122646007217545285",
-                                 "url":  "https://x.com/nijisanji_app/status/2122646007217545285",
-                                 "text":  "【 #にじクイ 11/19(木)20時プレミア公開】 #あやかき と #Speciale がクイズで激突！🔥 果たして勝利をつかむのはどちらのチームだ！？ ▼待機所はこちら！ youtu.be/z1x3u1zphh0",
-                                 "published_at_jst":  "2026-11-17T20:00:19.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-17T23:50:01.6278318+09:00"
-                             },
-                             {
-                                 "id":  "2122643431373807740",
-                                 "url":  "https://x.com/nijisanji_app/status/2122643431373807740",
-                                 "text":  "まもなく「超!VOLTACTION」放送開始！ 詳細は引用元をチェック！👀 #超ヴォルタ",
-                                 "published_at_jst":  "2026-11-17T19:50:05.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-17T23:50:01.6278318+09:00"
-                             },
-                             {
-                                 "id":  "2122638381511262591",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2122638381511262591",
-                                 "text":  "🌟今日21:00 ⸝⸝ ⭑ MIMESISに大型アプデが来たらしい！ やま、長尾、ネスくんとミメシスやるぞおおおおおおおおおおおおおおおおお！ 配信ｺｺ🔗 youtube.com/live/PP8CRbp2L…",
-                                 "published_at_jst":  "2026-11-17T19:30:01.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-17T23:50:01.6278318+09:00"
-                             },
-                             {
-                                 "id":  "2122633388993712405",
-                                 "url":  "https://x.com/nijisanji_app/status/2122633388993712405",
-                                 "text":  "【にじたうん もけもけますこっと に 販売決定！☁】 11/18(水)19:00より にじストア にて、 もけもけな姿の #にじたうん の住人のグッズ『にじたうん もけもけますこっと に』の販売が決定しました！ 詳細はツリーをチェック！",
-                                 "published_at_jst":  "2026-11-17T19:10:11.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-17T23:50:01.6278318+09:00"
-                             },
-                             {
-                                 "id":  "2122630949490106445",
-                                 "url":  "https://x.com/nijisanji_app/status/2122630949490106445",
-                                 "text":  "【にじたうんぐっず に 販売決定！🐾】 11/18(水)19:00より にじストア にて、 ぷりてぃな #にじたうん のグッズ『にじたうんぐっず に』の販売が決定しました！ 詳細はツリーをチェック！",
-                                 "published_at_jst":  "2026-11-17T19:00:29.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-17T23:50:01.6278318+09:00"
-                             },
-                             {
-                                 "id":  "2122630042580873536",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2122630042580873536",
-                                 "text":  "🎀short投稿したよ🎀 たまにちゃんと！甘やかしてべいびーっ Cheeky Wink踊ってみたよ！✨️ 振り付け可愛い〜〜〜！♡ ﾁｷ(ง ˘ω˘ )วﾁｷ youtube.com/shorts/SvrUyZe…",
-                                 "published_at_jst":  "2026-11-17T18:56:53.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-17T23:50:01.6278318+09:00"
-                             },
-                             {
-                                 "id":  "2122615844534673821",
-                                 "url":  "https://x.com/nijisanji_app/status/2122615844534673821",
-                                 "text":  "【にじさんじフロッキーマスコットシリーズ#2 グッズ販売開始！】 にじさんじオフィシャルストアにて『にじさんじフロッキーマスコットシリーズ#2』グッズの販売を開始！ ▼商品ページ shop.nijisanji.jp/TAG_1312 #にじフロシリーズ",
-                                 "published_at_jst":  "2026-11-17T18:00:28.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-17T23:50:01.6278318+09:00"
-                             },
-                             {
-                                 "id":  "2122588326658236794",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2122588326658236794",
-                                 "text":  "昨日投稿した🎀アルバムの最後の曲！ 星くずへの想いを詰め込んだ曲ꪔ̤̮🤍 Lumina🌙 #星川サラ_ステラノート",
-                                 "published_at_jst":  "2026-11-17T16:11:07.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-17T23:50:01.6278318+09:00"
-                             },
-                             {
-                                 "id":  "2122587928669106595",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2122587928669106595",
-                                 "text":  "おはよ〜〜👊🏻(^_^♪) なんだかモケモケした星川が出るらしい",
-                                 "published_at_jst":  "2026-11-17T16:09:32.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-17T23:50:01.6278318+09:00"
                              }
                          ],
     "undated_posts_unverified":  [
