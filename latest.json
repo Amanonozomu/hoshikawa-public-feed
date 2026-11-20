@@ -1,39 +1,77 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-11-20T15:50:01.6752105+09:00",
+    "collected_at_jst":  "2026-11-20T23:50:01.6767539+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-11-20T15:50:02.0173119+09:00",
+                         "checked_at_jst":  "2026-11-20T23:50:01.9592220+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-11-20T15:50:02.6614040+09:00",
+                         "checked_at_jst":  "2026-11-20T23:50:02.7247171+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-11-20T15:50:03.0961704+09:00",
+                         "checked_at_jst":  "2026-11-20T23:50:03.2787464+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      }
                  ],
     "recently_discovered_ids":  [
-                                    "2123627495924875351",
-                                    "2123627680734347361",
-                                    "2123628684338934172",
-                                    "2123642662616187372",
-                                    "2123665190848012465"
+                                    "2123770860448403716"
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2123770860448403716",
+                                 "url":  "https://x.com/nijisanji_app/status/2123770860448403716",
+                                 "text":  "【🦅 #鷹宮リオン 3D音楽ライブ開催決定🎉】 鷹宮リオンYouTubeチャンネルにて、NEO kawaii ~ファン大感謝祭~ 3Dライブ配信が決定！ 全編無料でお届けします！✨ ▼開催日時 11/28(土)21:00～ ▼待機所 youtube.com/live/wU6oJQEn6… #Neokawaii鷹宮3DLIVE",
+                                 "published_at_jst":  "2026-11-20T22:30:05.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-20T23:50:01.6767539+09:00"
+                             },
+                             {
+                                 "id":  "2123733278230565205",
+                                 "url":  "https://x.com/nijisanji_app/status/2123733278230565205",
+                                 "text":  "【🎉イ ロハ 3Dお披露目配信は本日21:00！】 いよいよ本日は、イ ロハ( @RohaLee2434 )の3Dお披露目配信日！ ≪11/20(金)21:00～≫ 配信開始！！ 🚀待機所はこちら▽ youtube.com/live/n_UA1fk8D… お見逃しなく！ #宇宙アイドル3D #にじさんじ3Dお披露目",
+                                 "published_at_jst":  "2026-11-20T20:00:45.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-20T23:50:01.6767539+09:00"
+                             },
+                             {
+                                 "id":  "2123726815709790662",
+                                 "url":  "https://x.com/nijisanji_app/status/2123726815709790662",
+                                 "text":  "新モンスター「アラケータ」との激闘の結末は！？ 気になる人は動画をチェック！ youtu.be/VvPLFE_Kl9c #ロクフリにじさんじ",
+                                 "published_at_jst":  "2026-11-20T19:35:04.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-20T23:50:01.6767539+09:00"
+                             },
+                             {
+                                 "id":  "2123718513886122006",
+                                 "url":  "https://x.com/nijisanji_app/status/2123718513886122006",
+                                 "text":  "【 #にじさんじよしよし全肯定ボイス 販売中！】 #にじストア にて販売中の「よしよし全肯定ボイス」 販売期間は＜ 11/30(月)23:59 ＞まで！ よしよし全肯定ボイス▼ shop.nijisanji.jp/DIG_TAG_198 「セリフボイス」では共通のセリフ数パターンの中から、 ライバーが好きなセリフを選んで収録しています。 Show more",
+                                 "published_at_jst":  "2026-11-20T19:02:05.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-20T23:50:01.6767539+09:00"
+                             },
+                             {
+                                 "id":  "2123718072360214916",
+                                 "url":  "https://x.com/nijisanji_app/status/2123718072360214916",
+                                 "text":  "【 #にじさんじバディボイス 販売中！】 #にじストア にて販売中の「バディボイス」 販売期間は＜ 11/30(月)23:59 ＞まで！ 販売ページはこちら▼ shop.nijisanji.jp/DIG_TAG_197 キービジュアルライバーのあらすじをご紹介！",
+                                 "published_at_jst":  "2026-11-20T19:00:19.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-20T23:50:01.6767539+09:00"
+                             },
+                             {
+                                 "id":  "2123705522553790913",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2123705522553790913",
+                                 "text":  "🌠short投稿したよ🌠 今日からまほよの映画公開だあああああああああってことで、星空の下で撮りましたᴗ ̫ ᴗ🎶 圧倒的☆スター星踊った🌟 youtube.com/shorts/1QZcjfT…",
+                                 "published_at_jst":  "2026-11-20T18:10:27.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-20T23:50:01.6767539+09:00"
+                             },
                              {
                                  "id":  "2123665190848012465",
                                  "url":  "https://x.com/nijisanji_app/status/2123665190848012465",
@@ -180,34 +218,6 @@
                                  "text":  "【🫖ボカロP #榊ネス 初のオリジナル楽曲デジタル配信開始🌿】 榊ネス自身が作詞作曲を手がけた初のボカロ曲 「とっておきの一撃を！ (feat. 初音ミク)」 本日11/19(木)より各種音楽配信サイトにて配信開始いたしました！ ▼配信ページはこちら linkco.re/Gvs1h8Zz",
                                  "published_at_jst":  "2026-11-19T00:00:09.0000000+09:00",
                                  "first_seen_at_jst":  "2026-11-19T07:50:01.7091954+09:00"
-                             },
-                             {
-                                 "id":  "2123013368948908127",
-                                 "url":  "https://x.com/nijisanji_app/status/2123013368948908127",
-                                 "text":  "🌈7️⃣ #にじなな ショート動画公開！ 2026年12月26日(土)発売！ #NIJISANJI7ColorsCardGame ブースターパック COLORS IGNITION 虹の幕開け 「石神のぞみ」のカードをご紹介！ ぜひ動画をチェックしてください！ ▼動画はこちら youtube.com/shorts/sqwnUBD… #PR",
-                                 "published_at_jst":  "2026-11-18T20:20:05.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-18T23:50:01.6501034+09:00"
-                             },
-                             {
-                                 "id":  "2123012106232676743",
-                                 "url":  "https://x.com/nijisanji_app/status/2123012106232676743",
-                                 "text":  "🌈7️⃣ #にじなな ショート動画公開！ 2026年12月26日(土)発売！ #NIJISANJI7ColorsCardGame ブースターパック COLORS IGNITION 虹の幕開け 「でびでび・でびる」のカードをご紹介！ ぜひ動画をチェックしてください！ ▼動画はこちら youtube.com/shorts/qan7UO3… #PR",
-                                 "published_at_jst":  "2026-11-18T20:15:04.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-18T23:50:01.6501034+09:00"
-                             },
-                             {
-                                 "id":  "2123010881038713214",
-                                 "url":  "https://x.com/nijisanji_app/status/2123010881038713214",
-                                 "text":  "────── ˖ ⋆⊹ ᧔🎠᧓ ⊹⋆ ˖ ────── #フレン_ファセット Pre-add / Pre-saveキャンペーン開始🎉 ─────────────────── ご応募くださった方全員に「オリジナル画像(通常盤 Ver.)」をプレゼント✨ 応募方法は、下記の応募フォームもしくは添付画像をチェック👀✨ Show more",
-                                 "published_at_jst":  "2026-11-18T20:10:12.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-18T23:50:01.6501034+09:00"
-                             },
-                             {
-                                 "id":  "2123009603550232882",
-                                 "url":  "https://x.com/nijisanji_app/status/2123009603550232882",
-                                 "text":  "『モンスターハンターワイルズ：アセンダンス』先行プレイ！！ 春崎エアル\u0026五十嵐梨花とともに強敵に挑む！ テオ・テスカトルを討伐することはできるのか！？ #ロクフリにじさんじ \u003c\u003c 11/20(金)19時 \u003e\u003eプレミア公開！ youtu.be/VvPLFE_Kl9c",
-                                 "published_at_jst":  "2026-11-18T20:05:07.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-18T23:50:01.6501034+09:00"
                              }
                          ],
     "undated_posts_unverified":  [
