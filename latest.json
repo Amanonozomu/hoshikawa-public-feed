@@ -1,35 +1,95 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-11-20T07:50:01.9469274+09:00",
+    "collected_at_jst":  "2026-11-20T15:50:01.6752105+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-11-20T07:50:02.4919612+09:00",
+                         "checked_at_jst":  "2026-11-20T15:50:02.0173119+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-11-20T07:50:03.2669914+09:00",
+                         "checked_at_jst":  "2026-11-20T15:50:02.6614040+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-11-20T07:50:03.7634105+09:00",
+                         "checked_at_jst":  "2026-11-20T15:50:03.0961704+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      }
                  ],
     "recently_discovered_ids":  [
-
+                                    "2123627495924875351",
+                                    "2123627680734347361",
+                                    "2123628684338934172",
+                                    "2123642662616187372",
+                                    "2123665190848012465"
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2123665190848012465",
+                                 "url":  "https://x.com/nijisanji_app/status/2123665190848012465",
+                                 "text":  "【にじさんじの「おかしなじかん」第2回 11/24(火)20時~お便り募集🍬】 #にじかし 第2回の出演者は #鷹宮リオン #ぷりん・らら・もーど #ぽめろ・ぱんち 視聴者の皆様から「”ゆめかわ”に解決してほしいお悩み」を大募集！ ▼11/23(月・祝)23:59まで！お便りはこちらから forms.gle/pB65cT8fpu8ZJb…",
+                                 "published_at_jst":  "2026-11-20T15:30:11.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-20T15:50:01.6752105+09:00"
+                             },
+                             {
+                                 "id":  "2123642662616187372",
+                                 "url":  "https://x.com/nijisanji_app/status/2123642662616187372",
+                                 "text":  "【 #にじさんじLリーグ 明日11/21(土)13時から！】 明日は「にじさんじ麻雀杯 Lリーグ」本戦🀄️ プロ雀士の教えを受けたライバーたちの闘牌を見逃すな！ ▼待機所はこちら🀄️ youtube.com/live/kW1XMA0As… 応援や感想は【 #にじさんじLリーグ 】でポスト📣",
+                                 "published_at_jst":  "2026-11-20T14:00:40.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-20T15:50:01.6752105+09:00"
+                             },
+                             {
+                                 "id":  "2123628684338934172",
+                                 "url":  "https://x.com/nijisanji_app/status/2123628684338934172",
+                                 "text":  "新モンスター\u0026古龍に大絶叫！ 「アラケータ」と「テオ・テスカトル」を狩猟せよ！ 新アクションに全員大興奮！！ #ロクフリにじさんじ \u003c\u003c 本日11/20(金)19時 \u003e\u003eプレミア公開！ youtu.be/VvPLFE_Kl9c",
+                                 "published_at_jst":  "2026-11-20T13:05:08.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-20T15:50:01.6752105+09:00"
+                             },
+                             {
+                                 "id":  "2123627680734347361",
+                                 "url":  "https://x.com/nijisanji_app/status/2123627680734347361",
+                                 "text":  "✧˙⁎⋆┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ にじさんじ Girls Idol Festival 〜虹をつないで、未来を見つけて〜 チケット情報！ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈⋆⁎˙✧ にじさんじ Girls Idol Festival 〜虹をつないで、未来を見つけて〜 Show more",
+                                 "published_at_jst":  "2026-11-20T13:01:08.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-20T15:50:01.6752105+09:00"
+                             },
+                             {
+                                 "id":  "2123627495924875351",
+                                 "url":  "https://x.com/nijisanji_app/status/2123627495924875351",
+                                 "text":  "✧˙⁎⋆┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ #PR にじさんじ Girls Idol Festival 〜虹をつないで、未来を見つけて〜 PRカード情報！ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈⋆⁎˙✧ 2026年12月26日(土)発売！ #NIJISANJI7ColorsCardGame にじさんじ Girls Idol Festival Show more",
+                                 "published_at_jst":  "2026-11-20T13:00:24.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-20T15:50:01.6752105+09:00"
+                             },
+                             {
+                                 "id":  "2123622104402919890",
+                                 "url":  "https://x.com/Hoshikawa_sub/status/2123622104402919890",
+                                 "text":  "1日2回もおはようするな",
+                                 "published_at_jst":  "2026-11-20T12:38:59.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-20T15:50:01.6752105+09:00"
+                             },
+                             {
+                                 "id":  "2123619844449001952",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2123619844449001952",
+                                 "text":  "おはよ～～！嬉しいお知らせ！🎀 なんと！12月29日（火）からスイパラさんとのコラボが開催します！ コラボカフェの予約は11月25日（水）0時からスタート👀 超うれしい！みんなぜひ来てねーーーー！🍰✨ 🧡詳細はこちら sweets-paradise.jp/collaboration/… #にじパラとお正月 #スイパラ #PR",
+                                 "published_at_jst":  "2026-11-20T12:30:00.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-20T15:50:01.6752105+09:00"
+                             },
+                             {
+                                 "id":  "2123613499536630009",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2123613499536630009",
+                                 "text":  "おはよ〜〜！ ̖́- 3日休み続いててごめんよ！！！ 今日もがんばろーっ👊🏻ᴗ ̫ ᴗ♩",
+                                 "published_at_jst":  "2026-11-20T12:04:47.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-20T15:50:01.6752105+09:00"
+                             },
                              {
                                  "id":  "2123401373094236606",
                                  "url":  "https://x.com/Sara_Hoshikawa/status/2123401373094236606",
@@ -148,20 +208,6 @@
                                  "text":  "『モンスターハンターワイルズ：アセンダンス』先行プレイ！！ 春崎エアル\u0026五十嵐梨花とともに強敵に挑む！ テオ・テスカトルを討伐することはできるのか！？ #ロクフリにじさんじ \u003c\u003c 11/20(金)19時 \u003e\u003eプレミア公開！ youtu.be/VvPLFE_Kl9c",
                                  "published_at_jst":  "2026-11-18T20:05:07.0000000+09:00",
                                  "first_seen_at_jst":  "2026-11-18T23:50:01.6501034+09:00"
-                             },
-                             {
-                                 "id":  "2122888786501837214",
-                                 "url":  "https://x.com/nijisanji_app/status/2122888786501837214",
-                                 "text":  "【🎂誕生日グッズ＆ボイス販売決定！】 小柳ロウ( @Rou_2434 )の誕生日を記念した『誕生日グッズ＆ボイス2026』 ＜ 11/25(水)18:00 ＞から、にじさんじオフィシャルストア にて販売決定！ shop.nijisanji.jp #にじストア",
-                                 "published_at_jst":  "2026-11-18T12:05:02.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-18T15:50:01.6852469+09:00"
-                             },
-                             {
-                                 "id":  "2122888211320230355",
-                                 "url":  "https://x.com/nijisanji_app/status/2122888211320230355",
-                                 "text":  "🎷- - - - - - - - - - - - - - - - - - - - - - ✦⁡⁡.⁺ #戌亥とこ_2ndライブ シリアル先行抽選情報🎫 ⁺.✦⁡⁡ - - - - - - - - - - - - - - - - - - - - - 🎙 戌亥とこ 2nd Mini Album『One day』 チケットシリアル先行抽選のお申し込みは、 \u003e\u003e本日11月18日(水)23:59まで！\u003c\u003c ♪￤お申し込み eplus.jp/inuitoko/sp/ ♪￤特設サイト nijisanji.jp/events/inui_re… #戌亥とこ",
-                                 "published_at_jst":  "2026-11-18T12:02:45.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-18T15:50:01.6852469+09:00"
                              }
                          ],
     "undated_posts_unverified":  [
