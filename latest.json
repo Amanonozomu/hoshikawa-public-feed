@@ -1,35 +1,56 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-11-21T15:50:01.8373416+09:00",
+    "collected_at_jst":  "2026-11-21T23:50:01.7343940+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-11-21T15:50:02.3136684+09:00",
+                         "checked_at_jst":  "2026-11-21T23:50:02.0549380+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-11-21T15:50:03.1020762+09:00",
+                         "checked_at_jst":  "2026-11-21T23:50:02.8148310+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-11-21T15:50:03.5252592+09:00",
+                         "checked_at_jst":  "2026-11-21T23:50:03.2674457+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      }
                  ],
     "recently_discovered_ids":  [
-                                    "2123990815932613066"
+                                    "2124110727900536925"
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2124110727900536925",
+                                 "url":  "https://x.com/nijisanji_app/status/2124110727900536925",
+                                 "text":  "【 #にじさんじLリーグ 終了！】 「にじさんじ麻雀杯 Lリーグ2026」ご視聴ありがとうございました！ 優勝チームは #ピンクモルガナイト ！！ おめでとうございます🎉 ▼本日のアーカイブはこちら youtube.com/live/kW1XMA0As…",
+                                 "published_at_jst":  "2026-11-21T21:00:36.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-21T23:50:01.7343940+09:00"
+                             },
+                             {
+                                 "id":  "2124103525089313220",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2124103525089313220",
+                                 "text":  "なんとーー！来週末、リオン様の3Dライブに出演させていただきますᴗ ̫ ᴗ💛 呼んでもらえて嬉しい！サムネ可愛すぎる！！！全力でkawaiiがんばるぞ🥹🎀",
+                                 "published_at_jst":  "2026-11-21T20:31:58.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-21T23:50:01.7343940+09:00"
+                             },
+                             {
+                                 "id":  "2124055922809147712",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2124055922809147712",
+                                 "text":  "🩵short投稿したよ💛 廊下の次は屋上で踊ってみた🎶 ちきちき〜〜めっちゃ可愛い曲ᴗ ̫ ᴗ🎀 最後ﾋﾟｮｺってる|• •๑)\" youtube.com/shorts/LdPivAY…",
+                                 "published_at_jst":  "2026-11-21T17:22:49.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-21T23:50:01.7343940+09:00"
+                             },
                              {
                                  "id":  "2123990815932613066",
                                  "url":  "https://x.com/Sara_Hoshikawa/status/2123990815932613066",
@@ -169,55 +190,6 @@
                                  "text":  "おはよ〜〜！ ̖́- 3日休み続いててごめんよ！！！ 今日もがんばろーっ👊🏻ᴗ ̫ ᴗ♩",
                                  "published_at_jst":  "2026-11-20T12:04:47.0000000+09:00",
                                  "first_seen_at_jst":  "2026-11-20T15:50:01.6752105+09:00"
-                             },
-                             {
-                                 "id":  "2123401373094236606",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2123401373094236606",
-                                 "text":  "提出物に追われている今日配信休み！👊🏻",
-                                 "published_at_jst":  "2026-11-19T22:01:52.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-19T23:50:01.6692113+09:00"
-                             },
-                             {
-                                 "id":  "2123400931350028337",
-                                 "url":  "https://x.com/nijisanji_app/status/2123400931350028337",
-                                 "text":  "【🎉 #フミ 3Dミニライブ開催決定！🎉】 フミが主催する3Dミニライブの開催が決定✨ 所属の垣根を超えて、フミと『スキ』が一緒なゲストを交えて楽しく歌います🎤🫶💕 「スキがいっしょ！フミ3D MINI LIVE」 ▼ゲスト 社築 一条莉々華（hololive ReGLOSS） 英リサ（ぶいすぽっ！） Show more",
-                                 "published_at_jst":  "2026-11-19T22:00:07.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-19T23:50:01.6692113+09:00"
-                             },
-                             {
-                                 "id":  "2123393380898263488",
-                                 "url":  "https://x.com/nijisanji_app/status/2123393380898263488",
-                                 "text":  "#にじクイ ご視聴ありがとうございました！ あやかきの新メンバー？ ▼今回の放送はこちら youtu.be/z1x3u1zphh0 さらに！ご褒美食事の様子とアフタートークがメンバーシップにて公開！！ ▼メンバーシップ限定動画はこちら youtu.be/jO6CAXoHe1o Show more",
-                                 "published_at_jst":  "2026-11-19T21:30:07.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-19T23:50:01.6692113+09:00"
-                             },
-                             {
-                                 "id":  "2123370936800084162",
-                                 "url":  "https://x.com/nijisanji_app/status/2123370936800084162",
-                                 "text":  "【 #UnitSelectionCalendar 2027 グッズ再販について】 11/19(木)17:00より販売開始した『Unit Selection Calendar 2027』グッズについて、 ご好評につき、現在一部商品が完売しております。 完売中の商品は在庫追加を検討しておりますので、続報をお待ちくださいませ。 #にじストア",
-                                 "published_at_jst":  "2026-11-19T20:00:56.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-19T23:50:01.6692113+09:00"
-                             },
-                             {
-                                 "id":  "2123368200087982307",
-                                 "url":  "https://x.com/nijisanji_app/status/2123368200087982307",
-                                 "text":  "【 #にじクイ このあと20時プレミア公開】 あやかき vs Speciale！クイズで激突💥 白熱の対決をお見逃しなく！ ▼配信はこちら youtu.be/z1x3u1zphh0",
-                                 "published_at_jst":  "2026-11-19T19:50:03.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-19T23:50:01.6692113+09:00"
-                             },
-                             {
-                                 "id":  "2123366955533160473",
-                                 "url":  "https://x.com/nijisanji_app/status/2123366955533160473",
-                                 "text":  "【 #ぷちさんじ 】最新話を公開📺 全く余裕じゃない小柳ロウのホラーゲーム実況【漫画】 @Rou_2434 ▼YouTubeはコチラ youtube.com/shorts/myhX4It…",
-                                 "published_at_jst":  "2026-11-19T19:45:07.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-20T07:50:01.9469274+09:00"
-                             },
-                             {
-                                 "id":  "2123343279370764381",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2123343279370764381",
-                                 "text":  "💛short投稿したよ❤️ 地味にフレンと2人でショート撮るの初めて💭 お互いソロライブに向けて準備頑張ってるよ〜〜〜！！ദി- ̫ -) trust me🫵🏻 youtube.com/shorts/gBkyzG4…",
-                                 "published_at_jst":  "2026-11-19T18:11:02.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-19T23:50:01.6692113+09:00"
                              }
                          ],
     "undated_posts_unverified":  [
