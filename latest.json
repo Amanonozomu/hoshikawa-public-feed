@@ -1,26 +1,26 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-11-26T23:50:01.6696220+09:00",
+    "collected_at_jst":  "2026-11-27T07:50:01.7241552+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-11-26T23:50:01.9411883+09:00",
+                         "checked_at_jst":  "2026-11-27T07:50:02.0179283+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-11-26T23:50:02.6631080+09:00",
+                         "checked_at_jst":  "2026-11-27T07:50:02.6733990+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-11-26T23:50:03.1200172+09:00",
+                         "checked_at_jst":  "2026-11-27T07:50:03.1364043+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
@@ -218,20 +218,6 @@
                                  "text":  "✦ ──── ˖ ࣪ ⊹ ˚ ✧₊ 🌟 ₊✧ ˚ ⊹ ࣪ ˖ ──── ✦ #星川サラ_ステラノート 本日発売 本人・楽曲クリエイターコメント到着💐 各種デジタルキャンペーンも開始！ ────── ˖ ⋆⊹ ˖✧ ᧔᧓ ✧˖ ⊹⋆ ˖ ────── 星川サラ 2ndミニアルバム『Stella Note』が Show more",
                                  "published_at_jst":  "2026-11-25T11:00:22.0000000+09:00",
                                  "first_seen_at_jst":  "2026-11-25T15:50:01.7426424+09:00"
-                             },
-                             {
-                                 "id":  "2125360311578354017",
-                                 "url":  "https://x.com/Sara_Hoshikawa/status/2125360311578354017",
-                                 "text":  "おはよう！！！！！！！！🩵🩷 今日！！！！！！星川の2ndミニアルバム発売日だあああああああああああああああああああああああああああああああああ！！！！！！！✨",
-                                 "published_at_jst":  "2026-11-25T07:46:00.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-25T07:50:01.8612179+09:00"
-                             },
-                             {
-                                 "id":  "2125253139280589192",
-                                 "url":  "https://x.com/nijisanji_app/status/2125253139280589192",
-                                 "text":  "にじさんじのB級バラエティ(仮)』第124回、ありがとうございました。 124回目で11月24日放送だったので、これ書いてて何度か脳がバグりかけました。 次回は＜12/8(火)24:00＞放送予定！お楽しみに！ ▽今回の放送はこちら youtu.be/T-Z_GDK4WD0 #にじバラ仮",
-                                 "published_at_jst":  "2026-11-25T00:40:08.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-25T07:50:01.8612179+09:00"
                              }
                          ],
     "undated_posts_unverified":  [
