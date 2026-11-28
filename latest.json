@@ -1,35 +1,57 @@
 {
     "schema_version":  1,
-    "collected_at_jst":  "2026-11-28T07:50:01.7125972+09:00",
+    "collected_at_jst":  "2026-11-28T15:50:01.7888946+09:00",
     "first_successful_run_baseline":  false,
     "retrieval":  "Windows ordinary HTTPS GET; only publicly visible content; incomplete coverage",
     "accounts":  [
                      {
                          "profile":  "https://x.com/Sara_Hoshikawa",
-                         "checked_at_jst":  "2026-11-28T07:50:01.9838273+09:00",
+                         "checked_at_jst":  "2026-11-28T15:50:02.1457411+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/Hoshikawa_sub",
-                         "checked_at_jst":  "2026-11-28T07:50:02.6706588+09:00",
+                         "checked_at_jst":  "2026-11-28T15:50:02.9160277+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      },
                      {
                          "profile":  "https://x.com/nijisanji_app",
-                         "checked_at_jst":  "2026-11-28T07:50:03.0671881+09:00",
+                         "checked_at_jst":  "2026-11-28T15:50:03.4022151+09:00",
                          "http_status":  200,
                          "state":  "posts_with_text",
                          "posts_with_text":  5
                      }
                  ],
     "recently_discovered_ids":  [
-
+                                    "2126559519220384201",
+                                    "2126556802867421247"
                                 ],
     "recent_posts_48h":  [
+                             {
+                                 "id":  "2126559519220384201",
+                                 "url":  "https://x.com/Sara_Hoshikawa/status/2126559519220384201",
+                                 "text":  "おはよ〜〜^ _ ̫ _^ 🤍💛",
+                                 "published_at_jst":  "2026-11-28T15:11:13.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-28T15:50:01.7888946+09:00"
+                             },
+                             {
+                                 "id":  "2126556802867421247",
+                                 "url":  "https://x.com/nijisanji_app/status/2126556802867421247",
+                                 "text":  "【 #Dolly_Patchwork 販売中！】 寒い冬にピッタリの 温かみのあるアイテムが盛りだくさん！ ただいまにじストアにて販売中！ 商品ページ▼ shop.nijisanji.jp/TAG_1308",
+                                 "published_at_jst":  "2026-11-28T15:00:25.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-28T15:50:01.7888946+09:00"
+                             },
+                             {
+                                 "id":  "2126519012473585795",
+                                 "url":  "https://x.com/nijisanji_app/status/2126519012473585795",
+                                 "text":  "#FAC2RS 本日初配信！ 📮 ━・━・━・━・━ ✉ 本日、11/28(土)20:00から初配信開始！ リュール・ファクトゥール( @Lueur_Facteur ) ロビュスト・ファクトゥール( @Robuste_Facteur ) 待機所： youtube.com/live/ouiIAmLKf… ※FAC2RS(ファクトゥールズ)YouTubeチャンネル「リュールとロビュスト -Facteur Show more",
+                                 "published_at_jst":  "2026-11-28T12:30:16.0000000+09:00",
+                                 "first_seen_at_jst":  "2026-11-28T15:50:01.7888946+09:00"
+                             },
                              {
                                  "id":  "2126272375243292886",
                                  "url":  "https://x.com/nijisanji_app/status/2126272375243292886",
@@ -183,20 +205,6 @@
                                  "text":  "おはよ！ ソロライブのシリアル先行抽選はじまったぞおおおおおおおおおおおおおおおおおおおおおおおおおおおおお(*ु╹▿╹)*ु⁾⁾",
                                  "published_at_jst":  "2026-11-26T17:29:27.0000000+09:00",
                                  "first_seen_at_jst":  "2026-11-26T23:50:01.6696220+09:00"
-                             },
-                             {
-                                 "id":  "2125794259291017614",
-                                 "url":  "https://x.com/nijisanji_app/status/2125794259291017614",
-                                 "text":  "本日、19時より「木7!ろふまお塾」放送！ 詳細は引用元をチェック！👀 #ろふまお塾",
-                                 "published_at_jst":  "2026-11-26T12:30:21.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-26T15:50:01.8172564+09:00"
-                             },
-                             {
-                                 "id":  "2125787100100599976",
-                                 "url":  "https://x.com/nijisanji_app/status/2125787100100599976",
-                                 "text":  "🌈7️⃣ #にじなな 明日11月27日(金)12:00より抽選受付開始！ 2026年12月26日(土)発売の 「NIJISANJI 7 Colors Card Game」 ブースターパック第1弾＆スターターデッキ4種の抽選販売を、にじさんじオフィシャルストアにて実施！ ▼応募期間 11月27日(金)12:00 ～ 11月29日(日)23:59 Show more",
-                                 "published_at_jst":  "2026-11-26T12:01:54.0000000+09:00",
-                                 "first_seen_at_jst":  "2026-11-26T15:50:01.8172564+09:00"
                              }
                          ],
     "undated_posts_unverified":  [
